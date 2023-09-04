@@ -173,5 +173,117 @@
 		</colorGenerator>
 	</ThingDef>
 
+	<!--Anneli_Ahmislan_SolleretsA-->
+	<ThingDef ParentName="Anneli_Ahmislan_2C_Metal">
+		<defName>Anneli_Ahmislan_SolleretsA</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)2C_SolleretsA</label>
+		<graphicData>
+			<texPath>2C/Anneli_Ahmislan_SolleretsA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Ahmislan_SolleretsA</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<layers>
+				<li>Anneli_Knee</li><!--Cannot equip knee pads-->
+			</layers>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_SolleretsB-->
+	<ThingDef ParentName="Anneli_Ahmislan_2C_Metal">
+		<defName>Anneli_Ahmislan_SolleretsB</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)2C_SolleretsB</label>
+		<graphicData>
+			<texPath>2C/Anneli_Ahmislan_SolleretsB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Ahmislan_SolleretsB</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<layers>
+				<li>Anneli_Knee</li><!--Cannot equip knee pads-->
+			</layers>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_LongSolleretsA-->
+	<ThingDef ParentName="Anneli_Ahmislan_2C_Metal">
+		<defName>Anneli_Ahmislan_LongSolleretsA</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)2C_LongSolleretsA</label>
+		<graphicData>
+			<texPath>2C/Anneli_Ahmislan_LongSolleretsA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Ahmislan_LongSolleretsA</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<layers>
+				<li>Anneli_Knee</li><!--Cannot equip knee pads-->
+			</layers>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_LongSolleretsB-->
+	<ThingDef ParentName="Anneli_Ahmislan_2C_Metal">
+		<defName>Anneli_Ahmislan_LongSolleretsB</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)2C_LongSolleretsB</label>
+		<graphicData>
+			<texPath>2C/Anneli_Ahmislan_LongSolleretsB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Ahmislan_LongSolleretsB</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<layers>
+				<li>Anneli_Knee</li><!--Cannot equip knee pads-->
+			</layers>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
 
 </Defs>
