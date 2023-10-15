@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Apron</defName>
+		<originalDef>Anneli_Ahmislan_Apron</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Apron</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.6402, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.6402, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.6402, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.6402, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_BlacksmithApron</defName>
+		<originalDef>Anneli_Ahmislan_BlacksmithApron</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_BlacksmithApron</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.7689, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.7689, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.7689, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.7689, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Jacket</defName>
+		<originalDef>Anneli_Ahmislan_Jacket</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Jacket</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.7689, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.7689, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.7689, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.7689, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Overdress</defName>
+		<originalDef>Anneli_Ahmislan_Overdress</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Overdress</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.7689, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.7689, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.7689, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.7689, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_RuffledVest</defName>
+		<originalDef>Anneli_Ahmislan_RuffledVest</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_RuffledVest</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.7689, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.7689, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.7689, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.7689, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_ShortApron</defName>
+		<originalDef>Anneli_Ahmislan_ShortApron</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_ShortApron</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.7689, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.7689, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.7689, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.7689, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Tunic</defName>
+		<originalDef>Anneli_Ahmislan_Tunic</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Tunic</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.7689, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.7689, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.7689, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.7689, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Vest</defName>
+		<originalDef>Anneli_Ahmislan_Vest</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Vest</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.7689, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.7689, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.7689, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.7689, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+</Defs>

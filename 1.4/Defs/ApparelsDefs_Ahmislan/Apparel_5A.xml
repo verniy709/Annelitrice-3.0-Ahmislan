@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<ThingDef Name="Anneli_Ahmislan_1C" ParentName="Anneli_1C" Abstract="True">
-		<equippedStatOffsets>
-		</equippedStatOffsets>
+	<ThingDef Name="Anneli_Ahmislan_5A" ParentName="Anneli_5A" Abstract="True">
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>
 		</thingCategories>
@@ -14,19 +12,18 @@
 		</recipeMaker>
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_Socks-->
-	<ThingDef ParentName="Anneli_Ahmislan_1C">
-		<defName>Anneli_Ahmislan_Socks</defName>
+	<!--Anneli_Ahmislan_CloakA-->
+	<ThingDef ParentName="Anneli_Ahmislan_5A">
+		<defName>Anneli_Ahmislan_CloakA</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)1C_Socks</label>
+		<label>(Ahmislan)5A_CloakA</label>
 		<graphicData>
-			<texPath>1C/Anneli_Ahmislan_Socks</texPath>
+			<texPath>5A/Anneli_Ahmislan_CloakA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Ahmislan_Socks</wornGraphicPath>
+			<wornGraphicPath>5A/Anneli_Ahmislan_CloakA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -34,25 +31,25 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_Stockings-->
-	<ThingDef ParentName="Anneli_Ahmislan_1C">
-		<defName>Anneli_Ahmislan_Stockings</defName>
+	<!--Anneli_Ahmislan_CloakB-->
+	<ThingDef ParentName="Anneli_Ahmislan_5A">
+		<defName>Anneli_Ahmislan_CloakB</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)1C_Stockings</label>
+		<label>(Ahmislan)5A_CloakB</label>
 		<graphicData>
-			<texPath>1C/Anneli_Ahmislan_Stockings</texPath>
+			<texPath>5A/Anneli_Ahmislan_CloakB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Ahmislan_Stockings</wornGraphicPath>
+			<wornGraphicPath>5A/Anneli_Ahmislan_CloakB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -60,25 +57,25 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_RuffledStockings-->
-	<ThingDef ParentName="Anneli_Ahmislan_1C">
-		<defName>Anneli_Ahmislan_RuffledStockings</defName>
+	<!--Anneli_Ahmislan_BustleA-->
+	<ThingDef ParentName="Anneli_Ahmislan_5A">
+		<defName>Anneli_Ahmislan_BustleA</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)1C_RuffledStockings</label>
+		<label>(Ahmislan)5A_BustleA</label>
 		<graphicData>
-			<texPath>1C/Anneli_Ahmislan_RuffledStockings</texPath>
+			<texPath>5A/Anneli_Ahmislan_BustleA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Ahmislan_RuffledStockings</wornGraphicPath>
+			<wornGraphicPath>5A/Anneli_Ahmislan_BustleA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -86,25 +83,25 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_LegGarter-->
-	<ThingDef ParentName="Anneli_Ahmislan_1C">
-		<defName>Anneli_Ahmislan_LegGarter</defName>
+	<!--Anneli_Ahmislan_BustleB-->
+	<ThingDef ParentName="Anneli_Ahmislan_5A">
+		<defName>Anneli_Ahmislan_BustleB</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)1C_LegGarter</label>
+		<label>(Ahmislan)5A_BustleB</label>
 		<graphicData>
-			<texPath>1C/Anneli_Ahmislan_LegGarter</texPath>
+			<texPath>5A/Anneli_Ahmislan_BustleB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Ahmislan_LegGarter</wornGraphicPath>
+			<wornGraphicPath>5A/Anneli_Ahmislan_BustleB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -112,25 +109,25 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_ToelessSocksA-->
-	<ThingDef ParentName="Anneli_Ahmislan_1C">
-		<defName>Anneli_Ahmislan_ToelessSocksA</defName>
+	<!--Anneli_Ahmislan_ShortCape-->
+	<ThingDef ParentName="Anneli_Ahmislan_5A">
+		<defName>Anneli_Ahmislan_ShortCape</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)1C_ToelessSocksA</label>
+		<label>(Ahmislan)5A_ShortCape</label>
 		<graphicData>
-			<texPath>1C/Anneli_Ahmislan_ToelessSocksA</texPath>
+			<texPath>5A/Anneli_Ahmislan_ShortCape</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Ahmislan_ToelessSocksA</wornGraphicPath>
+			<wornGraphicPath>5A/Anneli_Ahmislan_ShortCape</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -138,25 +135,25 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_ToelessSocksB-->
-	<ThingDef ParentName="Anneli_Ahmislan_1C">
-		<defName>Anneli_Ahmislan_ToelessSocksB</defName>
+	<!--Anneli_Ahmislan_ShoulderWrap-->
+	<ThingDef ParentName="Anneli_Ahmislan_5A">
+		<defName>Anneli_Ahmislan_ShoulderWrap</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)1C_ToelessSocksB</label>
+		<label>(Ahmislan)5A_ShoulderWrap</label>
 		<graphicData>
-			<texPath>1C/Anneli_Ahmislan_ToelessSocksB</texPath>
+			<texPath>5A/Anneli_Ahmislan_ShoulderWrap</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Ahmislan_ToelessSocksB</wornGraphicPath>
+			<wornGraphicPath>5A/Anneli_Ahmislan_ShoulderWrap</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -164,10 +161,11 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
-		
+
 </Defs>

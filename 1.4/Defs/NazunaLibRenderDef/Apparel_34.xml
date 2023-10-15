@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_ArmorA</defName>
+		<originalDef>Anneli_Ahmislan_ArmorA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>34/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_ArmorA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34</textureLevelsName>
+				<drawOffsetSouth>(0, 1.96195, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.96195, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.96195, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.96195, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_ArmorB</defName>
+		<originalDef>Anneli_Ahmislan_ArmorB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>34/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_ArmorB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34</textureLevelsName>
+				<drawOffsetSouth>(0, 1.96195, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.96195, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.96195, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.96195, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_ArmorC</defName>
+		<originalDef>Anneli_Ahmislan_ArmorC</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>34/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_ArmorC</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34</textureLevelsName>
+				<drawOffsetSouth>(0, 1.96195, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.96195, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.96195, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.96195, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_ArmorD</defName>
+		<originalDef>Anneli_Ahmislan_ArmorD</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>34/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_ArmorD</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel34</textureLevelsName>
+				<drawOffsetSouth>(0, 1.96195, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.96195, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.96195, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.96195, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+</Defs>
