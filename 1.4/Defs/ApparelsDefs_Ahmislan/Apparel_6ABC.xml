@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Ahmislan_6ABC_NonMetal" ParentName="Anneli_6ABC_NonMetal" Abstract="True">
+		<equippedStatOffsets>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Ahmislan_6ABC_Metal" ParentName="Anneli_6ABC_Metal" Abstract="True">
+		<equippedStatOffsets>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_CloseHelmA-->
+	<ThingDef ParentName="Anneli_Ahmislan_6ABC_Metal">
+		<defName>Anneli_Ahmislan_CloseHelmA</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)6ABC_CloseHelmA</label>
+		<graphicData>
+			<texPath>6ABC/Anneli_Ahmislan_CloseHelmA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmA</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_CloseHelmB-->
+	<ThingDef ParentName="Anneli_Ahmislan_6ABC_Metal">
+		<defName>Anneli_Ahmislan_CloseHelmB</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)6ABC_CloseHelmB</label>
+		<graphicData>
+			<texPath>6ABC/Anneli_Ahmislan_CloseHelmB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmB</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_CloseHelmC-->
+	<ThingDef ParentName="Anneli_Ahmislan_6ABC_Metal">
+		<defName>Anneli_Ahmislan_CloseHelmC</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)6ABC_CloseHelmC</label>
+		<graphicData>
+			<texPath>6ABC/Anneli_Ahmislan_CloseHelmC</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmC</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

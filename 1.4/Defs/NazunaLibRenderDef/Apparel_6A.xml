@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Beret</defName>
+		<originalDef>Anneli_Ahmislan_Beret</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Beret</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Bonnet</defName>
+		<originalDef>Anneli_Ahmislan_Bonnet</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Bonnet</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Coif</defName>
+		<originalDef>Anneli_Ahmislan_Coif</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Coif</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_FlowerCrown</defName>
+		<originalDef>Anneli_Ahmislan_FlowerCrown</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_FlowerCrown</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_HairbandA</defName>
+		<originalDef>Anneli_Ahmislan_HairbandA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_HairbandA</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_HairbandB</defName>
+		<originalDef>Anneli_Ahmislan_HairbandB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_HairbandB</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_HunterHat</defName>
+		<originalDef>Anneli_Ahmislan_HunterHat</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_HunterHat</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Mantilla</defName>
+		<originalDef>Anneli_Ahmislan_Mantilla</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Mantilla</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Ahmislan_Mantilla</li>
+				</prefix>
+				<renderLayer>BottomOverlay</renderLayer>
+				<textureLevelsName>Anneli_BottomOverlay6A</textureLevelsName>
+				<drawOffsetSouth>(0, -1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, -1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, -1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, -1, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_NunVeil</defName>
+		<originalDef>Anneli_Ahmislan_NunVeil</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_NunVeil</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Ahmislan_NunVeil</li>
+				</prefix>
+				<renderLayer>BottomOverlay</renderLayer>
+				<textureLevelsName>Anneli_BottomOverlay6A</textureLevelsName>
+				<drawOffsetSouth>(0, -1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, -1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, -1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, -1, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_StrawHat</defName>
+		<originalDef>Anneli_Ahmislan_StrawHat</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_StrawHat</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Ahmislan_StrawHat</li>
+				</prefix>
+				<renderLayer>BottomOverlay</renderLayer>
+				<textureLevelsName>Anneli_BottomOverlay6A</textureLevelsName>
+				<drawOffsetSouth>(0, -1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, -1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, -1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, -1, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Bascinet</defName>
+		<originalDef>Anneli_Ahmislan_Bascinet</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Bascinet</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_CrownA</defName>
+		<originalDef>Anneli_Ahmislan_CrownA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_CrownA</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_CrownB</defName>
+		<originalDef>Anneli_Ahmislan_CrownB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_CrownB</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_CrownC</defName>
+		<originalDef>Anneli_Ahmislan_CrownC</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_CrownC</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_HelmA</defName>
+		<originalDef>Anneli_Ahmislan_HelmA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_HelmA</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_HelmB</defName>
+		<originalDef>Anneli_Ahmislan_HelmB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_HelmB</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_HelmC</defName>
+		<originalDef>Anneli_Ahmislan_HelmC</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_HelmC</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_KettleHelm</defName>
+		<originalDef>Anneli_Ahmislan_KettleHelm</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_KettleHelm</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>
