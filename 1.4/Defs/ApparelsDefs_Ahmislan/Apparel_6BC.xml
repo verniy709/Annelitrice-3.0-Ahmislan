@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Ahmislan_6BC_NonMetal" ParentName="Anneli_6BC_NonMetal" Abstract="True">
+		<equippedStatOffsets>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Ahmislan_6BC_Metal" ParentName="Anneli_6BC_Metal" Abstract="True">
+		<equippedStatOffsets>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_MasqueradeMask-->
+	<ThingDef ParentName="Anneli_Ahmislan_6BC_NonMetal">
+		<defName>Anneli_Ahmislan_MasqueradeMask</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)6BC_MasqueradeMask</label>
+		<graphicData>
+			<texPath>6BC/Anneli_Ahmislan_MasqueradeMask</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<forceRenderUnderHair>false</forceRenderUnderHair><!-- under hair -->
+			<wornGraphicPath>6BC/Anneli_Ahmislan_MasqueradeMask</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_NoseGuard-->
+	<ThingDef ParentName="Anneli_Ahmislan_6BC_Metal">
+		<defName>Anneli_Ahmislan_NoseGuard</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)6BC_NoseGuard</label>
+		<graphicData>
+			<texPath>6BC/Anneli_Ahmislan_NoseGuard</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6BC/Anneli_Ahmislan_NoseGuard</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+		
+</Defs>

@@ -93,6 +93,15 @@
         <li>Anneli_Ahmislan_CloseHelmA</li>
         <li>Anneli_Ahmislan_CloseHelmB</li>
         <li>Anneli_Ahmislan_CloseHelmC</li>
+        <li>Anneli_Ahmislan_Mask</li>
+        <li>Anneli_Ahmislan_Veil</li>
+        <li>Anneli_Ahmislan_MasqueradeMask</li>
+        <li>Anneli_Ahmislan_NoseGuard</li>
+        <li>Anneli_Ahmislan_Backpack</li>
+        <li>Anneli_Ahmislan_Bascket</li>
+        <li>Anneli_Ahmislan_Sack</li>
+        <li>Anneli_Ahmislan_CrystalWing</li>
+        <li>Anneli_Ahmislan_SwordWing</li>
       </value>
     </match>
   </Operation>
