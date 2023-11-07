@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<AlienRace.RaceSettings>
+		<defName>Anneli_Ahmislan_Settings</defName>
+		<pawnKindSettings>		
+			<alienslavekinds>
+				<!-- To Do  -->
+			</alienslavekinds>
+
+			<alienwandererkinds>
+				<li>
+					<pawnKindEntries>
+						<!-- To Do  -->
+					</pawnKindEntries>
+					<factionDefs>
+						<li>Anneli_Faction_Player</li> 
+					</factionDefs>
+				</li>
+			</alienwandererkinds>
+
+			<alienrefugeekinds>
+				<!-- To Do  -->
+			</alienrefugeekinds>
+
+			<startingColonists>
+				<li>
+					<pawnKindEntries>
+						<!-- To Do  -->
+					</pawnKindEntries>
+					<factionDefs>
+						<li>Anneli_Faction_Player</li>
+					</factionDefs>
+				</li>
+			</startingColonists>
+		</pawnKindSettings>
+	</AlienRace.RaceSettings>
+
+</Defs>
