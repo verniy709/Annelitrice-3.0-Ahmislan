@@ -26,20 +26,11 @@
         </statBases>
         <tools>
             <li>
-                <label>base</label>
+                <label>head</label>
                 <capacities>
                     <li>Poke</li>
                 </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-            <li>
-                <label>centre</label>
-                <labelUsedInLogging>false</labelUsedInLogging>
-                <capacities>
-                    <li>Blunt</li>
-                </capacities>
-                <power>9</power>
+                <power>10</power>
                 <cooldownTime>2</cooldownTime>
             </li>
         </tools>
@@ -107,11 +98,16 @@
             <drawSize>0.85</drawSize>
         </graphicData>
         <comps>
+            <li Class="Annelitrice.CompProperties_ApparelHediffGiver">
+                <hediffDef>Anneli_Aura_Zeal</hediffDef>        
+                <severityIncrease>0.2</severityIncrease>  
+                <radius>15</radius>                         
+            </li>
             <li Class="VFECore.CompProperties_Shield">
                 <shieldTags>
                     <li>Ahmislan_Banner</li>
                 </shieldTags>
-                <useDeflectMetalEffect>true</useDeflectMetalEffect>
+                <useDeflectMetalEffect>false</useDeflectMetalEffect>
                 <coveredBodyPartGroups>
                     <li>Neck</li>
                     <li>Torso</li>
@@ -165,11 +161,16 @@
             <drawSize>0.85</drawSize>
         </graphicData>
         <comps>
+            <li Class="Annelitrice.CompProperties_ApparelHediffGiver">
+                <hediffDef>Anneli_Aura_Nobility</hediffDef>        
+                <severityIncrease>0.2</severityIncrease>  
+                <radius>15</radius>                         
+            </li>
             <li Class="VFECore.CompProperties_Shield">
                 <shieldTags>
                     <li>Ahmislan_WarFlag</li>
                 </shieldTags>
-                <useDeflectMetalEffect>true</useDeflectMetalEffect>
+                <useDeflectMetalEffect>false</useDeflectMetalEffect>
                 <coveredBodyPartGroups>
                     <li>Neck</li>
                     <li>Torso</li>

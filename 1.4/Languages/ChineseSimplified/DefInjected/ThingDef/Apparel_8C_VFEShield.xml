@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Ahmislan_HeaterShield -->
+
+  <Anneli_Ahmislan_HeaterShield.label>(艾米斯兰)8C_盾牌</Anneli_Ahmislan_HeaterShield.label>
+  <Anneli_Ahmislan_HeaterShield.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_HeaterShield.description>
+  <Anneli_Ahmislan_HeaterShield.tools.0.label>盾牌底部</Anneli_Ahmislan_HeaterShield.tools.0.label>
+  <Anneli_Ahmislan_HeaterShield.tools.1.label>盾牌</Anneli_Ahmislan_HeaterShield.tools.1.label>
+
+
+  <!-- Anneli_Ahmislan_KiteShield -->
+
+  <Anneli_Ahmislan_KiteShield.label>(艾米斯兰)8C_筝形盾</Anneli_Ahmislan_KiteShield.label>
+  <Anneli_Ahmislan_KiteShield.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_KiteShield.description>
+  <Anneli_Ahmislan_KiteShield.tools.0.label>盾牌底部</Anneli_Ahmislan_KiteShield.tools.0.label>
+  <Anneli_Ahmislan_KiteShield.tools.1.label>盾牌</Anneli_Ahmislan_KiteShield.tools.1.label>
+
+
+  <!-- Anneli_Ahmislan_WoodenShield -->
+
+  <Anneli_Ahmislan_WoodenShield.label>(艾米斯兰)8C_木盾</Anneli_Ahmislan_WoodenShield.label>
+  <Anneli_Ahmislan_WoodenShield.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_WoodenShield.description>
+  <Anneli_Ahmislan_WoodenShield.tools.0.label>盾牌底部</Anneli_Ahmislan_WoodenShield.tools.0.label>
+  <Anneli_Ahmislan_WoodenShield.tools.1.label>盾牌</Anneli_Ahmislan_WoodenShield.tools.1.label>
+
+
+</LanguageData>

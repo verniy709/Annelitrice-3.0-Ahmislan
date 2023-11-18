@@ -44,14 +44,11 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Leader</defName>
-		<label>Ahmislan_Copied_Gestalt</label>
+		<label>Ahmislan_Queen</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
 		<apparelTags>
-			<li>BeltDefense</li>
-			<li>Anneli_Ahmislan_Common</li>
-			<li>Anneli_Ahmislan_Copied_Flower</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -60,23 +57,5 @@
 			<li>UltratechMelee</li>
 		</weaponTags>
 	</PawnKindDef>
-
-	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
-		<defName>Anneli_Ahmislan_Copied_Flower</defName>
-		<label>Ahmislan_Copied_Flower</label>
-		<isFighter>True</isFighter>
-		<trader>true</trader>
-		<apparelTags>
-			<li>BeltDefense</li>
-			<li>Anneli_Ahmislan_Common</li>
-			<li>Anneli_Ahmislan_Copied_Flower</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
-	</PawnKindDef>
-
+	
 </Defs>

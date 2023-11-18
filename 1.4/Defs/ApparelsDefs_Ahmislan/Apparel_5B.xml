@@ -24,7 +24,7 @@
 	</ThingDef>
 
 <!--Anneli_Ahmislan_Puttee-->
-	<ThingDef ParentName="Anneli_Ahmislan_5B_Metal">
+	<ThingDef ParentName="Anneli_Ahmislan_5B_NonMetal">
 		<defName>Anneli_Ahmislan_Puttee</defName>
 		<description>Dyeable.</description>
 		<label>(Ahmislan)5B_Puttee</label>

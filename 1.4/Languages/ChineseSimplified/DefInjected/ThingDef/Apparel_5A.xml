@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Ahmislan_CloakA -->
+
+  <Anneli_Ahmislan_CloakA.label>(艾米斯兰)5A_斗篷A</Anneli_Ahmislan_CloakA.label>
+  <Anneli_Ahmislan_CloakA.description>可染色.</Anneli_Ahmislan_CloakA.description>
+
+
+  <!-- Anneli_Ahmislan_CloakB -->
+
+  <Anneli_Ahmislan_CloakB.label>(艾米斯兰)5A_斗篷B</Anneli_Ahmislan_CloakB.label>
+  <Anneli_Ahmislan_CloakB.description>可染色.</Anneli_Ahmislan_CloakB.description>
+
+
+  <!-- Anneli_Ahmislan_BustleA -->
+
+  <Anneli_Ahmislan_BustleA.label>(艾米斯兰)5A_裙撑A</Anneli_Ahmislan_BustleA.label>
+  <Anneli_Ahmislan_BustleA.description>可染色.</Anneli_Ahmislan_BustleA.description>
+
+
+  <!-- Anneli_Ahmislan_BustleB -->
+
+  <Anneli_Ahmislan_BustleB.label>(艾米斯兰)5A_裙撑B</Anneli_Ahmislan_BustleB.label>
+  <Anneli_Ahmislan_BustleB.description>可染色.</Anneli_Ahmislan_BustleB.description>
+
+
+  <!-- Anneli_Ahmislan_ShortCape -->
+
+  <Anneli_Ahmislan_ShortCape.label>(艾米斯兰)5A_短披风</Anneli_Ahmislan_ShortCape.label>
+  <Anneli_Ahmislan_ShortCape.description>可染色.</Anneli_Ahmislan_ShortCape.description>
+
+
+  <!-- Anneli_Ahmislan_ShoulderWrap -->
+
+  <Anneli_Ahmislan_ShoulderWrap.label>(艾米斯兰)5A_裹身布</Anneli_Ahmislan_ShoulderWrap.label>
+  <Anneli_Ahmislan_ShoulderWrap.description>可染色.</Anneli_Ahmislan_ShoulderWrap.description>
+
+
+</LanguageData>

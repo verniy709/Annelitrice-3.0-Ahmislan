@@ -3,6 +3,8 @@
 
 	<ThingDef Name="Anneli_Ahmislan_2AB" ParentName="Anneli_2AB" Abstract="True">
 		<equippedStatOffsets>
+			<PlantWorkSpeed>0.2</PlantWorkSpeed>
+			<PlantHarvestYield>0.2</PlantHarvestYield>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>

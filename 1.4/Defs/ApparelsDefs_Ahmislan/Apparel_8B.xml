@@ -2,8 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Ahmislan_8B" ParentName="Anneli_8B" Abstract="True">
-		<equippedStatOffsets>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>
 		</thingCategories>

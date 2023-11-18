@@ -3,6 +3,7 @@
 
 	<ThingDef Name="Anneli_Ahmislan_6ABC_NonMetal" ParentName="Anneli_6ABC_NonMetal" Abstract="True">
 		<equippedStatOffsets>
+			<WorkSpeedGlobal>0.2</WorkSpeedGlobal>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>

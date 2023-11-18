@@ -4,7 +4,7 @@
 	<FactionDef ParentName="Anneli_FactionBase">
 		<defName>Anneli_Faction_Ahmislan</defName>
 		<label>Anneli Faction Ahmislan Kingdom</label>
-		<description>ToDo.</description>
+		<description>Once a renowned medieval-themed amusement park across planets, Ahmislan Kingdom faced financial turmoil. Rather than vanish, the remaining employees used survival skills and primitive tools to create a realistic medieval society in the wild. Their charming rural lifestyle attracted a diverse group, including vagrants, apocalypticists, isekai travelers, cosplayers, armored combat enthusiasts, etc. The growing population increased the kingdom's influence but sparked social unrest. \nDespite the looming crisis, the kingdom resisted technological advances and social reforms. Instead, residents favored fruitless but recreational expeditions over progress. Despite defeats in battles due to poor organization and training, everyone enjoyed themselves. \nThe kingdom is on the verge of collapse, filled with bankrupt farmers, rude mercenaries, and idling knights preparing for conflict. The rulers remain indifferent, seeing both prosperity and doom as part of their story. They staunchly maintain the medieval theme, fearing a change would erode faith among the subjects.</description>
 		<colorSpectrum>
 			<li>(1, 1, 1)</li>
 		</colorSpectrum>
@@ -20,7 +20,7 @@
 		<maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
 		<techLevel>Medieval</techLevel>
 		<allowedCultures>
-			<li>Anneli_Cultures_Astropolitan</li>
+			<li>Anneli_Cultures_Corunan</li>
 		</allowedCultures>
 		<settlementTexturePath>Anneli_Factions/Anneli_Ahmislan</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_Ahmislan</factionIconPath>

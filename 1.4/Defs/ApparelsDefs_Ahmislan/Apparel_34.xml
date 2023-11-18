@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_Ahmislan_34" ParentName="Anneli_34" Abstract="True">
 		<equippedStatOffsets>
-			<RestFallRateFactor>-0.2</RestFallRateFactor>
+			<ConstructionSpeed>0.2</ConstructionSpeed>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>
