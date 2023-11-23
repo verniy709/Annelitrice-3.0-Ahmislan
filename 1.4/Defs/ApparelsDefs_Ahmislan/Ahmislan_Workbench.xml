@@ -3,7 +3,7 @@
   <ThingDef ParentName="BenchBase">
     <defName>Anneli_Ahmislan_Workbench</defName>
     <label>Anneli Ahmislan Bench</label>
-    <description>ToDo</description>
+    <description>A tiny teleportation gate to a distant world. However, only creatures shaped like worms can pass through.</description>
     <thingClass>Building_WorkTable</thingClass>
     <graphicData>
       <texPath>Anneli_Ahmislan_Workbench</texPath>

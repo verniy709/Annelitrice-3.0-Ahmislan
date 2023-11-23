@@ -10,13 +10,14 @@
             <li>Melee</li>
         </weaponClasses>
         <thingClass>VFECore.Apparel_Shield</thingClass>
-        <costStuffCount>75</costStuffCount>
+        <costStuffCount>20</costStuffCount>
         <stuffCategories>
             <li>Leathery</li>
             <li>Fabric</li>
         </stuffCategories>
+        <tickerType>Normal</tickerType>
         <statBases>
-            <WorkToMake>750</WorkToMake>
+            <WorkToMake>200</WorkToMake>
             <Mass>3</Mass>
             <StuffEffectMultiplierArmor>0.01</StuffEffectMultiplierArmor>
             <StuffEffectMultiplierInsulation_Cold>0.01</StuffEffectMultiplierInsulation_Cold>
@@ -53,7 +54,6 @@
             <careIfDamaged>false</careIfDamaged>
             <countsAsClothingForNudity>false</countsAsClothingForNudity>
             <canBeDesiredForIdeo>false</canBeDesiredForIdeo>
-            <useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
         </apparel>
         <inspectorTabs>
             <li>ITab_Art</li>
@@ -74,8 +74,6 @@
     </ThingDef>
 
     <ThingDef Name="Anneli_Ahmislan_8A_BaseVFEShield" ParentName="Anneli_8A_VFEShieldAhmislanBase" Abstract="True">
-        <equippedStatOffsets>
-        </equippedStatOffsets>
         <thingCategories>
             <li>Category_Annelitrice_Ahmislan</li>
         </thingCategories>
@@ -94,15 +92,9 @@
         <graphicData>
             <texPath>8A/Anneli_Ahmislan_Banner</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <shaderType>CutoutComplex</shaderType>
             <drawSize>0.85</drawSize>
         </graphicData>
         <comps>
-            <li Class="Annelitrice.CompProperties_ApparelHediffGiver">
-                <hediffDef>Anneli_Aura_Zeal</hediffDef>        
-                <severityIncrease>0.2</severityIncrease>  
-                <radius>15</radius>                         
-            </li>
             <li Class="VFECore.CompProperties_Shield">
                 <shieldTags>
                     <li>Ahmislan_Banner</li>
@@ -138,6 +130,11 @@
                     </west>
                 </offHandHoldOffset>
             </li>
+            <li Class="Annelitrice.CompProperties_ApparelHediffGiver">
+                <hediffDef>Anneli_Aura_Zeal</hediffDef>        
+                <severityIncrease>0.2</severityIncrease>  
+                <radius>15</radius>                         
+            </li>
         </comps>
         <colorGenerator Class="ColorGenerator_Options">
             <options>
@@ -157,15 +154,9 @@
         <graphicData>
             <texPath>8A/Anneli_Ahmislan_WarFlag</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <shaderType>CutoutComplex</shaderType>
             <drawSize>0.85</drawSize>
         </graphicData>
         <comps>
-            <li Class="Annelitrice.CompProperties_ApparelHediffGiver">
-                <hediffDef>Anneli_Aura_Nobility</hediffDef>        
-                <severityIncrease>0.2</severityIncrease>  
-                <radius>15</radius>                         
-            </li>
             <li Class="VFECore.CompProperties_Shield">
                 <shieldTags>
                     <li>Ahmislan_WarFlag</li>
@@ -200,6 +191,11 @@
                         <offset>(-0.05, 0, 0.66)</offset>
                     </west>
                 </offHandHoldOffset>
+            </li>
+            <li Class="Annelitrice.CompProperties_ApparelHediffGiver">
+                <hediffDef>Anneli_Aura_Nobility</hediffDef>        
+                <severityIncrease>0.2</severityIncrease>  
+                <radius>15</radius>                         
             </li>
         </comps>
         <colorGenerator Class="ColorGenerator_Options">

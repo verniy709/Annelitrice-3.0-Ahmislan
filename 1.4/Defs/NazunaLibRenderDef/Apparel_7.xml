@@ -53,10 +53,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
-				<drawOffsetSouth>(0, 2.5411, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.5411, 0)</drawOffsetEast>
+				<drawOffsetSouth>(0, 2.60545, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.60545, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, -0.232, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.5411, 0)</drawOffsetWest>
+				<drawOffsetWest>(0, 2.60545, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>

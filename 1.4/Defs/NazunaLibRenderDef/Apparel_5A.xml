@@ -68,10 +68,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
-				<drawOffsetSouth>(0, 2.60545, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.60545, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.60545, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.60545, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.7985, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.7985, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.7985, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.7985, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -82,10 +82,10 @@
 				</prefix>
 				<renderLayer>BottomShell</renderLayer>
 				<textureLevelsName>Anneli_BottomShell5A</textureLevelsName>
-				<drawOffsetSouth>(0, -2.60545, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.60545, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.60545, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.60545, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, -2.7985, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.7985, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.7985, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.7985, 0)</drawOffsetWest>
 				<renderSwitch>(1, 0, 0)</renderSwitch>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -165,30 +165,6 @@
 				<drawOffsetNorth>(0, 1.8976, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.8976, 0)</drawOffsetWest>
 				<renderSwitch>(1, 0, 0)</renderSwitch>
-				<meshType>Body</meshType>
-				<useStaticYOffset>true</useStaticYOffset>
-				<useBodyType>true</useBodyType>
-			</li>
-		</levels>
-	</NareisLib.MultiTexDef>
-
-	<NareisLib.MultiTexDef>
-		<defName>Anneli_Ahmislan_ShortCape</defName>
-		<originalDef>Anneli_Ahmislan_ShortCape</originalDef>
-		<originalDefClass>ThingDef</originalDefClass>
-		<renderOriginTex>false</renderOriginTex>
-		<path>5A/</path>
-		<levels>
-			<li>
-				<prefix>
-					<li>Anneli_Ahmislan_ShortCape</li>
-				</prefix>
-				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
-				<drawOffsetSouth>(0, 2.60545, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.60545, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.60545, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.60545, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>

@@ -116,32 +116,6 @@
 		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_ShortCape-->
-	<ThingDef ParentName="Anneli_Ahmislan_5A">
-		<defName>Anneli_Ahmislan_ShortCape</defName>
-		<description>Dyeable.</description>
-		<label>(Ahmislan)5A_ShortCape</label>
-		<graphicData>
-			<texPath>5A/Anneli_Ahmislan_ShortCape</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>5A/Anneli_Ahmislan_ShortCape</wornGraphicPath>
-			<tags>
-			</tags>
-			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-		</apparel>
-		<colorGenerator Class="ColorGenerator_Options">
-			<options>
-				<li>
-					<weight>10</weight>
-					<only>(50,45,50,255)</only>
-				</li>
-			</options>
-		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
-	</ThingDef>
-
 	<!--Anneli_Ahmislan_ShoulderWrap-->
 	<ThingDef ParentName="Anneli_Ahmislan_5A">
 		<defName>Anneli_Ahmislan_ShoulderWrap</defName>
