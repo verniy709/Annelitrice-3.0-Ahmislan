@@ -28,6 +28,7 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_Ahmislan_BodiceA</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -35,7 +36,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -53,6 +54,7 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_Ahmislan_BodiceB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -60,7 +62,19 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(140,0,20,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(75,80,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -78,6 +92,9 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_Ahmislan_ShirtA</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -85,7 +102,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -103,6 +120,9 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_Ahmislan_ShirtB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -110,7 +130,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

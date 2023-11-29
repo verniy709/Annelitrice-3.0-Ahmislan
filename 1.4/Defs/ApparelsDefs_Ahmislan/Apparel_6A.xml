@@ -17,6 +17,7 @@
 
 	<ThingDef Name="Anneli_Ahmislan_6A_Metal" ParentName="Anneli_6A_Metal" Abstract="True">
 		<equippedStatOffsets>
+			<WorkSpeedGlobal>0.1</WorkSpeedGlobal>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>
@@ -40,14 +41,15 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_Beret</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Butler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
-					<only>(50,45,50,255)</only>
+					<weight>10</weight>
+					<only>(75,80,100,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -65,17 +67,21 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_Bonnet</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
-					<only>(50,45,50,255)</only>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.8</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_Coif-->
@@ -90,17 +96,32 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_Coif</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
-					<only>(50,45,50,255)</only>
+					<weight>10</weight>
+					<only>(205,200,205,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(115,105,90,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(75,80,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_FlowerCrown-->
@@ -115,6 +136,10 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_FlowerCrown</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_F</li>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -126,6 +151,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_HairbandA-->
@@ -140,14 +166,16 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_HairbandA</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
-					<only>(50,45,50,255)</only>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -165,13 +193,15 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_HairbandB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -190,17 +220,28 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_HunterHat</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
-					<only>(50,45,50,255)</only>
+					<weight>10</weight>
+					<only>(130,100,80,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(115,105,90,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_Mantilla-->
@@ -221,7 +262,7 @@
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -246,7 +287,7 @@
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -265,17 +306,34 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_StrawHat</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_F</li>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(75,80,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_Bascinet-->
@@ -290,14 +348,16 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_Bascinet</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
-					<only>(50,45,50,255)</only>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -321,7 +381,7 @@
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -340,17 +400,27 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_CrownB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_A</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
-					<only>(50,45,50,255)</only>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(230,180,110,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_CrownC-->
@@ -371,7 +441,7 @@
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -396,7 +466,7 @@
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -421,7 +491,7 @@
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -446,7 +516,7 @@
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -465,14 +535,16 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Ahmislan_KettleHelm</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
-					<weight>20</weight>
-					<only>(50,45,50,255)</only>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

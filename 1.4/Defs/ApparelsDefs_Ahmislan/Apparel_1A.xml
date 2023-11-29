@@ -29,6 +29,8 @@
 			<wornGraphicPath>1A/Anneli_Ahmislan_ChestWrap</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
+				<li>Anneli_Ahmislan_Farmer_F</li>
+				<li>Anneli_Ahmislan_Farmer_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -36,7 +38,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(250,240,240,225)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -55,6 +57,11 @@
 			<wornGraphicPath>1A/Anneli_Ahmislan_StraplessBra</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
+				<li>Anneli_Ahmislan_Townsperson_F_A</li>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

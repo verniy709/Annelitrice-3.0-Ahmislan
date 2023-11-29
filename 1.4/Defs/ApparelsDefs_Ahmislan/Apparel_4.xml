@@ -24,6 +24,7 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Ahmislan_Brigandine</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Levy</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -31,11 +32,10 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(130,100,80,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 <!--Anneli_Ahmislan_CorsetA-->
@@ -50,6 +50,11 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Ahmislan_CorsetA</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -61,7 +66,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 <!--Anneli_Ahmislan_CorsetB-->
@@ -76,6 +81,11 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Ahmislan_CorsetB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -87,7 +97,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 <!--Anneli_Ahmislan_CorsetC-->
@@ -102,6 +112,11 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Ahmislan_CorsetC</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -113,7 +128,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>

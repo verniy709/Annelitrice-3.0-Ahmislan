@@ -24,6 +24,8 @@
 		<apparel>
 			<wornGraphicPath>7/Anneli_Ahmislan_Backpack</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -31,7 +33,15 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(95,80,70,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(160,125,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(140,70,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -50,6 +60,9 @@
 		<apparel>
 			<wornGraphicPath>7/Anneli_Ahmislan_Bascket</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_F</li>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -57,7 +70,15 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(140,0,20,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(205,200,205,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -76,6 +97,8 @@
 		<apparel>
 			<wornGraphicPath>7/Anneli_Ahmislan_Sack</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -83,7 +106,11 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(205,200,205,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(115,105,90,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

@@ -151,6 +151,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
    <!--Anneli_Ahmislan_KiteShield-->
@@ -208,6 +209,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
     <!--Anneli_Ahmislan_WoodenShield-->
@@ -261,10 +263,10 @@
             <options>
                 <li>
                     <weight>10</weight>
-                    <only>(50,45,50,255)</only>
+                    <only>(120,120,130,255)</only>
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
-
 </Defs>

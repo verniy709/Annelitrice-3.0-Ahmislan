@@ -24,6 +24,9 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_Ahmislan_Mask</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

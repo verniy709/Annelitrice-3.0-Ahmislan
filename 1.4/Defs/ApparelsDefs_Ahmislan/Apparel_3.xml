@@ -27,6 +27,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_Apron</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Maid_A</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -34,11 +35,10 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_BlacksmithApron-->
@@ -53,6 +53,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_BlacksmithApron</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_F</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -60,11 +61,19 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(145,140,115,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(75,80,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(95,80,70,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 	
 	<!--Anneli_Ahmislan_Jacket-->
@@ -79,6 +88,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_Jacket</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Butler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -86,11 +96,10 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(75,80,100,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_Overdress-->
@@ -105,6 +114,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_Overdress</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -112,11 +122,22 @@
 			<options>
 				<li>
 					<weight>10</weight>
+					<only>(180,225,250,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(140,0,20,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(175,200,135,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_RuffledVest-->
@@ -131,6 +152,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_RuffledVest</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_A</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -138,11 +160,18 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(105,115,155,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(140,0,20,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_ShortApron-->
@@ -157,6 +186,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_ShortApron</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Maid_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -164,11 +194,10 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_Tunic-->
@@ -183,6 +212,8 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_Tunic</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -190,11 +221,22 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(205,200,205,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(115,105,90,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(75,80,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_Vest-->
@@ -209,6 +251,8 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_Vest</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -216,10 +260,21 @@
 			<options>
 				<li>
 					<weight>10</weight>
+					<only>(110,65,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(115,105,90,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 </Defs>
