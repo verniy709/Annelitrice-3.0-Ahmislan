@@ -33,6 +33,10 @@
 				<li>Anneli_Ahmislan_Townsperson_F_B</li>
 				<li>Anneli_Ahmislan_Townsperson_F_C</li>
 				<li>Anneli_Ahmislan_Townsperson_F_D</li>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
+				<li>Anneli_Ahmislan_Noble_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -60,6 +64,9 @@
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Nun_A</li>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Noble_A</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

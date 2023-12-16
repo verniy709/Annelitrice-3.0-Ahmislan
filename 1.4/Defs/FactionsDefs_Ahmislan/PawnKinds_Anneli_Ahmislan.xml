@@ -40,9 +40,26 @@
 	</PawnKindDef>
 
 	<!-- PawnKindList -->
-	<!-- To Do  -->
+	<!-- <li>Anneli_Ahmislan_Leader</li>
+	<li>Anneli_Ahmislan_Noble_A</li>
+	<li>Anneli_Ahmislan_Noble_B</li>
+	<li>Anneli_Ahmislan_Knight_A</li>
+	<li>Anneli_Ahmislan_Knight_B</li>
+	<li>Anneli_Ahmislan_Knight_C</li>
+	<li>Anneli_Ahmislan_Nun_A</li>
+	<li>Anneli_Ahmislan_Nun_B</li>
+	<li>Anneli_Ahmislan_Butler</li>
+	<li>Anneli_Ahmislan_Maid_A</li>
+	<li>Anneli_Ahmislan_Maid_B</li>
+	<li>Anneli_Ahmislan_Townsperson_M</li>
+	<li>Anneli_Ahmislan_Townsperson_F_A</li>
+	<li>Anneli_Ahmislan_Townsperson_F_B</li>
+	<li>Anneli_Ahmislan_Townsperson_F_C</li>
+	<li>Anneli_Ahmislan_Townsperson_F_D</li>
+	<li>Anneli_Ahmislan_Levy</li>
+	<li>Anneli_Ahmislan_Farmer_M</li>
+	<li>Anneli_Ahmislan_Farmer_F</li> -->
 
-	<!-- same as pawnkind noble  -->
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Leader</defName>
 		<label>Ahmislan_Queen</label>
@@ -50,8 +67,10 @@
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_DressC</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_Ahmislan_Noble_A</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -62,18 +81,29 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Ahmislan_WarFlag</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
-	<!-- knight with corsets instead of armor and flags instead of shields  -->
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
-		<defName>Anneli_Ahmislan_NobleA</defName>
+		<defName>Anneli_Ahmislan_Noble_A</defName>
 		<label>Ahmislan_Noble</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
-		<factionLeader>true</factionLeader>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_DressC</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_Ahmislan_Noble_A</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -84,18 +114,30 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Ahmislan_WarFlag</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
-	<!-- knight with corset instead of armor  -->
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
-		<defName>Anneli_Ahmislan_NobleB</defName>
+		<defName>Anneli_Ahmislan_Noble_B</defName>
 		<label>Ahmislan_Noble</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
-		<factionLeader>true</factionLeader>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_LongDressB</li>
+			<li>Anneli_Ahmislan_BustleA</li> 
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_Ahmislan_Noble_B</li> 
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -108,15 +150,17 @@
 		</weaponTags>
 	</PawnKindDef>
 
-	<!-- heavily armored troops with shields  -->
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
-		<defName>Anneli_Ahmislan_KnightA</defName>
+		<defName>Anneli_Ahmislan_Knight_A</defName>
 		<label>Ahmislan_Knight</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_DressA</li>
+			<li>Anneli_Ahmislan_BustleB</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_Ahmislan_Knight_A</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -127,17 +171,29 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Ahmislan_WarFlag</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
-	<!-- heavily armored troops with shields  -->
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
-		<defName>Anneli_Ahmislan_KnightB</defName>
+		<defName>Anneli_Ahmislan_Knight_B</defName>
 		<label>Ahmislan_Knight</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_Bodystockings</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_Ahmislan_Knight_B</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -148,17 +204,31 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Ahmislan_HeaterShield</li>
+					<li>Ahmislan_KiteShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
-	<!-- heavily armored troops with shields  -->
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
-		<defName>Anneli_Ahmislan_KnightC</defName>
+		<defName>Anneli_Ahmislan_Knight_C</defName>
 		<label>Ahmislan_Knight</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_LongDressB</li>
+			<li>Anneli_Ahmislan_BustleA</li> 
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_Ahmislan_Knight_C</li> 
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -169,38 +239,53 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Ahmislan_HeaterShield</li>
+					<li>Ahmislan_KiteShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
-	<!-- melee nuns with armor -->
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
-		<defName>Anneli_Ahmislan_NunA</defName>
+		<defName>Anneli_Ahmislan_Nun_A</defName>
 		<label>Ahmislan_Nun</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_NunAttireA</li>
+			<li>Anneli_Ahmislan_NunVeil</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_Ahmislan_Nun_A</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>NeolithicRangedBasic</li>
+			<li>NeolithicRangedDecent</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
 		</weaponTags>
 	</PawnKindDef>
 
-	<!-- melee nuns with flags  -->
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
-		<defName>Anneli_Ahmislan_NunB</defName>
+		<defName>Anneli_Ahmislan_Nun_B</defName>
 		<label>Ahmislan_Nun</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_NunAttireB</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>Anneli_Ahmislan_Nun_B</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -211,6 +296,17 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Ahmislan_Banner</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
@@ -220,7 +316,6 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_SquireUniformB</li>
-			<li>Anneli_Ahmislan_Jacket</li>
 			<li>Anneli_Ahmislan_Beret</li>
 		</apparelRequired>
 		<apparelTags>
@@ -233,7 +328,7 @@
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
-      		<li>MedievalMeleeAdvanced</li>
+			<li>MedievalMeleeAdvanced</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -256,7 +351,7 @@
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
-      		<li>MedievalMeleeAdvanced</li>
+			<li>MedievalMeleeAdvanced</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -279,7 +374,7 @@
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
-      		<li>MedievalMeleeAdvanced</li>
+			<li>MedievalMeleeAdvanced</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -299,10 +394,10 @@
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
-      		<li>NeolithicRangedHeavy</li>
-      		<li>NeolithicRangedChief</li>
-      		<li>MedievalRanged</li>
-      		<li>MedievalRangedHeavy</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -322,10 +417,10 @@
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
-      		<li>NeolithicRangedHeavy</li>
-      		<li>NeolithicRangedChief</li>
-      		<li>MedievalRanged</li>
-      		<li>MedievalRangedHeavy</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -345,10 +440,10 @@
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
-      		<li>NeolithicRangedHeavy</li>
-      		<li>NeolithicRangedChief</li>
-      		<li>MedievalRanged</li>
-      		<li>MedievalRangedHeavy</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -368,10 +463,10 @@
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
-      		<li>NeolithicRangedHeavy</li>
-      		<li>NeolithicRangedChief</li>
-      		<li>MedievalRanged</li>
-      		<li>MedievalRangedHeavy</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -391,10 +486,10 @@
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
-      		<li>NeolithicRangedHeavy</li>
-      		<li>NeolithicRangedChief</li>
-      		<li>MedievalRanged</li>
-      		<li>MedievalRangedHeavy</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -417,7 +512,7 @@
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
-      		<li>MedievalMeleeAdvanced</li>
+			<li>MedievalMeleeAdvanced</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
 			<li Class="VFECore.PawnKindDefExtension">
@@ -451,7 +546,7 @@
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
-      		<li>MedievalMeleeAdvanced</li>
+			<li>MedievalMeleeAdvanced</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -472,11 +567,11 @@
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
-      		<li>NeolithicRangedHeavy</li>
-      		<li>NeolithicRangedChief</li>
-      		<li>MedievalRanged</li>
-      		<li>MedievalRangedHeavy</li>
+			<li>NeolithicRangedHeavy</li>
+			<li>NeolithicRangedChief</li>
+			<li>MedievalRanged</li>
+			<li>MedievalRangedHeavy</li>
 		</weaponTags>
 	</PawnKindDef>
-	
+
 </Defs>

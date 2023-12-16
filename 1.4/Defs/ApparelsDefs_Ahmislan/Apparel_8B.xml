@@ -63,6 +63,9 @@
 		<apparel>
 			<wornGraphicPath>8B/Anneli_Ahmislan_CrystalWing</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_Knight_C</li>
+				<li>Anneli_Ahmislan_Noble_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -70,11 +73,11 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,255,255,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 		<costStuffCount>100</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -143,6 +146,8 @@
 		<apparel>
 			<wornGraphicPath>8B/Anneli_Ahmislan_SwordWing</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_Noble_A</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -150,11 +155,11 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(140,0,20,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 		<costStuffCount>100</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>

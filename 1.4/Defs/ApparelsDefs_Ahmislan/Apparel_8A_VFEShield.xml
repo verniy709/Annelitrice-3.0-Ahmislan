@@ -140,10 +140,11 @@
             <options>
                 <li>
                     <weight>10</weight>
-                    <only>(50,45,50,255)</only>
+                    <only>(250,220,185,255)</only>
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
     <!--Anneli_Ahmislan_WarFlag-->
@@ -202,10 +203,11 @@
             <options>
                 <li>
                     <weight>10</weight>
-                    <only>(50,45,50,255)</only>
+                    <only>(140,0,20,255)</only>
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
 </Defs>

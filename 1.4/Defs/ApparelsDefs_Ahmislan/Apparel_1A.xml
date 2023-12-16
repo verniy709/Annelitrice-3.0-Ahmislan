@@ -62,6 +62,7 @@
 				<li>Anneli_Ahmislan_Townsperson_F_C</li>
 				<li>Anneli_Ahmislan_Townsperson_F_D</li>
 				<li>Anneli_Ahmislan_Maid_B</li>
+				<li>Anneli_Ahmislan_Knight_A</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -69,7 +70,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(250,240,240,225)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

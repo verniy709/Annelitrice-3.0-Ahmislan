@@ -1,9 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- To Do -->
+  <!-- <li>Anneli_Ahmislan_Leader</li>
+	<li>Anneli_Ahmislan_Noble_A</li>
+	<li>Anneli_Ahmislan_Noble_B</li>
+	<li>Anneli_Ahmislan_Knight_A</li>
+	<li>Anneli_Ahmislan_Knight_B</li>
+	<li>Anneli_Ahmislan_Knight_C</li>
+	<li>Anneli_Ahmislan_Nun_A</li>
+	<li>Anneli_Ahmislan_Nun_B</li>
+	<li>Anneli_Ahmislan_Butler</li>
+	<li>Anneli_Ahmislan_Maid_A</li>
+	<li>Anneli_Ahmislan_Maid_B</li>
+	<li>Anneli_Ahmislan_Townsperson_M</li>
+	<li>Anneli_Ahmislan_Townsperson_F_A</li>
+	<li>Anneli_Ahmislan_Townsperson_F_B</li>
+	<li>Anneli_Ahmislan_Townsperson_F_C</li>
+	<li>Anneli_Ahmislan_Townsperson_F_D</li>
+	<li>Anneli_Ahmislan_Levy</li>
+	<li>Anneli_Ahmislan_Farmer_M</li>
+	<li>Anneli_Ahmislan_Farmer_F</li> -->
 
-  <Anneli_Ahmislan_Leader.label>Ahmislan_Queen</Anneli_Ahmislan_Leader.label>
+  <Anneli_Ahmislan_Leader.label>艾米斯兰_女皇</Anneli_Ahmislan_Leader.label>
+  <Anneli_Ahmislan_Noble_A.label>艾米斯兰_贵族</Anneli_Ahmislan_Noble_A.label>
+  <Anneli_Ahmislan_Noble_B.label>艾米斯兰_贵族</Anneli_Ahmislan_Noble_B.label>
+  <Anneli_Ahmislan_Knight_A.label>艾米斯兰_骑士</Anneli_Ahmislan_Knight_A.label>
+  <Anneli_Ahmislan_Knight_B.label>艾米斯兰_骑士</Anneli_Ahmislan_Knight_B.label>
+  <Anneli_Ahmislan_Knight_C.label>艾米斯兰_骑士</Anneli_Ahmislan_Knight_C.label>
+  <Anneli_Ahmislan_Nun_A.label>艾米斯兰_修女</Anneli_Ahmislan_Nun_A.label>
+  <Anneli_Ahmislan_Nun_B.label>艾米斯兰_修女</Anneli_Ahmislan_Nun_B.label>
+  <Anneli_Ahmislan_Butler.label>艾米斯兰_管家</Anneli_Ahmislan_Butler.label>
+  <Anneli_Ahmislan_Maid_A.label>艾米斯兰_女仆</Anneli_Ahmislan_Maid_A.label>
+  <Anneli_Ahmislan_Maid_B.label>艾米斯兰_女仆</Anneli_Ahmislan_Maid_B.label>
+  <Anneli_Ahmislan_Townsperson_M.label>艾米斯兰_市民</Anneli_Ahmislan_Townsperson_M.label>
+  <Anneli_Ahmislan_Townsperson_F_A.label>艾米斯兰_市民</Anneli_Ahmislan_Townsperson_F_A.label>
+  <Anneli_Ahmislan_Townsperson_F_B.label>艾米斯兰_市民</Anneli_Ahmislan_Townsperson_F_B.label>
+  <Anneli_Ahmislan_Townsperson_F_C.label>艾米斯兰_市民</Anneli_Ahmislan_Townsperson_F_C.label>
+  <Anneli_Ahmislan_Townsperson_F_D.label>艾米斯兰_市民</Anneli_Ahmislan_Townsperson_F_D.label>
+  <Anneli_Ahmislan_Levy.label>艾米斯兰_征召兵</Anneli_Ahmislan_Levy.label>
+  <Anneli_Ahmislan_Farmer_M.label>艾米斯兰_农民</Anneli_Ahmislan_Farmer_M.label>
+  <Anneli_Ahmislan_Farmer_F.label>艾米斯兰_农民</Anneli_Ahmislan_Farmer_F.label>
 
 
 </LanguageData>

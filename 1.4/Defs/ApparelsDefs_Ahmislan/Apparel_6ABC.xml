@@ -17,6 +17,7 @@
 
 	<ThingDef Name="Anneli_Ahmislan_6ABC_Metal" ParentName="Anneli_6ABC_Metal" Abstract="True">
 		<equippedStatOffsets>
+			<WorkSpeedGlobal>0.2</WorkSpeedGlobal>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>
@@ -40,6 +41,8 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmA</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -47,7 +50,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(120,120,130,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -65,6 +68,9 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -72,7 +78,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(120,120,130,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -90,6 +96,8 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmC</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -97,7 +105,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(120,120,130,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

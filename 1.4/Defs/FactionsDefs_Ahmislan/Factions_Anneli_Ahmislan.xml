@@ -64,24 +64,59 @@
 			<max>75</max>
 		</allowedArrivalTemperatureRange>
 		<pawnGroupMakers>
-			<!-- Strike Squad -->
+			<!-- Warband -->
 			<li>
 				<kindDef>Combat</kindDef>
 				<commonality>100</commonality>
 				<options>
-					<!-- To Do  -->
+					<Anneli_Ahmislan_Leader>1</Anneli_Ahmislan_Leader>
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Noble_B>2</Anneli_Ahmislan_Noble_B>
+					<Anneli_Ahmislan_Knight_A>2</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>3</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>3</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>2</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>3</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Butler>3</Anneli_Ahmislan_Butler>
+					<Anneli_Ahmislan_Maid_A>3</Anneli_Ahmislan_Maid_A>
+					<Anneli_Ahmislan_Maid_B>3</Anneli_Ahmislan_Maid_B>
+					<Anneli_Ahmislan_Townsperson_M>3</Anneli_Ahmislan_Townsperson_M>
+					<Anneli_Ahmislan_Townsperson_F_A>2</Anneli_Ahmislan_Townsperson_F_A>
+					<Anneli_Ahmislan_Townsperson_F_B>2</Anneli_Ahmislan_Townsperson_F_B>
+					<Anneli_Ahmislan_Townsperson_F_C>2</Anneli_Ahmislan_Townsperson_F_C>
+					<Anneli_Ahmislan_Townsperson_F_D>2</Anneli_Ahmislan_Townsperson_F_D>
+					<Anneli_Ahmislan_Levy>3</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Farmer_M>3</Anneli_Ahmislan_Farmer_M>
+					<Anneli_Ahmislan_Farmer_F>3</Anneli_Ahmislan_Farmer_F>
 				</options>
 			</li>
 			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
-					<!-- To Do  -->
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Noble_B>1</Anneli_Ahmislan_Noble_B>
+					<Anneli_Ahmislan_Knight_A>1</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>1</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>1</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>1</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>1</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Butler>1</Anneli_Ahmislan_Butler>
+					<Anneli_Ahmislan_Maid_A>1</Anneli_Ahmislan_Maid_A>
+					<Anneli_Ahmislan_Maid_B>1</Anneli_Ahmislan_Maid_B>
+					<Anneli_Ahmislan_Townsperson_M>1</Anneli_Ahmislan_Townsperson_M>
+					<Anneli_Ahmislan_Townsperson_F_A>1</Anneli_Ahmislan_Townsperson_F_A>
+					<Anneli_Ahmislan_Townsperson_F_B>1</Anneli_Ahmislan_Townsperson_F_B>
+					<Anneli_Ahmislan_Townsperson_F_C>1</Anneli_Ahmislan_Townsperson_F_C>
+					<Anneli_Ahmislan_Townsperson_F_D>1</Anneli_Ahmislan_Townsperson_F_D>
+					<Anneli_Ahmislan_Levy>1</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Farmer_M>1</Anneli_Ahmislan_Farmer_M>
+					<Anneli_Ahmislan_Farmer_F>1</Anneli_Ahmislan_Farmer_F>
 				</options>
 			</li>
 			<li>
 				<kindDef>Trader</kindDef>
 				<traders>
-					<!-- To Do  -->
+					<Anneli_Ahmislan_Noble_B>1</Anneli_Ahmislan_Noble_B>
 				</traders>
 				<carriers>
 					<Muffalo>3</Muffalo>
@@ -90,40 +125,143 @@
 					<Elephant>2</Elephant>
 				</carriers>
 				<guards>
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Knight_A>1</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>1</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>1</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>1</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>1</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Butler>1</Anneli_Ahmislan_Butler>
+					<Anneli_Ahmislan_Maid_A>1</Anneli_Ahmislan_Maid_A>
+					<Anneli_Ahmislan_Maid_B>1</Anneli_Ahmislan_Maid_B>
+					<Anneli_Ahmislan_Townsperson_M>1</Anneli_Ahmislan_Townsperson_M>
+					<Anneli_Ahmislan_Townsperson_F_A>1</Anneli_Ahmislan_Townsperson_F_A>
+					<Anneli_Ahmislan_Townsperson_F_B>1</Anneli_Ahmislan_Townsperson_F_B>
+					<Anneli_Ahmislan_Townsperson_F_C>1</Anneli_Ahmislan_Townsperson_F_C>
+					<Anneli_Ahmislan_Townsperson_F_D>1</Anneli_Ahmislan_Townsperson_F_D>
+					<Anneli_Ahmislan_Levy>1</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Farmer_M>1</Anneli_Ahmislan_Farmer_M>
+					<Anneli_Ahmislan_Farmer_F>1</Anneli_Ahmislan_Farmer_F>
 				</guards>
 			</li>
 			<li>
 				<kindDef>Settlement</kindDef>
 				<options>
-					<!-- To Do  -->
+					<Anneli_Ahmislan_Leader>1</Anneli_Ahmislan_Leader>
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Noble_B>2</Anneli_Ahmislan_Noble_B>
+					<Anneli_Ahmislan_Knight_A>2</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>3</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>3</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>2</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>3</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Butler>3</Anneli_Ahmislan_Butler>
+					<Anneli_Ahmislan_Maid_A>3</Anneli_Ahmislan_Maid_A>
+					<Anneli_Ahmislan_Maid_B>3</Anneli_Ahmislan_Maid_B>
+					<Anneli_Ahmislan_Townsperson_M>3</Anneli_Ahmislan_Townsperson_M>
+					<Anneli_Ahmislan_Townsperson_F_A>2</Anneli_Ahmislan_Townsperson_F_A>
+					<Anneli_Ahmislan_Townsperson_F_B>2</Anneli_Ahmislan_Townsperson_F_B>
+					<Anneli_Ahmislan_Townsperson_F_C>2</Anneli_Ahmislan_Townsperson_F_C>
+					<Anneli_Ahmislan_Townsperson_F_D>2</Anneli_Ahmislan_Townsperson_F_D>
+					<Anneli_Ahmislan_Levy>3</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Farmer_M>3</Anneli_Ahmislan_Farmer_M>
+					<Anneli_Ahmislan_Farmer_F>3</Anneli_Ahmislan_Farmer_F>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
 				<kindDef>Miners</kindDef>
 				<commonality>1</commonality>
 				<options>
-					<!-- To Do  -->
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Noble_B>1</Anneli_Ahmislan_Noble_B>
+					<Anneli_Ahmislan_Knight_A>1</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>1</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>1</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>1</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>1</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Butler>1</Anneli_Ahmislan_Butler>
+					<Anneli_Ahmislan_Maid_A>1</Anneli_Ahmislan_Maid_A>
+					<Anneli_Ahmislan_Maid_B>1</Anneli_Ahmislan_Maid_B>
+					<Anneli_Ahmislan_Townsperson_M>1</Anneli_Ahmislan_Townsperson_M>
+					<Anneli_Ahmislan_Townsperson_F_A>1</Anneli_Ahmislan_Townsperson_F_A>
+					<Anneli_Ahmislan_Townsperson_F_B>1</Anneli_Ahmislan_Townsperson_F_B>
+					<Anneli_Ahmislan_Townsperson_F_C>1</Anneli_Ahmislan_Townsperson_F_C>
+					<Anneli_Ahmislan_Townsperson_F_D>1</Anneli_Ahmislan_Townsperson_F_D>
+					<Anneli_Ahmislan_Levy>1</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Farmer_M>1</Anneli_Ahmislan_Farmer_M>
+					<Anneli_Ahmislan_Farmer_F>1</Anneli_Ahmislan_Farmer_F>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
 				<kindDef>Hunters</kindDef>
 				<commonality>1</commonality>
 				<options>
-					<!-- To Do  -->
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Noble_B>1</Anneli_Ahmislan_Noble_B>
+					<Anneli_Ahmislan_Knight_A>1</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>1</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>1</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>1</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>1</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Butler>1</Anneli_Ahmislan_Butler>
+					<Anneli_Ahmislan_Maid_A>1</Anneli_Ahmislan_Maid_A>
+					<Anneli_Ahmislan_Maid_B>1</Anneli_Ahmislan_Maid_B>
+					<Anneli_Ahmislan_Townsperson_M>1</Anneli_Ahmislan_Townsperson_M>
+					<Anneli_Ahmislan_Townsperson_F_A>1</Anneli_Ahmislan_Townsperson_F_A>
+					<Anneli_Ahmislan_Townsperson_F_B>1</Anneli_Ahmislan_Townsperson_F_B>
+					<Anneli_Ahmislan_Townsperson_F_C>1</Anneli_Ahmislan_Townsperson_F_C>
+					<Anneli_Ahmislan_Townsperson_F_D>1</Anneli_Ahmislan_Townsperson_F_D>
+					<Anneli_Ahmislan_Levy>1</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Farmer_M>1</Anneli_Ahmislan_Farmer_M>
+					<Anneli_Ahmislan_Farmer_F>1</Anneli_Ahmislan_Farmer_F>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
 				<kindDef>Loggers</kindDef>
 				<commonality>1</commonality>
 				<options>
-					<!-- To Do  -->
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Noble_B>1</Anneli_Ahmislan_Noble_B>
+					<Anneli_Ahmislan_Knight_A>1</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>1</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>1</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>1</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>1</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Butler>1</Anneli_Ahmislan_Butler>
+					<Anneli_Ahmislan_Maid_A>1</Anneli_Ahmislan_Maid_A>
+					<Anneli_Ahmislan_Maid_B>1</Anneli_Ahmislan_Maid_B>
+					<Anneli_Ahmislan_Townsperson_M>1</Anneli_Ahmislan_Townsperson_M>
+					<Anneli_Ahmislan_Townsperson_F_A>1</Anneli_Ahmislan_Townsperson_F_A>
+					<Anneli_Ahmislan_Townsperson_F_B>1</Anneli_Ahmislan_Townsperson_F_B>
+					<Anneli_Ahmislan_Townsperson_F_C>1</Anneli_Ahmislan_Townsperson_F_C>
+					<Anneli_Ahmislan_Townsperson_F_D>1</Anneli_Ahmislan_Townsperson_F_D>
+					<Anneli_Ahmislan_Levy>1</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Farmer_M>1</Anneli_Ahmislan_Farmer_M>
+					<Anneli_Ahmislan_Farmer_F>1</Anneli_Ahmislan_Farmer_F>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
 				<kindDef>Farmers</kindDef>
 				<commonality>1</commonality>
 				<options>
-					<!-- To Do  -->
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Noble_B>1</Anneli_Ahmislan_Noble_B>
+					<Anneli_Ahmislan_Knight_A>1</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>1</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>1</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>1</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>1</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Butler>1</Anneli_Ahmislan_Butler>
+					<Anneli_Ahmislan_Maid_A>1</Anneli_Ahmislan_Maid_A>
+					<Anneli_Ahmislan_Maid_B>1</Anneli_Ahmislan_Maid_B>
+					<Anneli_Ahmislan_Townsperson_M>1</Anneli_Ahmislan_Townsperson_M>
+					<Anneli_Ahmislan_Townsperson_F_A>1</Anneli_Ahmislan_Townsperson_F_A>
+					<Anneli_Ahmislan_Townsperson_F_B>1</Anneli_Ahmislan_Townsperson_F_B>
+					<Anneli_Ahmislan_Townsperson_F_C>1</Anneli_Ahmislan_Townsperson_F_C>
+					<Anneli_Ahmislan_Townsperson_F_D>1</Anneli_Ahmislan_Townsperson_F_D>
+					<Anneli_Ahmislan_Levy>1</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Farmer_M>1</Anneli_Ahmislan_Farmer_M>
+					<Anneli_Ahmislan_Farmer_F>1</Anneli_Ahmislan_Farmer_F>
 				</options>
 			</li>
 		</pawnGroupMakers>

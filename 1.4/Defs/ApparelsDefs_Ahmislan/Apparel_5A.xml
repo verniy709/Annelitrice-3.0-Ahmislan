@@ -24,7 +24,8 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_Ahmislan_CloakA</wornGraphicPath>
 			<tags>
-				
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -36,7 +37,7 @@
 				</li>
 				<li>
 					<weight>10</weight>
-					<only>(115,105,90,255)</only>
+					<only>(95,80,70,255)</only>
 				</li>
 				<li>
 					<weight>10</weight>
@@ -60,6 +61,8 @@
 			<wornGraphicPath>5A/Anneli_Ahmislan_CloakB</wornGraphicPath>
 			<tags>
 				<li>Anneli_Ahmislan_Townsperson_F_A</li>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -94,6 +97,9 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_Ahmislan_BustleA</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
+				<li>Anneli_Ahmislan_Noble_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -120,6 +126,7 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_Ahmislan_BustleB</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Knight_A</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -127,7 +134,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(140,0,20,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -147,6 +154,7 @@
 			<wornGraphicPath>5A/Anneli_Ahmislan_ShoulderWrap</wornGraphicPath>
 			<tags>
 				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
 				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -171,7 +179,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>
