@@ -35,6 +35,12 @@
 
   <Anneli_Ahmislan_LongBootsB.label>(艾米斯兰)2C_长靴B</Anneli_Ahmislan_LongBootsB.label>
   <Anneli_Ahmislan_LongBootsB.description>可染色.</Anneli_Ahmislan_LongBootsB.description>
+  
+
+  <!-- Anneli_Ahmislan_RidingBoots -->
+
+  <Anneli_Ahmislan_RidingBoots.label>(艾米斯兰)2C_马靴</Anneli_Ahmislan_RidingBoots.label>
+  <Anneli_Ahmislan_RidingBoots.description>可染色.</Anneli_Ahmislan_RidingBoots.description>
 
 
   <!-- Anneli_Ahmislan_SolleretsA -->

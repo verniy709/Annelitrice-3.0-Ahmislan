@@ -271,6 +271,52 @@
 		</colorGenerator>
 	</ThingDef>
 
+	<!--Anneli_Ahmislan_RidingBoots-->
+	<ThingDef ParentName="Anneli_Ahmislan_2C_NonMetal">
+		<defName>Anneli_Ahmislan_RidingBoots</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)2C_RidingBoots</label>
+		<graphicData>
+			<texPath>2C/Anneli_Ahmislan_RidingBoots</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_Ahmislan_RidingBoots</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_A</li>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
+				<li>Anneli_Ahmislan_Butler</li>
+				<li>Anneli_Ahmislan_Noble_A</li>
+				<li>Anneli_Ahmislan_Noble_B</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(110,65,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(130,100,80,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(160,125,100,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
 	<!--Anneli_Ahmislan_SolleretsA-->
 	<ThingDef ParentName="Anneli_Ahmislan_2C_Metal">
 		<defName>Anneli_Ahmislan_SolleretsA</defName>

@@ -21,7 +21,7 @@
 		</techHediffsTags>
 		<apparelAllowHeadgearChance>1.0</apparelAllowHeadgearChance>
 		<gearHealthRange>
-			<min>0.4</min>
+			<min>1.0</min>
 			<max>2.0</max>
 		</gearHealthRange>
 		<inventoryOptions>
