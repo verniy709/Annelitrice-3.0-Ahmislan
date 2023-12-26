@@ -63,4 +63,64 @@
 		</colorGenerator>
 		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
+
+	<!--Anneli_Ahmislan_KneePlatesA-->
+	<ThingDef ParentName="Anneli_Ahmislan_5B_Metal">
+		<defName>Anneli_Ahmislan_KneePlatesA</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)5B_KneePlatesA</label>
+		<graphicData>
+			<texPath>5B/Anneli_Ahmislan_KneePlatesA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5B/Anneli_Ahmislan_KneePlatesA</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_KneePlatesB-->
+	<ThingDef ParentName="Anneli_Ahmislan_5B_Metal">
+		<defName>Anneli_Ahmislan_KneePlatesB</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)5B_KneePlatesB</label>
+		<graphicData>
+			<texPath>5B/Anneli_Ahmislan_KneePlatesB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5B/Anneli_Ahmislan_KneePlatesB</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
 </Defs>

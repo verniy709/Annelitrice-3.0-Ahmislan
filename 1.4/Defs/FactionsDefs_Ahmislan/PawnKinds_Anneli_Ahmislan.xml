@@ -6,7 +6,7 @@
 		<itemQuality>Masterwork</itemQuality>
 		<defaultFactionType>Anneli_Faction_Ahmislan</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>140</combatPower>
+		<combatPower>160</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryCategories>
 			<li>Anneli_Childhood</li>

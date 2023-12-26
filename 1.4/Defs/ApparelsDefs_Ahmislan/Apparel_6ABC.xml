@@ -3,7 +3,8 @@
 
 	<ThingDef Name="Anneli_Ahmislan_6ABC_NonMetal" ParentName="Anneli_6ABC_NonMetal" Abstract="True">
 		<equippedStatOffsets>
-			<WorkSpeedGlobal>0.2</WorkSpeedGlobal>
+			<PsychicSensitivityOffset>0.4</PsychicSensitivityOffset>
+			<MeditationFocusGain MayRequire="Ludeon.RimWorld.Royalty">0.4</MeditationFocusGain>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>
@@ -17,7 +18,8 @@
 
 	<ThingDef Name="Anneli_Ahmislan_6ABC_Metal" ParentName="Anneli_6ABC_Metal" Abstract="True">
 		<equippedStatOffsets>
-			<WorkSpeedGlobal>0.2</WorkSpeedGlobal>
+			<PsychicSensitivityOffset>0.4</PsychicSensitivityOffset>
+			<MeditationFocusGain MayRequire="Ludeon.RimWorld.Royalty">0.4</MeditationFocusGain>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Ahmislan</li>
