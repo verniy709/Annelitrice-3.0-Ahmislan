@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Ahmislan_5B_NonMetal" ParentName="Anneli_5B_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Category_Annelitrice_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Ahmislan_5B_Metal" ParentName="Anneli_5B_Metal" Abstract="True">
+		<thingCategories>
+			<li>Category_Annelitrice_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+<!--Anneli_Ahmislan_Puttee-->
+	<ThingDef ParentName="Anneli_Ahmislan_5B_NonMetal">
+		<defName>Anneli_Ahmislan_Puttee</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)5B_Puttee</label>
+		<graphicData>
+			<texPath>5B/Anneli_Ahmislan_Puttee</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5B/Anneli_Ahmislan_Puttee</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(205,200,205,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(115,105,90,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(75,80,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_KneePlatesA-->
+	<ThingDef ParentName="Anneli_Ahmislan_5B_Metal">
+		<defName>Anneli_Ahmislan_KneePlatesA</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)5B_KneePlatesA</label>
+		<graphicData>
+			<texPath>5B/Anneli_Ahmislan_KneePlatesA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5B/Anneli_Ahmislan_KneePlatesA</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_KneePlatesB-->
+	<ThingDef ParentName="Anneli_Ahmislan_5B_Metal">
+		<defName>Anneli_Ahmislan_KneePlatesB</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)5B_KneePlatesB</label>
+		<graphicData>
+			<texPath>5B/Anneli_Ahmislan_KneePlatesB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5B/Anneli_Ahmislan_KneePlatesB</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+</Defs>

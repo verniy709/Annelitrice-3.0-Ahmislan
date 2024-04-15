@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Ahmislan_1AB" ParentName="Anneli_1AB" Abstract="True">
+		<equippedStatOffsets>
+			<TameAnimalChance>0.2</TameAnimalChance>
+			<TrainAnimalChance>0.2</TrainAnimalChance>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+<!--Anneli_Ahmislan_BodySuit-->
+	<ThingDef ParentName="Anneli_Ahmislan_1AB">
+		<defName>Anneli_Ahmislan_BodySuit</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)1AB_BodySuit</label>
+		<graphicData>
+			<texPath>1AB/Anneli_Ahmislan_BodySuit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1AB/Anneli_Ahmislan_BodySuit</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_Ahmislan_Townsperson_F_A</li>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_F_D</li>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
+				<li>Anneli_Ahmislan_Noble_B</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+<!--Anneli_Ahmislan_Lingerie-->
+	<ThingDef ParentName="Anneli_Ahmislan_1AB">
+		<defName>Anneli_Ahmislan_Lingerie</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)1AB_Lingerie</label>
+		<graphicData>
+			<texPath>1AB/Anneli_Ahmislan_Lingerie</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1AB/Anneli_Ahmislan_Lingerie</wornGraphicPath>
+			<tags>
+				<li>Anneli_Underwear</li>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Nun_A</li>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Noble_A</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(240,205,195,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

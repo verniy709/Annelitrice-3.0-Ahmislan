@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Ahmislan_7_NonMetal" ParentName="Anneli_7_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Category_Annelitrice_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_Backpack-->
+	<ThingDef ParentName="Anneli_Ahmislan_7_NonMetal">
+		<defName>Anneli_Ahmislan_Backpack</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)7_Backpack</label>
+		<graphicData>
+			<texPath>7/Anneli_Ahmislan_Backpack</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>7/Anneli_Ahmislan_Backpack</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Townsperson_M</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(95,80,70,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(160,125,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(140,70,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_Bascket-->
+	<ThingDef ParentName="Anneli_Ahmislan_7_NonMetal">
+		<defName>Anneli_Ahmislan_Bascket</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)7_Bascket</label>
+		<graphicData>
+			<texPath>7/Anneli_Ahmislan_Bascket</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>7/Anneli_Ahmislan_Bascket</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Farmer_F</li>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(140,0,20,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(205,200,205,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(145,140,115,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_Sack-->
+	<ThingDef ParentName="Anneli_Ahmislan_7_NonMetal">
+		<defName>Anneli_Ahmislan_Sack</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)7_Sack</label>
+		<graphicData>
+			<texPath>7/Anneli_Ahmislan_Sack</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>7/Anneli_Ahmislan_Sack</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Levy</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(205,200,205,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(115,105,90,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+</Defs>

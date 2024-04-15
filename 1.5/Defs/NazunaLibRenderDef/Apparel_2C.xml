@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Moccasins</defName>
+		<originalDef>Anneli_Ahmislan_Moccasins</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Moccasins</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.2541, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.2541, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.2541, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.2541, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Boots</defName>
+		<originalDef>Anneli_Ahmislan_Boots</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Boots</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.3828, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.3828, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.3828, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.3828, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Heels</defName>
+		<originalDef>Anneli_Ahmislan_Heels</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_Heels</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.2541, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.2541, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.2541, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.2541, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_MaryJane</defName>
+		<originalDef>Anneli_Ahmislan_MaryJane</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_MaryJane</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.2541, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.2541, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.2541, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.2541, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_LongBootsA</defName>
+		<originalDef>Anneli_Ahmislan_LongBootsA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_LongBootsA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.2541, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.2541, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.2541, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.2541, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_LongBootsB</defName>
+		<originalDef>Anneli_Ahmislan_LongBootsB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_LongBootsB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.2541, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.2541, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.2541, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.2541, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_RidingBoots</defName>
+		<originalDef>Anneli_Ahmislan_RidingBoots</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_RidingBoots</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.3828, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.3828, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.3828, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.3828, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_SolleretsA</defName>
+		<originalDef>Anneli_Ahmislan_SolleretsA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_SolleretsA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.3828, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.3828, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.3828, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.3828, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_SolleretsB</defName>
+		<originalDef>Anneli_Ahmislan_SolleretsB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_SolleretsB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.3828, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.3828, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.3828, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.3828, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_LongSolleretsA</defName>
+		<originalDef>Anneli_Ahmislan_LongSolleretsA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_LongSolleretsA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.3828, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.3828, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.3828, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.3828, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_LongSolleretsB</defName>
+		<originalDef>Anneli_Ahmislan_LongSolleretsB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>2C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_LongSolleretsB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel2C</textureLevelsName>
+				<drawOffsetSouth>(0, 1.3828, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.3828, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.3828, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.3828, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+</Defs>
