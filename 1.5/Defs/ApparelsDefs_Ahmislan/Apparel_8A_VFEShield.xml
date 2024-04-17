@@ -96,7 +96,7 @@
         <graphicData>
             <texPath>8A/Anneli_Ahmislan_Banner</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1.1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
@@ -134,10 +134,13 @@
                     </west>
                 </offHandHoldOffset>
             </li>
-            <li Class="Annelitrice.CompProperties_ApparelHediffGiver">
-                <hediffDef>Anneli_Aura_Zeal</hediffDef>        
-                <severityIncrease>0.2</severityIncrease>  
-                <radius>15</radius>                         
+            <li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
+                <hediff>Anneli_Aura_Zeal</hediff>
+                <range>21.9</range>
+                <canTargetSelf>true</canTargetSelf>
+                <drawLines>false</drawLines>
+                <ignoreMechs>true</ignoreMechs>
+                <checkInterval>500</checkInterval>
             </li>
         </comps>
         <colorGenerator Class="ColorGenerator_Options">
@@ -159,7 +162,7 @@
         <graphicData>
             <texPath>8A/Anneli_Ahmislan_WarFlag</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1.1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
@@ -197,10 +200,13 @@
                     </west>
                 </offHandHoldOffset>
             </li>
-            <li Class="Annelitrice.CompProperties_ApparelHediffGiver">
-                <hediffDef>Anneli_Aura_Nobility</hediffDef>        
-                <severityIncrease>0.2</severityIncrease>  
-                <radius>15</radius>                         
+            <li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
+                <hediff>Anneli_Aura_Nobility</hediff>
+                <range>21.9</range>
+                <canTargetSelf>true</canTargetSelf>
+                <drawLines>false</drawLines>
+                <ignoreMechs>true</ignoreMechs>
+                <checkInterval>500</checkInterval>
             </li>
         </comps>
         <colorGenerator Class="ColorGenerator_Options">

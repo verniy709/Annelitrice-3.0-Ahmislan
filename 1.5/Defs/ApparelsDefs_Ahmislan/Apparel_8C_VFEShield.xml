@@ -108,7 +108,7 @@
         <graphicData>
             <texPath>8C/Anneli_Ahmislan_HeaterShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
@@ -166,7 +166,7 @@
         <graphicData>
             <texPath>8C/Anneli_Ahmislan_KiteShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
@@ -224,7 +224,7 @@
         <graphicData>
             <texPath>8C/Anneli_Ahmislan_WoodenShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
