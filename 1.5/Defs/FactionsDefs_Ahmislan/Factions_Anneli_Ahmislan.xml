@@ -34,10 +34,14 @@
 		<leaderTitle>Queen</leaderTitle>
 		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
 		<settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
-		<backstoryCategories>
-			<li>Anneli_Childhood</li>
-			<li>Anneli_Story_Ahmislan</li>
-		</backstoryCategories>
+		<backstoryFilters>
+			<li>
+				<categories>
+					<li>Anneli_Childhood</li>
+					<li>Anneli_Story_Ahmislan</li>
+				</categories>
+			</li>
+		</backstoryFilters>
 		<maxPawnCostPerTotalPointsCurve>
 			<points>
 				<li>(0, 200)</li> 
