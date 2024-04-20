@@ -5,43 +5,43 @@
 
   <Anneli_Ahmislan_Farmer.title>安妮莉特丝艾米斯兰农民</Anneli_Ahmislan_Farmer.title>
   <Anneli_Ahmislan_Farmer.titleShort>艾米斯兰农民</Anneli_Ahmislan_Farmer.titleShort>
-  <Anneli_Ahmislan_Farmer.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰农民. 她和她祖母一样顽固.</Anneli_Ahmislan_Farmer.baseDesc>
+  <Anneli_Ahmislan_Farmer.description>[PAWN_nameDef]扮演一名艾米斯兰农民. 她和她祖母一样顽固.</Anneli_Ahmislan_Farmer.description>
 
   <Anneli_Ahmislan_Miner.title>安妮莉特丝艾米斯兰矿工</Anneli_Ahmislan_Miner.title>
   <Anneli_Ahmislan_Miner.titleShort>艾米斯兰矿工</Anneli_Ahmislan_Miner.titleShort>
-  <Anneli_Ahmislan_Miner.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰矿工. 她梦想着找到金矿，然后从领主那里获得一些牲畜作为奖赏.</Anneli_Ahmislan_Miner.baseDesc>
+  <Anneli_Ahmislan_Miner.description>[PAWN_nameDef]扮演一名艾米斯兰矿工. 她梦想着找到金矿，然后从领主那里获得一些牲畜作为奖赏.</Anneli_Ahmislan_Miner.description>
 
   <Anneli_Ahmislan_Shepherd.title>安妮莉特丝艾米斯兰牧羊人</Anneli_Ahmislan_Shepherd.title>
   <Anneli_Ahmislan_Shepherd.titleShort>艾米斯兰牧羊人</Anneli_Ahmislan_Shepherd.titleShort>
-  <Anneli_Ahmislan_Shepherd.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰牧羊人. 她尽力保护她的财产免受恶劣天气、捕食者和雇佣兵的侵害.</Anneli_Ahmislan_Shepherd.baseDesc>
+  <Anneli_Ahmislan_Shepherd.description>[PAWN_nameDef]扮演一名艾米斯兰牧羊人. 她尽力保护她的财产免受恶劣天气、捕食者和雇佣兵的侵害.</Anneli_Ahmislan_Shepherd.description>
 
   <Anneli_Ahmislan_CourtLady.title>安妮莉特丝艾米斯兰侍女</Anneli_Ahmislan_CourtLady.title>
   <Anneli_Ahmislan_CourtLady.titleShort>艾米斯兰侍女</Anneli_Ahmislan_CourtLady.titleShort>
-  <Anneli_Ahmislan_CourtLady.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰侍女. 她非常聪慧, 有教养且圆滑.</Anneli_Ahmislan_CourtLady.baseDesc>
+  <Anneli_Ahmislan_CourtLady.description>[PAWN_nameDef]扮演一名艾米斯兰侍女. 她非常聪慧, 有教养且圆滑.</Anneli_Ahmislan_CourtLady.description>
 
   <Anneli_Ahmislan_TextileWorker.title>安妮莉特丝艾米斯兰纺织工人</Anneli_Ahmislan_TextileWorker.title>
   <Anneli_Ahmislan_TextileWorker.titleShort>艾米斯兰纺织工人</Anneli_Ahmislan_TextileWorker.titleShort>
-  <Anneli_Ahmislan_TextileWorker.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰纺织工人. 她能织出精美的波斯地毯, 虽然不知道“波斯”是什么.</Anneli_Ahmislan_TextileWorker.baseDesc>
+  <Anneli_Ahmislan_TextileWorker.description>[PAWN_nameDef]扮演一名艾米斯兰纺织工人. 她能织出精美的波斯地毯, 虽然不知道“波斯”是什么.</Anneli_Ahmislan_TextileWorker.description>
 
   <Anneli_Ahmislan_Mercenary.title>安妮莉特丝艾米斯兰雇佣兵</Anneli_Ahmislan_Mercenary.title>
   <Anneli_Ahmislan_Mercenary.titleShort>艾米斯兰雇佣兵</Anneli_Ahmislan_Mercenary.titleShort>
-  <Anneli_Ahmislan_Mercenary.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰雇佣兵. 她的专业能力就是杀人越货.</Anneli_Ahmislan_Mercenary.baseDesc>
+  <Anneli_Ahmislan_Mercenary.description>[PAWN_nameDef]扮演一名艾米斯兰雇佣兵. 她的专业能力就是杀人越货.</Anneli_Ahmislan_Mercenary.description>
 
   <Anneli_Ahmislan_Nun.title>安妮莉特丝修女</Anneli_Ahmislan_Nun.title>
   <Anneli_Ahmislan_Nun.titleShort>艾米斯兰修女</Anneli_Ahmislan_Nun.titleShort>
-  <Anneli_Ahmislan_Nun.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰修女. 她对探索啤酒与果酒新配方的热爱远超祈祷.</Anneli_Ahmislan_Nun.baseDesc>
+  <Anneli_Ahmislan_Nun.description>[PAWN_nameDef]扮演一名艾米斯兰修女. 她对探索啤酒与果酒新配方的热爱远超祈祷.</Anneli_Ahmislan_Nun.description>
 
   <Anneli_Ahmislan_MartialKnight.title>安妮莉特丝艾米斯兰尚武骑士</Anneli_Ahmislan_MartialKnight.title>
   <Anneli_Ahmislan_MartialKnight.titleShort>艾米斯兰尚武骑士</Anneli_Ahmislan_MartialKnight.titleShort>
-  <Anneli_Ahmislan_MartialKnight.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰骑士,向往勇猛与荣誉. 相较于管理领地,她更喜欢多砍几个脑袋.</Anneli_Ahmislan_MartialKnight.baseDesc>
+  <Anneli_Ahmislan_MartialKnight.description>[PAWN_nameDef]扮演一名艾米斯兰骑士,向往勇猛与荣誉. 相较于管理领地,她更喜欢多砍几个脑袋.</Anneli_Ahmislan_MartialKnight.description>
 
   <Anneli_Ahmislan_FamilyKnight.title>安妮莉特丝艾米斯兰居家骑士</Anneli_Ahmislan_FamilyKnight.title>
   <Anneli_Ahmislan_FamilyKnight.titleShort>艾米斯兰居家骑士</Anneli_Ahmislan_FamilyKnight.titleShort>
-  <Anneli_Ahmislan_FamilyKnight.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰骑士,同时也是宴会与排场的大师. 虽然从没上过战场,但她喜欢在重要场合炫耀她精致的盔甲.</Anneli_Ahmislan_FamilyKnight.baseDesc>
+  <Anneli_Ahmislan_FamilyKnight.description>[PAWN_nameDef]扮演一名艾米斯兰骑士,同时也是宴会与排场的大师. 虽然从没上过战场,但她喜欢在重要场合炫耀她精致的盔甲.</Anneli_Ahmislan_FamilyKnight.description>
 
   <Anneli_Ahmislan_Noble.title>安妮莉特丝艾米斯兰贵族</Anneli_Ahmislan_Noble.title>
   <Anneli_Ahmislan_Noble.titleShort>艾米斯兰贵族</Anneli_Ahmislan_Noble.titleShort>
-  <Anneli_Ahmislan_Noble.baseDesc>[PAWN_nameDef]扮演一名艾米斯兰贵族. 虽然知道一切终归只是徒劳,她依旧把领地治理的井井有条.</Anneli_Ahmislan_Noble.baseDesc>
+  <Anneli_Ahmislan_Noble.description>[PAWN_nameDef]扮演一名艾米斯兰贵族. 虽然知道一切终归只是徒劳,她依旧把领地治理的井井有条.</Anneli_Ahmislan_Noble.description>
 
 
 </LanguageData>
