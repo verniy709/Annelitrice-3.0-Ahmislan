@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_Ahmislan_7_NonMetal" ParentName="Anneli_7_NonMetal" Abstract="True">
 		<thingCategories>
-			<li>Category_Annelitrice_Ahmislan</li>
+			<li>Anneli_Category_Ahmislan</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>

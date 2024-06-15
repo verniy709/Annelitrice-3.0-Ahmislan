@@ -7,7 +7,7 @@
 			<TrainAnimalChance>0.1</TrainAnimalChance>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_Ahmislan</li>
+			<li>Anneli_Category_Ahmislan</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>

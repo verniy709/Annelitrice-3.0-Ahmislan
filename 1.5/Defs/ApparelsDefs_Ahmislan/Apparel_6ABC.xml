@@ -7,7 +7,7 @@
 			<MeditationFocusGain MayRequire="Ludeon.RimWorld.Royalty">0.4</MeditationFocusGain>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_Ahmislan</li>
+			<li>Anneli_Category_Ahmislan</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
@@ -22,7 +22,7 @@
 			<MeditationFocusGain MayRequire="Ludeon.RimWorld.Royalty">0.4</MeditationFocusGain>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_Ahmislan</li>
+			<li>Anneli_Category_Ahmislan</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>

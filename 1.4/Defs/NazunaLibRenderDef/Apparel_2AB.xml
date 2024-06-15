@@ -302,7 +302,7 @@
 					<li>Anneli_Back_Ahmislan_LongDressB</li>
 				</prefix>
 				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell5A</textureLevelsName>
+				<textureLevelsName>Anneli_BottomShell2AB</textureLevelsName>
 				<drawOffsetSouth>(0, -1.57585, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 1.57585, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.57585, 0)</drawOffsetNorth>
@@ -425,7 +425,7 @@
 					<li>Anneli_Back_Ahmislan_NunAttireA</li>
 				</prefix>
 				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell5A</textureLevelsName>
+				<textureLevelsName>Anneli_BottomShell2AB</textureLevelsName>
 				<drawOffsetSouth>(0, -1.57585, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 1.57585, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.57585, 0)</drawOffsetNorth>

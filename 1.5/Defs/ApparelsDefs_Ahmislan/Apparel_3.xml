@@ -6,7 +6,7 @@
 			<ConstructionSpeed>0.2</ConstructionSpeed>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_Ahmislan</li>
+			<li>Anneli_Category_Ahmislan</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
