@@ -16,9 +16,9 @@
 				</categories>
 			</li>
 		</backstoryFiltersOverride>
-		<weaponMoney>1500</weaponMoney>
+		<weaponMoney>3000</weaponMoney>
 		<techHediffsChance>0.01</techHediffsChance>
-		<techHediffsMoney>100</techHediffsMoney>
+		<techHediffsMoney>1000</techHediffsMoney>
 		<techHediffsTags>
 			<li>Poor</li>
 			<li>Simple</li>

@@ -12,7 +12,7 @@
 					<li>Anneli_Ahmislan_Beret</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -34,7 +34,7 @@
 					<li>Anneli_Ahmislan_Bonnet</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -206,7 +206,7 @@
 					<li>Anneli_Ahmislan_Coif</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -378,7 +378,7 @@
 					<li>Anneli_Ahmislan_FlowerCrown</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 90, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 90, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 90, 0)</drawOffsetNorth>
@@ -400,7 +400,7 @@
 					<li>Anneli_Ahmislan_HairbandA</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 90, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 90, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 90, 0)</drawOffsetNorth>
@@ -422,7 +422,7 @@
 					<li>Anneli_Ahmislan_HairbandB</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 90, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 90, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 90, 0)</drawOffsetNorth>
@@ -444,7 +444,7 @@
 					<li>Anneli_Ahmislan_HunterHat</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -616,7 +616,7 @@
 					<li>Anneli_Ahmislan_Mantilla</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -778,7 +778,7 @@
 					<li>Anneli_Back_Ahmislan_Mantilla</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A_Back</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
 				<drawOffsetSouth>(0, -2, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, -2, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, -2, 0)</drawOffsetNorth>
@@ -801,7 +801,7 @@
 					<li>Anneli_Ahmislan_NunVeil</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -963,7 +963,7 @@
 					<li>Anneli_Back_Ahmislan_NunVeil</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A_Back</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
 				<drawOffsetSouth>(0, -2, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, -2, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, -2, 0)</drawOffsetNorth>
@@ -986,7 +986,7 @@
 					<li>Anneli_Ahmislan_StrawHat</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1148,7 +1148,7 @@
 					<li>Anneli_Back_Ahmislan_StrawHat</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A_Back</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
 				<drawOffsetSouth>(0, -2, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, -2, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, -2, 0)</drawOffsetNorth>
@@ -1171,7 +1171,7 @@
 					<li>Anneli_Ahmislan_Bascinet</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1343,7 +1343,7 @@
 					<li>Anneli_Ahmislan_CrownA</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 90, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 90, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 90, 0)</drawOffsetNorth>
@@ -1365,7 +1365,7 @@
 					<li>Anneli_Ahmislan_CrownB</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 90, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 90, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 90, 0)</drawOffsetNorth>
@@ -1387,7 +1387,7 @@
 					<li>Anneli_Ahmislan_CrownC</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 90, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 90, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 90, 0)</drawOffsetNorth>
@@ -1409,7 +1409,7 @@
 					<li>Anneli_Ahmislan_HelmA</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1581,7 +1581,7 @@
 					<li>Anneli_Ahmislan_HelmB</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1753,7 +1753,7 @@
 					<li>Anneli_Ahmislan_HelmC</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1925,7 +1925,7 @@
 					<li>Anneli_Ahmislan_KettleHelm</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
