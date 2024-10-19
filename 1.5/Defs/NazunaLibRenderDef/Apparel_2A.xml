@@ -57,6 +57,7 @@
 				<drawOffsetNorth>(0, 1.788, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LBS_Left</def>
@@ -76,6 +77,7 @@
 				<drawOffsetNorth>(0, 1.788, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.538, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LBS_Right</def>
@@ -117,6 +119,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
@@ -136,6 +139,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
@@ -177,6 +181,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_ShirtSS_Left</def>
@@ -196,6 +201,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_ShirtSS_Right</def>
