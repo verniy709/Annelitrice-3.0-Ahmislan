@@ -202,6 +202,9 @@
 				<li>Anneli_Ahmislan_Noble_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Sock</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -248,6 +251,9 @@
 				<li>Anneli_Ahmislan_Noble_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Sock</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -294,6 +300,9 @@
 				<li>Anneli_Ahmislan_Noble_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Sock</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -338,6 +347,9 @@
 				<li>Anneli_Ahmislan_Knight_C</li> 
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Sock</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -370,6 +382,9 @@
 				<li>Anneli_Ahmislan_Knight_C</li> 
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Sock</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>

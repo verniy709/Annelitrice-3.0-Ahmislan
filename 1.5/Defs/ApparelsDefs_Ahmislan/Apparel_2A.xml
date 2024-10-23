@@ -31,6 +31,9 @@
 				<li>Anneli_Ahmislan_Townsperson_F_C</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Underwear</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -57,6 +60,9 @@
 				<li>Anneli_Ahmislan_Townsperson_F_D</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Underwear</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -97,6 +103,9 @@
 				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Underwear</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -125,6 +134,9 @@
 				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Underwear</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>

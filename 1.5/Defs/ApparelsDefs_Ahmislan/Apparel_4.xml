@@ -27,6 +27,9 @@
 				<li>Anneli_Ahmislan_Levy</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Shell</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
