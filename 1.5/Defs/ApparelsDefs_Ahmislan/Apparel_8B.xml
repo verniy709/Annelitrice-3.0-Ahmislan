@@ -66,6 +66,7 @@
 				<li>Anneli_Ahmislan_Knight_B</li>
 				<li>Anneli_Ahmislan_Knight_C</li>
 				<li>Anneli_Ahmislan_Noble_B</li>
+				<li>Anneli_ExcludeShambler</li>
 				<li>Anneli_SkipWing</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -149,6 +150,7 @@
 			<tags>
 				<li>Anneli_Ahmislan_Knight_A</li>
 				<li>Anneli_Ahmislan_Noble_A</li>
+				<li>Anneli_ExcludeShambler</li>
 				<li>Anneli_SkipWing</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
