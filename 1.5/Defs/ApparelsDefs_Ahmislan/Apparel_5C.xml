@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Ahmislan_5C_NonMetal" ParentName="Anneli_5C_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Ahmislan_5C_Metal" ParentName="Anneli_5C_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_KnightGauntlets-->
+	<ThingDef ParentName="Anneli_Ahmislan_5C_Metal">
+		<defName>Anneli_Ahmislan_KnightGauntlets</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)5C_KnightGauntlets</label>
+		<graphicData>
+			<texPath>5C/Anneli_Ahmislan_KnightGauntlets</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5C/Anneli_Ahmislan_KnightGauntlets</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_Knight_C</li> 
+				<li>Anneli_Ahmislan_Nun_B</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+
+</Defs>
