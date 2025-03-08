@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_LongLaceGloves</defName>
+		<originalDef>Anneli_Ahmislan_LongLaceGloves</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>5C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_LongLaceGloves</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5C_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<useBodyType>true</useBodyType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Ahmislan_LongLaceGloves_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_LongLaceGloves</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5C_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.731, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.481, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<useBodyType>true</useBodyType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Ahmislan_LongLaceGloves_Right</def>
+				</actionManager>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
 		<defName>Anneli_Ahmislan_KnightGauntlets</defName>
 		<originalDef>Anneli_Ahmislan_KnightGauntlets</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>

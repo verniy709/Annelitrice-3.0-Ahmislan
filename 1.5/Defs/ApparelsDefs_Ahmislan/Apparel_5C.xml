@@ -23,6 +23,33 @@
 		</recipeMaker>
 	</ThingDef>
 
+	<!--Anneli_Ahmislan_LongLaceGloves-->
+	<ThingDef ParentName="Anneli_Ahmislan_5C_Metal">
+		<defName>Anneli_Ahmislan_LongLaceGloves</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)5C_LongLaceGloves</label>
+		<graphicData>
+			<texPath>5C/Anneli_Ahmislan_LongLaceGloves</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5C/Anneli_Ahmislan_LongLaceGloves</wornGraphicPath>
+			<tags>
+
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
 	<!--Anneli_Ahmislan_KnightGauntlets-->
 	<ThingDef ParentName="Anneli_Ahmislan_5C_Metal">
 		<defName>Anneli_Ahmislan_KnightGauntlets</defName>
@@ -52,6 +79,5 @@
 		</colorGenerator>
 		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
-
 
 </Defs>
