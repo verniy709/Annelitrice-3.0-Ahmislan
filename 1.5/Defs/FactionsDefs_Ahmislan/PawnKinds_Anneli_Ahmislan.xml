@@ -274,6 +274,19 @@
 			<li>MedievalRanged</li>
 			<li>MedievalRangedHeavy</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Ahmislan_LongLaceGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
@@ -330,6 +343,19 @@
 			<li>MedievalMeleeDecent</li>
 			<li>MedievalMeleeAdvanced</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Ahmislan_LongLaceGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
@@ -353,6 +379,19 @@
 			<li>MedievalMeleeDecent</li>
 			<li>MedievalMeleeAdvanced</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Ahmislan_LongLaceGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
@@ -376,6 +415,19 @@
 			<li>MedievalMeleeDecent</li>
 			<li>MedievalMeleeAdvanced</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Ahmislan_LongLaceGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
