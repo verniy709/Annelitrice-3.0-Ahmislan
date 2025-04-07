@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/NareisLib.MultiTexDef[defName="Anneli_Ahmislan_Banner"]</xpath>
+		<value>
+			<NareisLib.MultiTexDef>
+				<defName>Anneli_Ahmislan_Banner</defName>
+				<originalDef>Anneli_Ahmislan_Banner</originalDef>
+				<originalDefClass>ThingDef</originalDefClass>
+				<renderOriginTex>false</renderOriginTex>
+				<path>8A/</path>
+				<levels>
+					<li>
+						<prefix>
+							<li>Anneli_Ahmislan_Banner</li>
+						</prefix>
+						<renderLayer>Apparel</renderLayer>
+						<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+						<drawOffsetSouth>(-0.42, 2.750, 0.36)</drawOffsetSouth>
+						<drawOffsetEast>(0.12, 2.750, 0.37)</drawOffsetEast>
+						<drawOffsetNorth>(0.42, 0.038, 0.36)</drawOffsetNorth>
+						<drawOffsetWest>(-0.12, 0.038, 0.37)</drawOffsetWest>
+						<meshSize>(2.7,2.7)</meshSize>
+						<meshType>Body</meshType>
+						<useStaticYOffset>true</useStaticYOffset>
+					</li>
+				</levels>
+			</NareisLib.MultiTexDef>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/NareisLib.MultiTexDef[defName="Anneli_Ahmislan_WarFlag"]</xpath>
+		<value>
+			<NareisLib.MultiTexDef>
+				<defName>Anneli_Ahmislan_WarFlag</defName>
+				<originalDef>Anneli_Ahmislan_WarFlag</originalDef>
+				<originalDefClass>ThingDef</originalDefClass>
+				<renderOriginTex>false</renderOriginTex>
+				<path>8A/</path>
+				<levels>
+					<li>
+						<prefix>
+							<li>Anneli_Ahmislan_WarFlag</li>
+						</prefix>
+						<renderLayer>Apparel</renderLayer>
+						<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+						<drawOffsetSouth>(-0.42, 2.750, 0.36)</drawOffsetSouth>
+						<drawOffsetEast>(0.12, 2.750, 0.37)</drawOffsetEast>
+						<drawOffsetNorth>(0.42, 0.038, 0.36)</drawOffsetNorth>
+						<drawOffsetWest>(-0.12, 0.038, 0.37)</drawOffsetWest>
+						<meshSize>(2.7,2.7)</meshSize>
+						<meshType>Body</meshType>
+						<useStaticYOffset>true</useStaticYOffset>
+					</li>
+				</levels>
+			</NareisLib.MultiTexDef>
+		</value>
+	</Operation>
+
+</Patch>
