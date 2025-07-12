@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_Banner</defName>
+		<originalDef>Anneli_Ahmislan_Banner</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>true</renderOriginTex>
+		<path>Anneli_Null/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Null</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+				<meshType>Body</meshType>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_WarFlag</defName>
+		<originalDef>Anneli_Ahmislan_WarFlag</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>true</renderOriginTex>
+		<path>Anneli_Null/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Null</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+				<meshType>Body</meshType>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>

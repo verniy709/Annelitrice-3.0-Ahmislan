@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <!-- Guests -->
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/QuestScriptDef/root[@Class="QuestNode_Sequence"]/nodes/li[@Class="QuestNode_IsSet"]/node[@Class="QuestNode_GetRandomPawnKindForFaction"]/choices</xpath>
+                <value>
+                    <li>
+                        <factionDef>Anneli_Faction_Ahmislan</factionDef>
+                        <pawnKinds>
+                            <li>Anneli_Ahmislan_Noble_A</li>
+                            <li>Anneli_Ahmislan_Noble_B</li>
+                            <li>Anneli_Ahmislan_Knight_A</li>
+                            <li>Anneli_Ahmislan_Knight_B</li>
+                            <li>Anneli_Ahmislan_Knight_C</li>
+                            <li>Anneli_Ahmislan_Nun_A</li>
+                            <li>Anneli_Ahmislan_Nun_B</li>
+                            <li>Anneli_Ahmislan_Butler</li>
+                            <li>Anneli_Ahmislan_Maid_A</li>
+                            <li>Anneli_Ahmislan_Maid_B</li>
+                            <li>Anneli_Ahmislan_Townsperson_M</li>
+                            <li>Anneli_Ahmislan_Townsperson_F_A</li>
+                            <li>Anneli_Ahmislan_Townsperson_F_B</li>
+                            <li>Anneli_Ahmislan_Townsperson_F_C</li>
+                            <li>Anneli_Ahmislan_Townsperson_F_D</li>
+                            <li>Anneli_Ahmislan_Levy</li>
+                            <li>Anneli_Ahmislan_Farmer_M</li>
+                            <li>Anneli_Ahmislan_Farmer_F</li>
+                        </pawnKinds>
+                    </li>  
+                </value>
+            </li>
+            <!-- Mercenaries -->
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/QuestScriptDef/root[@Class="QuestNode_Sequence"]/nodes/li[@Class="QuestNode_GetRandomPawnKindForFaction"]/choices</xpath>
+                <value>
+                    <li>
+                        <factionDef>Anneli_Faction_Ahmislan</factionDef>
+                        <pawnKinds>
+                            <li>Anneli_Ahmislan_Noble_A</li>
+                            <li>Anneli_Ahmislan_Noble_B</li>
+                            <li>Anneli_Ahmislan_Knight_A</li>
+                            <li>Anneli_Ahmislan_Knight_B</li>
+                            <li>Anneli_Ahmislan_Knight_C</li>
+                            <li>Anneli_Ahmislan_Nun_A</li>
+                            <li>Anneli_Ahmislan_Nun_B</li>
+                            <li>Anneli_Ahmislan_Butler</li>
+                            <li>Anneli_Ahmislan_Maid_A</li>
+                            <li>Anneli_Ahmislan_Maid_B</li>
+                            <li>Anneli_Ahmislan_Townsperson_M</li>
+                            <li>Anneli_Ahmislan_Townsperson_F_A</li>
+                            <li>Anneli_Ahmislan_Townsperson_F_B</li>
+                            <li>Anneli_Ahmislan_Townsperson_F_C</li>
+                            <li>Anneli_Ahmislan_Townsperson_F_D</li>
+                            <li>Anneli_Ahmislan_Levy</li>
+                            <li>Anneli_Ahmislan_Farmer_M</li>
+                            <li>Anneli_Ahmislan_Farmer_F</li>
+                        </pawnKinds>
+                    </li>  
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

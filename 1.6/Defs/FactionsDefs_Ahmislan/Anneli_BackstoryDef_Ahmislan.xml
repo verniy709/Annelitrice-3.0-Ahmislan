@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--Adulthood-->
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_Farmer</defName>
+		<title>Farmer</title>
+		<titleShort>Farmer</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan farmer, mirroring the unyielding resolve of her grandmother.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Construction>2</Construction>
+			<Crafting>2</Crafting>
+			<Cooking>2</Cooking>
+			<Plants>8</Plants>
+			<Intellectual>-6</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_Miner</defName>
+		<title>Miner</title>
+		<titleShort>Miner</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan miner, driven by dreams of discovering a gold mine and earning cattle as rewards.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Construction>2</Construction>
+			<Crafting>2</Crafting>
+			<Animals>2</Animals>
+			<Mining>8</Mining>
+			<Intellectual>-6</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_Shepherd</defName>
+		<title>Shepherd</title>
+		<titleShort>Shepherd</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan shepherd, safeguarding her properties from adverse weather, predators, and mercenaries.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Shooting>2</Shooting>
+			<Cooking>2</Cooking>
+			<Plants>2</Plants>
+			<Animals>8</Animals>
+			<Intellectual>-6</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_CourtLady</defName>
+		<title>Court Lady</title>
+		<titleShort>Court Lady</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan court lady, intelligent, well-educated and sophisticated.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Cooking>2</Cooking>
+			<Artistic>2</Artistic>
+			<Social>2</Social>
+			<Intellectual>2</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_TextileWorker</defName>
+		<title>TextileWorker</title>
+		<titleShort>Textile Worker</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan textile worker. She killfully crafts beautiful Persian rugs, despite being unaware of what "Persia" means.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Artistic>4</Artistic>
+			<Crafting>4</Crafting>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_Mercenary</defName>
+		<title>Mercenary</title>
+		<titleShort>Mercenary</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan mercenary, specializing in the grim tasks of eliminating individuals and acquiring their possessions.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Shooting>2</Shooting>
+			<Melee>6</Melee>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_Nun</defName>
+		<title>Annelitrice Nun</title>
+		<titleShort>Nun</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan nun. Her focus leans more towards discovering new recipes for wine and beer than devout prayers.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Cooking>2</Cooking>
+			<Medicine>2</Medicine>
+			<Intellectual>4</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_MartialKnight</defName>
+		<title>Martial Knight</title>
+		<titleShort>Martial Knight</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan knight, ardently valuing bravery and honor. Her passion lies more in beheading foes than in the intricacies of fief management.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Melee>10</Melee>
+			<Intellectual>-2</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_FamilyKnight</defName>
+		<title>Family Knight</title>
+		<titleShort>Family Knight</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan knight and a master of feasts and pageantry. She flaunts fine armor at grand events, despite never having experienced an actual battle.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Artistic>6</Artistic>
+			<Social>6</Social>
+			<Melee>-4</Melee>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Ahmislan_Noble</defName>
+		<title>Noble</title>
+		<titleShort>Noble</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as an Ahmislan noble. She acknowledges the inevitable arrival of doom yet maintains careful stewardship over her fiefs.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Melee>2</Melee>
+			<Social>2</Social>
+			<Intellectual>4</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Ahmislan</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+</Defs>

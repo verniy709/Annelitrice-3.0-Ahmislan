@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Ahmislan_6BC_NonMetal" ParentName="Anneli_6BC_NonMetal" Abstract="True">
+		<equippedStatOffsets>
+			<PsychicSensitivityOffset>0.2</PsychicSensitivityOffset>
+			<MeditationFocusGain MayRequire="Ludeon.RimWorld.Royalty">0.2</MeditationFocusGain>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Anneli_Category_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Ahmislan_6BC_Metal" ParentName="Anneli_6BC_Metal" Abstract="True">
+		<equippedStatOffsets>
+			<PsychicSensitivityOffset>0.2</PsychicSensitivityOffset>
+			<MeditationFocusGain MayRequire="Ludeon.RimWorld.Royalty">0.2</MeditationFocusGain>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Anneli_Category_Ahmislan</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Ahmislan_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_MasqueradeMask-->
+	<ThingDef ParentName="Anneli_Ahmislan_6BC_NonMetal">
+		<defName>Anneli_Ahmislan_MasqueradeMask</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)6BC_MasqueradeMask</label>
+		<graphicData>
+			<texPath>6BC/Anneli_Ahmislan_MasqueradeMask</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6BC/Anneli_Ahmislan_MasqueradeMask</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_Maid_B</li>
+				<li>Anneli_Ahmislan_Butler</li>
+				<li>Anneli_Ahmislan_Noble_A</li>
+				<li>Anneli_Ahmislan_Noble_B</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_NoseGuard-->
+	<ThingDef ParentName="Anneli_Ahmislan_6BC_Metal">
+		<defName>Anneli_Ahmislan_NoseGuard</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)6BC_NoseGuard</label>
+		<graphicData>
+			<texPath>6BC/Anneli_Ahmislan_NoseGuard</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6BC/Anneli_Ahmislan_NoseGuard</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_Knight_A</li> 
+				<li>Anneli_Ahmislan_Knight_B</li> 
+				<li>Anneli_Ahmislan_Knight_C</li> 
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(120,120,130,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+		
+</Defs>

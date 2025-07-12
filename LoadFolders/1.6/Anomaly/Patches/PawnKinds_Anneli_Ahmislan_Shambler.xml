@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/FactionDef[defName="Entities"]/pawnGroupMakers</xpath>
+        <value>
+            <li>
+                <!-- Anneli_Shambler -->
+                <kindDef>Shamblers</kindDef>
+                <commonality>10</commonality>
+                <options>
+
+                </options>
+            </li>
+        </value>
+    </Operation>
+</Patch>
