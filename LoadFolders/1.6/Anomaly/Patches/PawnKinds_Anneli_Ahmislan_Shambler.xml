@@ -8,7 +8,23 @@
                 <kindDef>Shamblers</kindDef>
                 <commonality>10</commonality>
                 <options>
-
+                    <Anneli_Ahmislan_Shambler_Noble_A>1</Anneli_Ahmislan_Shambler_Noble_A>
+                    <Anneli_Ahmislan_Shambler_Noble_B>1</Anneli_Ahmislan_Shambler_Noble_B>
+                    <Anneli_Ahmislan_Shambler_Knight_A>2</Anneli_Ahmislan_Shambler_Knight_A>
+                    <Anneli_Ahmislan_Shambler_Knight_B>3</Anneli_Ahmislan_Shambler_Knight_B>
+                    <Anneli_Ahmislan_Shambler_Knight_C>3</Anneli_Ahmislan_Shambler_Knight_C>
+                    <Anneli_Ahmislan_Shambler_Nun_A>2</Anneli_Ahmislan_Shambler_Nun_A>
+                    <Anneli_Ahmislan_Shambler_Nun_B>3</Anneli_Ahmislan_Shambler_Nun_B>
+                    <Anneli_Ahmislan_Shambler_Butler>3</Anneli_Ahmislan_Shambler_Butler>
+                    <Anneli_Ahmislan_Shambler_Maid_A>3</Anneli_Ahmislan_Shambler_Maid_A>
+                    <Anneli_Ahmislan_Shambler_Maid_B>3</Anneli_Ahmislan_Shambler_Maid_B>
+                    <Anneli_Ahmislan_Shambler_Townsperson_M>3</Anneli_Ahmislan_Shambler_Townsperson_M>
+                    <Anneli_Ahmislan_Shambler_Townsperson_F_A>2</Anneli_Ahmislan_Shambler_Townsperson_F_A>
+                    <Anneli_Ahmislan_Shambler_Townsperson_F_B>2</Anneli_Ahmislan_Shambler_Townsperson_F_B>
+                    <Anneli_Ahmislan_Shambler_Townsperson_F_C>2</Anneli_Ahmislan_Shambler_Townsperson_F_C>
+                    <Anneli_Ahmislan_Shambler_Townsperson_F_D>2</Anneli_Ahmislan_Shambler_Townsperson_F_D>
+                    <Anneli_Ahmislan_Shambler_Levy>3</Anneli_Ahmislan_Shambler_Levy>
+                    <Anneli_Ahmislan_Shambler_Farmer_M>3</Anneli_Ahmislan_Shambler_Farmer_M>
                 </options>
             </li>
         </value>
