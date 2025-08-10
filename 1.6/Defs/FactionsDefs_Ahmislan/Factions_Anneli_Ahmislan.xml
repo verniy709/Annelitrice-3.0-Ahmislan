@@ -95,6 +95,21 @@
 				</options>
 			</li>
 			<li>
+				<kindDef>Combat</kindDef>
+				<commonality>60</commonality>
+				<options>
+					<Anneli_Ahmislan_Leader>1</Anneli_Ahmislan_Leader>
+					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
+					<Anneli_Ahmislan_Noble_B>1</Anneli_Ahmislan_Noble_B>
+					<Anneli_Ahmislan_Knight_A>2</Anneli_Ahmislan_Knight_A>
+					<Anneli_Ahmislan_Knight_B>3</Anneli_Ahmislan_Knight_B>
+					<Anneli_Ahmislan_Knight_C>3</Anneli_Ahmislan_Knight_C>
+					<Anneli_Ahmislan_Nun_A>2</Anneli_Ahmislan_Nun_A>
+					<Anneli_Ahmislan_Nun_B>3</Anneli_Ahmislan_Nun_B>
+					<Anneli_Ahmislan_Levy>3</Anneli_Ahmislan_Levy>
+				</options>
+			</li>
+			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
 					<Anneli_Ahmislan_Noble_A>1</Anneli_Ahmislan_Noble_A>
