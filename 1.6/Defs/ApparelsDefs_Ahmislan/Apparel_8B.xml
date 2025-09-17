@@ -126,9 +126,10 @@
 							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
 								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
 								<graphic>
-									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<texPath>8B/Anneli_Ahmislan_CrystalWing</texPath>
 									<graphicClass>Graphic_Single</graphicClass>
 								</graphic>
+								<invisible>true</invisible>
 							</li>
 						</comps>
 					</li>
@@ -210,9 +211,10 @@
 							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
 								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
 								<graphic>
-									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<texPath>8B/Anneli_Ahmislan_SwordWing</texPath>
 									<graphicClass>Graphic_Single</graphicClass>
 								</graphic>
+								<invisible>true</invisible>
 							</li>
 						</comps>
 					</li>
