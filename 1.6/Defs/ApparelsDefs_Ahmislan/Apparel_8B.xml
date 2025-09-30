@@ -23,7 +23,8 @@
 		</graphicData>
 		<projectile>
 			<damageDef>RangedStab</damageDef>
-			<damageAmountBase>8</damageAmountBase>
+			<damageAmountBase>10</damageAmountBase>
+			<armorPenetrationBase>0.35</armorPenetrationBase>
 			<speed>65</speed>
 		</projectile>
 	</ThingDef>
@@ -122,6 +123,8 @@
 						<draw>false</draw>
 						<description>Sword.</description>
 						<canBeToggled>true</canBeToggled>
+						<separateToggle>true</separateToggle>
+						<brawlerCaresAbout>false</brawlerCaresAbout>
 						<comps>
 							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
 								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
@@ -207,6 +210,8 @@
 						<draw>false</draw>
 						<description>Sword.</description>
 						<canBeToggled>true</canBeToggled>
+						<separateToggle>true</separateToggle>
+						<brawlerCaresAbout>false</brawlerCaresAbout>
 						<comps>
 							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
 								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
