@@ -112,7 +112,7 @@
 
 	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Ahmislan_Nun</defName>
-		<title>Annelitrice Nun</title>
+		<title>Nun</title>
 		<titleShort>Nun</titleShort>
 		<baseDesc>[PAWN_nameDef] acts as an Ahmislan nun. Her focus leans more towards discovering new recipes for wine and beer than devout prayers.</baseDesc>
 		<slot>Adulthood</slot>
