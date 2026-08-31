@@ -131,13 +131,13 @@
                     </northDefault>
                     <east>
                         <offset>(0.05, 0, 0.66)</offset>
-                        <behind>true</behind>
                     </east>
                     <south>
                         <offset>(-0.42, 0, 0.65)</offset>
                     </south>
                     <west>
                         <offset>(-0.05, 0, 0.66)</offset>
+                        <behind>true</behind>
                     </west>
                 </offHandHoldOffset>
             </li>
@@ -202,13 +202,13 @@
                     </northDefault>
                     <east>
                         <offset>(0.05, 0, 0.66)</offset>
-                        <behind>true</behind>
                     </east>
                     <south>
                         <offset>(-0.42, 0, 0.65)</offset>
                     </south>
                     <west>
                         <offset>(-0.05, 0, 0.66)</offset>
+                        <behind>true</behind>
                     </west>
                 </offHandHoldOffset>
             </li>
