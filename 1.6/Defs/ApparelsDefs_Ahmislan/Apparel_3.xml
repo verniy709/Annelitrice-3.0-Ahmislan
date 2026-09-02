@@ -2,9 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Ahmislan_3" ParentName="Anneli_3" Abstract="True">
-		<equippedStatOffsets>
-			<ConstructionSpeed>0.2</ConstructionSpeed>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Ahmislan</li>
 		</thingCategories>

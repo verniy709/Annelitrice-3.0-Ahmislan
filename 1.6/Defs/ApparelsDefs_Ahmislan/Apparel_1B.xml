@@ -2,10 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Ahmislan_1B" ParentName="Anneli_1B" Abstract="True">
-		<equippedStatOffsets>
-			<TameAnimalChance>0.1</TameAnimalChance>
-			<TrainAnimalChance>0.1</TrainAnimalChance>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Ahmislan</li>
 		</thingCategories>
