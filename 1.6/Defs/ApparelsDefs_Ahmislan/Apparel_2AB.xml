@@ -164,7 +164,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(140,0,20,255)</only>
+					<only>(255,245,245,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

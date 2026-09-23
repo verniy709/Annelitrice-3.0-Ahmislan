@@ -69,6 +69,7 @@
 		<factionLeader>true</factionLeader>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_DressC</li>
+			<li>Anneli_Ahmislan_OverdressB</li>
 		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Ahmislan_Noble_A</li>
@@ -92,6 +93,7 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_DressC</li>
+			<li>Anneli_Ahmislan_OverdressB</li>
 		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Ahmislan_Noble_A</li>

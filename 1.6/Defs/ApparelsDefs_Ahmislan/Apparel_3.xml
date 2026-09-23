@@ -149,7 +149,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_OverdressB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Noble_A</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -157,19 +157,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(180,225,250,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
 					<only>(140,0,20,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(175,200,135,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
