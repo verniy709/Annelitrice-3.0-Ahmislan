@@ -73,15 +73,15 @@
 	</NareisLib.MultiTexDef>
 
 	<NareisLib.MultiTexDef>
-		<defName>Anneli_Ahmislan_Overdress</defName>
-		<originalDef>Anneli_Ahmislan_Overdress</originalDef>
+		<defName>Anneli_Ahmislan_OverdressA</defName>
+		<originalDef>Anneli_Ahmislan_OverdressA</originalDef>
 		<originalDefClass>ThingDef</originalDefClass>
 		<renderOriginTex>false</renderOriginTex>
 		<path>3/</path>
 		<levels>
 			<li>
 				<prefix>
-					<li>Anneli_Ahmislan_Overdress</li>
+					<li>Anneli_Ahmislan_OverdressA</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
@@ -92,6 +92,83 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Ahmislan_OverdressB</defName>
+		<originalDef>Anneli_Ahmislan_OverdressB</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>3/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Ahmislan_OverdressB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
+				<drawOffsetSouth>(0, 1.423, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.423, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.423, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.423, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Ahmislan_OverdressB</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.731, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.731, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.731, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.731, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_BS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_Sleeve3_BS_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.769, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.596, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.769, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.769, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_BS_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Arm_BS</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel3_Sleeve3_BS_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.769, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.769, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.769, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.596, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Arm_BS_Right</def>
+				</actionManager>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -170,7 +247,7 @@
 					<li>Anneli_Arm_LCS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LCS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LCS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.558, 0)</drawOffsetEast>
@@ -188,7 +265,7 @@
 					<li>Anneli_Arm_LCS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Sleeve2_LCS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel3_Sleeve2_LCS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>

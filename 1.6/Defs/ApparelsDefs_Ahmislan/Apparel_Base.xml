@@ -4,7 +4,7 @@
 	<ThingCategoryDef>
 		<defName>Anneli_Category_Ahmislan</defName>
 		<parent>Apparel</parent>
-		<label>Annelitrice Ahmislan Apparels</label>
+		<label>Annelitrice Ahmislan Apparel</label>
 	</ThingCategoryDef>
 	
 </Defs>

@@ -2,8 +2,8 @@
 <Defs>
 	
 	<ResearchProjectDef>
-		<defName>Anneli_Ahmislan_Apparels</defName>
-		<label>Annelitrice Ahmislan Apparels</label>
+		<defName>Anneli_Ahmislan_Apparel</defName>
+		<label>Annelitrice Ahmislan Apparel</label>
 		<description>A tiny teleportation gate to a distant world. However, only creatures shaped like worms can pass through.</description>
 		<baseCost>400</baseCost>
 		<techLevel>Medieval</techLevel>

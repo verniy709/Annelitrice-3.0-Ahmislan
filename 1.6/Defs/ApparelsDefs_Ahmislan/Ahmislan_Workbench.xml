@@ -51,7 +51,7 @@
       <li>PlaceWorker_ShowFacilitiesConnections</li>
     </placeWorkers>
     <researchPrerequisites>
-      <li>Anneli_Ahmislan_Apparels</li>
+      <li>Anneli_Ahmislan_Apparel</li>
     </researchPrerequisites>
   </ThingDef>
 

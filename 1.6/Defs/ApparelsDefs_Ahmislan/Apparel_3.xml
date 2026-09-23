@@ -99,17 +99,55 @@
 		</colorGenerator>
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_Overdress-->
+	<!--Anneli_Ahmislan_OverdressA-->
 	<ThingDef ParentName="Anneli_Ahmislan_3">
-		<defName>Anneli_Ahmislan_Overdress</defName>
+		<defName>Anneli_Ahmislan_OverdressA</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)3_Overdress</label>
+		<label>(Ahmislan)3_OverdressA</label>
 		<graphicData>
-			<texPath>3/Anneli_Ahmislan_Overdress</texPath>
+			<texPath>3/Anneli_Ahmislan_OverdressA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>3/Anneli_Ahmislan_Overdress</wornGraphicPath>
+			<wornGraphicPath>3/Anneli_Ahmislan_OverdressA</wornGraphicPath>
+			<tags>
+				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(180,225,250,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(140,0,20,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(175,200,135,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Ahmislan_OverdressB-->
+	<ThingDef ParentName="Anneli_Ahmislan_3">
+		<defName>Anneli_Ahmislan_OverdressB</defName>
+		<description>Dyeable.</description>
+		<label>(Ahmislan)3_OverdressB</label>
+		<graphicData>
+			<texPath>3/Anneli_Ahmislan_OverdressB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>3/Anneli_Ahmislan_OverdressB</wornGraphicPath>
 			<tags>
 				<li>Anneli_Ahmislan_Townsperson_F_B</li>
 			</tags>

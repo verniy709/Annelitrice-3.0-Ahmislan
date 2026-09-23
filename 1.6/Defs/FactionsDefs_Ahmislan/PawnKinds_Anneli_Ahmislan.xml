@@ -4,9 +4,10 @@
 	<PawnKindDef Name="Anneli_Ahmislan_KindBase" ParentName="Anneli_KindBase" Abstract="True">
 		<label>Anneli_Ahmislan_KindBase</label>
 		<itemQuality>Masterwork</itemQuality>
+		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_Ahmislan</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>160</combatPower>
+		<combatPower>140</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
@@ -423,7 +424,7 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_Chemise</li>
-			<li>Anneli_Ahmislan_Overdress</li>
+			<li>Anneli_Ahmislan_OverdressA</li>
 		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Ahmislan_Townsperson_F_B</li>
