@@ -13,7 +13,7 @@
 		<fixedName>Forged Kingdom</fixedName>
 		<requiredMemes>
 			<li MayRequire="Ludeon.RimWorld.Ideology">FemaleSupremacy</li>
-			<li MayRequire="Ludeon.RimWorld.Ideology">Supremacist</li>
+			<li MayRequire="Ludeon.RimWorld.Ideology">Individualist</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">FleshPurity</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">Proselytizer</li>
 		</requiredMemes>

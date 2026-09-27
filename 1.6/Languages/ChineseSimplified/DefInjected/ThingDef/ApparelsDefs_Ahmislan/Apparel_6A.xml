@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Bascinet.description>可染色.</Anneli_Ahmislan_Bascinet.description>
+  <!-- EN: (Ahmislan)6A_Bascinet -->
+  <Anneli_Ahmislan_Bascinet.label>(艾米斯兰)6A_巴斯克头盔</Anneli_Ahmislan_Bascinet.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Beret.description>可染色.</Anneli_Ahmislan_Beret.description>
+  <!-- EN: (Ahmislan)6A_Beret -->
+  <Anneli_Ahmislan_Beret.label>(艾米斯兰)6A_贝雷帽</Anneli_Ahmislan_Beret.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Bonnet.description>可染色.</Anneli_Ahmislan_Bonnet.description>
+  <!-- EN: (Ahmislan)6A_Bonnet -->
+  <Anneli_Ahmislan_Bonnet.label>(艾米斯兰)6A_女帽</Anneli_Ahmislan_Bonnet.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Coif.description>可染色.</Anneli_Ahmislan_Coif.description>
+  <!-- EN: (Ahmislan)6A_Coif -->
+  <Anneli_Ahmislan_Coif.label>(艾米斯兰)6A_头巾</Anneli_Ahmislan_Coif.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_CrownA.description>可染色.</Anneli_Ahmislan_CrownA.description>
+  <!-- EN: (Ahmislan)6A_CrownA -->
+  <Anneli_Ahmislan_CrownA.label>(艾米斯兰)6A_头冠A</Anneli_Ahmislan_CrownA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_CrownB.description>可染色.</Anneli_Ahmislan_CrownB.description>
+  <!-- EN: (Ahmislan)6A_CrownB -->
+  <Anneli_Ahmislan_CrownB.label>(艾米斯兰)6A_头冠B</Anneli_Ahmislan_CrownB.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_CrownC.description>可染色.</Anneli_Ahmislan_CrownC.description>
+  <!-- EN: (Ahmislan)6A_CrownC -->
+  <Anneli_Ahmislan_CrownC.label>(艾米斯兰)6A_头冠C</Anneli_Ahmislan_CrownC.label>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Ahmislan_FlowerCrown.description>不可染色.</Anneli_Ahmislan_FlowerCrown.description>
+  <!-- EN: (Ahmislan)6A_FlowerCrown -->
+  <Anneli_Ahmislan_FlowerCrown.label>(艾米斯兰)6A_花冠</Anneli_Ahmislan_FlowerCrown.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_HairbandA.description>可染色.</Anneli_Ahmislan_HairbandA.description>
+  <!-- EN: (Ahmislan)6A_HairbandA -->
+  <Anneli_Ahmislan_HairbandA.label>(艾米斯兰)6A_发带A</Anneli_Ahmislan_HairbandA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_HairbandB.description>可染色.</Anneli_Ahmislan_HairbandB.description>
+  <!-- EN: (Ahmislan)6A_HairbandB -->
+  <Anneli_Ahmislan_HairbandB.label>(艾米斯兰)6A_发带B</Anneli_Ahmislan_HairbandB.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_HelmA.description>可染色.</Anneli_Ahmislan_HelmA.description>
+  <!-- EN: (Ahmislan)6A_HelmA -->
+  <Anneli_Ahmislan_HelmA.label>(艾米斯兰)6A_头盔A</Anneli_Ahmislan_HelmA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_HelmB.description>可染色.</Anneli_Ahmislan_HelmB.description>
+  <!-- EN: (Ahmislan)6A_HelmB -->
+  <Anneli_Ahmislan_HelmB.label>(艾米斯兰)6A_头盔B</Anneli_Ahmislan_HelmB.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_HelmC.description>可染色.</Anneli_Ahmislan_HelmC.description>
+  <!-- EN: (Ahmislan)6A_HelmC -->
+  <Anneli_Ahmislan_HelmC.label>(艾米斯兰)6A_头盔C</Anneli_Ahmislan_HelmC.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_HunterHat.description>可染色.</Anneli_Ahmislan_HunterHat.description>
+  <!-- EN: (Ahmislan)6A_HunterHat -->
+  <Anneli_Ahmislan_HunterHat.label>(艾米斯兰)6A_猎人帽</Anneli_Ahmislan_HunterHat.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_KettleHelm.description>可染色.</Anneli_Ahmislan_KettleHelm.description>
+  <!-- EN: (Ahmislan)6A_KettleHelm -->
+  <Anneli_Ahmislan_KettleHelm.label>(艾米斯兰)6A_锅盔</Anneli_Ahmislan_KettleHelm.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Mantilla.description>可染色.</Anneli_Ahmislan_Mantilla.description>
+  <!-- EN: (Ahmislan)6A_Mantilla -->
+  <Anneli_Ahmislan_Mantilla.label>(艾米斯兰)6A_贵妇头巾</Anneli_Ahmislan_Mantilla.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_NunVeil.description>可染色.</Anneli_Ahmislan_NunVeil.description>
+  <!-- EN: (Ahmislan)6A_NunVeil -->
+  <Anneli_Ahmislan_NunVeil.label>(艾米斯兰)6A_修女头巾</Anneli_Ahmislan_NunVeil.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_StrawHat.description>可染色.</Anneli_Ahmislan_StrawHat.description>
+  <!-- EN: (Ahmislan)6A_StrawHat -->
+  <Anneli_Ahmislan_StrawHat.label>(艾米斯兰)6A_草帽</Anneli_Ahmislan_StrawHat.label>
+</LanguageData>

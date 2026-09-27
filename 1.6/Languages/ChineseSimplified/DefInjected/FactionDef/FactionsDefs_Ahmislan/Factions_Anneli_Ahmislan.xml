@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Once a famous interplanetary medieval theme park, the Ahmislan Kingdom eventually went bankrupt. The tourists left, but the employees remained. Armed with survival training, replica tools, and a manual titled "Living in a Medieval Society", they somehow kept the kingdom running for real.\n\nThe park soon attracted a new population: vagrants, doomsday cultists, isekai travelers, and armored-combat enthusiasts—anyone who found modern civilization terribly boring. Shantytowns spilled past the gift shops, foam castles were reinforced into real fortresses, and seasonal performers gradually became hereditary high nobility.\n\nUnfortunately, Ahmislan remained far better at being medieval than being functional. Modern technology was banned for breaking immersion and economic reform was endlessly postponed because most of the kingdom’s revenue had already been spent on far more interesting things like grand tournaments, crusades, and sacred quests for the Holy Grail.\n\nThe kingdom is on the verge of collapse, filled with bankrupt farmers, insufferable mercenaries, and idling knights preparing to draw steel over the slightest offense. The rulers are not particularly concerned, seeing both prosperity and doom as part of their story. -->
+  <Anneli_Faction_Ahmislan.description>艾米斯兰王国曾经是一座闻名各星球的著名中世纪主题乐园，后来却因为经营不善走向了破产。游客散去，员工依然留了下来。她们靠着生存训练、仿制工具，以及一本名叫《如何生活在中世纪社会》的手册，居然真的把这个王国运转了下去。\n\n这座乐园很快吸引来了一些居民：流浪汉、末日邪教徒、异世界旅行者和甲胄格斗爱好者———都是些觉得现代文明无聊透顶的人。随着人口的增加，纪念品商店逐渐被棚户区所取代，泡沫塑料城堡被加固成了真正的要塞，舞台剧的临时演员也逐渐变成了世袭的高级贵族。\n\n唯一的问题是，艾米斯兰王国只是看着像个中世纪王国，但没能力真的进行治理。王国里，现代科技因为破坏中世纪沉浸感而遭到禁止，经济改革也被一拖再拖，因为几乎所有收入都被挥霍在更有趣的项目上，比如盛大的比武、十字军远征和寻找圣杯的神圣冒险。\n\n如今的王国已经濒临崩溃，到处都是破产的农民、兵痞一样的雇佣兵，以及无所事事、随时准备为了鸡毛蒜皮的小事拔剑相向的骑士。统治者们对此倒并不怎么在意。毕竟，无论繁荣还是毁灭，都只是这个王国故事的一部分。</Anneli_Faction_Ahmislan.description>
+  <!-- EN: Forged Kingdom -->
+  <Anneli_Faction_Ahmislan.fixedName>伪造的王国</Anneli_Faction_Ahmislan.fixedName>
+  <!-- EN: Anneli Faction Ahmislan Kingdom -->
+  <Anneli_Faction_Ahmislan.label>安妮莉特丝艾米斯兰王国</Anneli_Faction_Ahmislan.label>
+  <!-- EN: Queen -->
+  <Anneli_Faction_Ahmislan.leaderTitle>女皇</Anneli_Faction_Ahmislan.leaderTitle>
+  <!-- EN: Annelitrice -->
+  <Anneli_Faction_Ahmislan.pawnSingular>安妮莉特丝</Anneli_Faction_Ahmislan.pawnSingular>
+  <!-- EN: Annelitrice -->
+  <Anneli_Faction_Ahmislan.pawnsPlural>安妮莉特丝</Anneli_Faction_Ahmislan.pawnsPlural>
+</LanguageData>

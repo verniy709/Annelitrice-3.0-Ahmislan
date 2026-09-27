@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Apron.description>可染色.</Anneli_Ahmislan_Apron.description>
+  <!-- EN: (Ahmislan)3_Apron -->
+  <Anneli_Ahmislan_Apron.label>(艾米斯兰)3_围裙</Anneli_Ahmislan_Apron.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_BlacksmithApron.description>可染色.</Anneli_Ahmislan_BlacksmithApron.description>
+  <!-- EN: (Ahmislan)3_BlacksmithApron -->
+  <Anneli_Ahmislan_BlacksmithApron.label>(艾米斯兰)3_铁匠围裙</Anneli_Ahmislan_BlacksmithApron.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Jacket.description>可染色.</Anneli_Ahmislan_Jacket.description>
+  <!-- EN: (Ahmislan)3_Jacket -->
+  <Anneli_Ahmislan_Jacket.label>(艾米斯兰)3_夹克</Anneli_Ahmislan_Jacket.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_OverdressA.description>可染色.</Anneli_Ahmislan_OverdressA.description>
+  <!-- EN: (Ahmislan)3_OverdressA -->
+  <Anneli_Ahmislan_OverdressA.label>(艾米斯兰)3_外裙A</Anneli_Ahmislan_OverdressA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_OverdressB.description>可染色.</Anneli_Ahmislan_OverdressB.description>
+  <!-- EN: (Ahmislan)3_OverdressB -->
+  <Anneli_Ahmislan_OverdressB.label>(艾米斯兰)3_外裙B</Anneli_Ahmislan_OverdressB.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_RuffledVest.description>可染色.</Anneli_Ahmislan_RuffledVest.description>
+  <!-- EN: (Ahmislan)3_RuffledVest -->
+  <Anneli_Ahmislan_RuffledVest.label>(艾米斯兰)3_褶边夹克</Anneli_Ahmislan_RuffledVest.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_ShortApron.description>可染色.</Anneli_Ahmislan_ShortApron.description>
+  <!-- EN: (Ahmislan)3_ShortApron -->
+  <Anneli_Ahmislan_ShortApron.label>(艾米斯兰)3_短围裙</Anneli_Ahmislan_ShortApron.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Tunic.description>可染色.</Anneli_Ahmislan_Tunic.description>
+  <!-- EN: (Ahmislan)3_Tunic -->
+  <Anneli_Ahmislan_Tunic.label>(艾米斯兰)3_束腰上衣</Anneli_Ahmislan_Tunic.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Ahmislan_Vest.description>可染色.</Anneli_Ahmislan_Vest.description>
+  <!-- EN: (Ahmislan)3_Vest -->
+  <Anneli_Ahmislan_Vest.label>(艾米斯兰)3_背心</Anneli_Ahmislan_Vest.label>
+</LanguageData>

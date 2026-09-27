@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. But the color of shields has a bug. -->
+  <Anneli_Ahmislan_HeaterShield.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_HeaterShield.description>
+  <!-- EN: (Ahmislan)8C_HeaterShield -->
+  <Anneli_Ahmislan_HeaterShield.label>(艾米斯兰)8C_盾牌</Anneli_Ahmislan_HeaterShield.label>
+  <!-- EN: Dyeable. But the color of shields has a bug. -->
+  <Anneli_Ahmislan_KiteShield.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_KiteShield.description>
+  <!-- EN: (Ahmislan)8C_KiteShield -->
+  <Anneli_Ahmislan_KiteShield.label>(艾米斯兰)8C_筝形盾</Anneli_Ahmislan_KiteShield.label>
+  <!-- EN: Dyeable. But the color of shields has a bug. -->
+  <Anneli_Ahmislan_WoodenShield.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_WoodenShield.description>
+  <!-- EN: (Ahmislan)8C_WoodenShield -->
+  <Anneli_Ahmislan_WoodenShield.label>(艾米斯兰)8C_木盾</Anneli_Ahmislan_WoodenShield.label>
+</LanguageData>

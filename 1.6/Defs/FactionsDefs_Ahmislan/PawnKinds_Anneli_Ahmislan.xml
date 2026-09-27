@@ -7,7 +7,7 @@
 		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_Ahmislan</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>140</combatPower>
+		<combatPower>150</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
@@ -63,7 +63,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Leader</defName>
-		<label>Ahmislan_Queen</label>
+		<label>Ahmislan Queen</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
@@ -88,7 +88,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Noble_A</defName>
-		<label>Ahmislan_Noble</label>
+		<label>Ahmislan Noble</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -112,7 +112,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Noble_B</defName>
-		<label>Ahmislan_Noble</label>
+		<label>Ahmislan Noble</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -135,7 +135,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Knight_A</defName>
-		<label>Ahmislan_Knight</label>
+		<label>Ahmislan Knight</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -159,7 +159,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Knight_B</defName>
-		<label>Ahmislan_Knight</label>
+		<label>Ahmislan Knight</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -183,7 +183,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Knight_C</defName>
-		<label>Ahmislan_Knight</label>
+		<label>Ahmislan Knight</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -208,7 +208,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Nun_A</defName>
-		<label>Ahmislan_Nun</label>
+		<label>Ahmislan Nun</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -244,7 +244,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Nun_B</defName>
-		<label>Ahmislan_Nun</label>
+		<label>Ahmislan Nun</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -267,7 +267,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Butler</defName>
-		<label>Ahmislan_Butler</label>
+		<label>Ahmislan Butler</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -303,7 +303,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Maid_A</defName>
-		<label>Ahmislan_Maid</label>
+		<label>Ahmislan Maid</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -339,7 +339,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Maid_B</defName>
-		<label>Ahmislan_Maid</label>
+		<label>Ahmislan Maid</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -375,7 +375,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Townsperson_M</defName>
-		<label>Ahmislan_Townsperson</label>
+		<label>Ahmislan Townsperson</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -398,7 +398,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Townsperson_F_A</defName>
-		<label>Ahmislan_Townsperson</label>
+		<label>Ahmislan Townsperson</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -421,7 +421,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Townsperson_F_B</defName>
-		<label>Ahmislan_Townsperson</label>
+		<label>Ahmislan Townsperson</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -444,7 +444,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Townsperson_F_C</defName>
-		<label>Ahmislan_Townsperson</label>
+		<label>Ahmislan Townsperson</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -467,7 +467,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Townsperson_F_D</defName>
-		<label>Ahmislan_Townsperson</label>
+		<label>Ahmislan Townsperson</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -490,7 +490,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Levy</defName>
-		<label>Ahmislan_Levy</label>
+		<label>Ahmislan Levy</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -514,7 +514,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Farmer_M</defName>
-		<label>Ahmislan_Farmer</label>
+		<label>Ahmislan Farmer</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -537,7 +537,7 @@
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">
 		<defName>Anneli_Ahmislan_Farmer_F</defName>
-		<label>Ahmislan_Farmer</label>
+		<label>Ahmislan Farmer</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>

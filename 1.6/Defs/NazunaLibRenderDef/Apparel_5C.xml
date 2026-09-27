@@ -62,12 +62,12 @@
 					<li>Anneli_Ahmislan_KnightGauntlets</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Glove2_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Glove3_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.615, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.885, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.635, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.885, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.885, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<useBodyType>true</useBodyType>
@@ -81,14 +81,14 @@
 					<li>Anneli_Ahmislan_KnightGauntlets</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Glove2_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Glove3_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.750, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.615, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.885, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.885, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.885, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.635, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<useBodyType>true</useBodyType>

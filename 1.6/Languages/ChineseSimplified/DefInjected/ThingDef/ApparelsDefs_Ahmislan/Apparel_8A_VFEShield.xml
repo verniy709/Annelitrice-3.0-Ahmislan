@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. But the color of shields has a bug. -->
+  <Anneli_Ahmislan_Banner.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_Banner.description>
+  <!-- EN: (Ahmislan)8A_Banner -->
+  <Anneli_Ahmislan_Banner.label>(艾米斯兰)8A_圣旗</Anneli_Ahmislan_Banner.label>
+  <!-- EN: Dyeable. But the color of shields has a bug. -->
+  <Anneli_Ahmislan_WarFlag.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_WarFlag.description>
+  <!-- EN: (Ahmislan)8A_WarFlag -->
+  <Anneli_Ahmislan_WarFlag.label>(艾米斯兰)8A_战旗</Anneli_Ahmislan_WarFlag.label>
+</LanguageData>

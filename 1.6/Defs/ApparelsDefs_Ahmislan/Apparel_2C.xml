@@ -204,6 +204,7 @@
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
 				<li>Anneli_Sock</li>
+				<li>Anneli_Knee_Kneepad</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -253,6 +254,7 @@
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
 				<li>Anneli_Sock</li>
+				<li>Anneli_Knee_Kneepad</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -416,6 +418,8 @@
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
 				<li>Anneli_Sock</li>
+				<li>Anneli_Knee_Kneepad</li>
+				<li>Anneli_Knee_Puttee</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -448,6 +452,8 @@
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
 				<li>Anneli_Sock</li>
+				<li>Anneli_Knee_Kneepad</li>
+				<li>Anneli_Knee_Puttee</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
