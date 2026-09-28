@@ -48,82 +48,277 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Noble_A</defName>
+		<defName>Anneli_Ahmislan_Shambler_NobleA</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_DressC</li>
+			<li>Anneli_Ahmislan_OverdressB</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_NobleA</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_NobleA</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>UpperHead</bodyPartGroup>
+				<apparelLayer>Overhead</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(140,0,20,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Noble_A</li>
+			<li>Anneli_Ahmislan_NobleA</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Noble_B</defName>
+		<defName>Anneli_Ahmislan_Shambler_NobleB</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_LongDressB</li>
 			<li>Anneli_Ahmislan_BustleA</li> 
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_NobleB</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_NobleB</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Neck</bodyPartGroup>
+				<apparelLayer>EyeCover</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Noble_B</li> 
+			<li>Anneli_Ahmislan_NobleB</li> 
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Knight_A</defName>
+		<defName>Anneli_Ahmislan_Shambler_KnightA</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_DressA</li>
+			<li>Anneli_Ahmislan_SolleretsA</li>
+			<li>Anneli_Ahmislan_ArmorC</li>
 			<li>Anneli_Ahmislan_BustleB</li>
+			<li>Anneli_Ahmislan_KnightGauntlets</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_KnightA</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Knight_A</li>
+			<li>Anneli_Ahmislan_KnightA</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Knight_B</defName>
+		<defName>Anneli_Ahmislan_Shambler_KnightB</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_Bodystockings</li>
+			<li>Anneli_Ahmislan_SquireUniformA</li>
+			<li>Anneli_Ahmislan_LongSolleretsB</li>
+			<li>Anneli_Ahmislan_ArmorD</li>
+			<li>Anneli_Ahmislan_KnightGauntlets</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Knight_B</li>
+			<li>Anneli_Ahmislan_KnightB</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Knight_C</defName>
+		<defName>Anneli_Ahmislan_Shambler_KnightC</defName>
 		<apparelRequired>
+			<li>Anneli_Ahmislan_Bodystockings</li>
 			<li>Anneli_Ahmislan_LongDressB</li>
-			<li>Anneli_Ahmislan_BustleA</li> 
+			<li>Anneli_Ahmislan_LongSolleretsA</li>
+			<li>Anneli_Ahmislan_ArmorB</li>
+			<li>Anneli_Ahmislan_BustleA</li>
+			<li>Anneli_Ahmislan_KnightGauntlets</li> 
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Ahmislan_Veil</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Knight_C</li> 
+			<li>Anneli_Ahmislan_KnightC</li> 
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Nun_A</defName>
+		<defName>Anneli_Ahmislan_Shambler_NunA</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_NunAttireA</li>
 			<li>Anneli_Ahmislan_NunVeil</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_NunA</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_NunA</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Ahmislan_Veil</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Ahmislan_LongLaceGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Nun_A</li>
+			<li>Anneli_Ahmislan_NunA</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Nun_B</defName>
+		<defName>Anneli_Ahmislan_Shambler_NunB</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_NunAttireB</li>
+			<li>Anneli_Ahmislan_SolleretsB</li>
+			<li>Anneli_Ahmislan_ArmorA</li>
+			<li>Anneli_Ahmislan_KnightGauntlets</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_NunB</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_NunB</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Ahmislan_Mask</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Nun_B</li>
+			<li>Anneli_Ahmislan_NunB</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
@@ -134,36 +329,75 @@
 			<li>Anneli_Ahmislan_SquireUniformB</li>
 			<li>Anneli_Ahmislan_Beret</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Butler</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Butler</requiredTag>
+			</li>
+			<li>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Middle</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Ahmislan_KnightGauntlets</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Ahmislan_Butler</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
-		<specificApparelRequirements>
-			<li>
-				<apparelDef>Anneli_Ahmislan_LongLaceGloves</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(50,45,50,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
-			</li>
-		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Maid_A</defName>
+		<defName>Anneli_Ahmislan_Shambler_MaidA</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_MaidDressA</li>
 			<li>Anneli_Ahmislan_Apron</li>
+			<li>Anneli_Ahmislan_HairbandA</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_Ahmislan_Maid_A</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_MaidA</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_MaidA</requiredTag>
+			</li>
 			<li>
 				<apparelDef>Anneli_Ahmislan_LongLaceGloves</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -176,19 +410,30 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Ahmislan_MaidA</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Maid_B</defName>
+		<defName>Anneli_Ahmislan_Shambler_MaidB</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_MaidDressB</li>
 			<li>Anneli_Ahmislan_ShortApron</li>
+			<li>Anneli_Ahmislan_HairbandB</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_Ahmislan_Maid_B</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_MaidB</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_MaidB</requiredTag>
+			</li>
 			<li>
 				<apparelDef>Anneli_Ahmislan_LongLaceGloves</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -201,64 +446,150 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Ahmislan_MaidB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Townsperson_M</defName>
+		<defName>Anneli_Ahmislan_Shambler_Townsperson_Male</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_Pants</li>
 			<li>Anneli_Ahmislan_Vest</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_Male</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_Male</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Townsperson_M</li>
+			<li>Anneli_Ahmislan_Townsperson_Male</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Townsperson_F_A</defName>
+		<defName>Anneli_Ahmislan_Shambler_Townsperson_FemaleA</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_DressB</li>
 			<li>Anneli_Ahmislan_RuffledVest</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_FemaleA</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_FemaleA</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_Ahmislan_CorsetD</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Ahmislan_Veil</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Townsperson_F_A</li>
+			<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Townsperson_F_B</defName>
+		<defName>Anneli_Ahmislan_Shambler_Townsperson_FemaleB</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_Chemise</li>
 			<li>Anneli_Ahmislan_OverdressA</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_FemaleB</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_FemaleB</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Townsperson_F_B</li>
+			<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Townsperson_F_C</defName>
+		<defName>Anneli_Ahmislan_Shambler_Townsperson_FemaleC</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_BodiceA</li>
 			<li>Anneli_Ahmislan_SkirtA</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_FemaleC</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_FemaleC</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Townsperson_F_C</li>
+			<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Townsperson_F_D</defName>
+		<defName>Anneli_Ahmislan_Shambler_Townsperson_FemaleD</defName>
 		<apparelRequired>
 			<li>Anneli_Ahmislan_BodiceB</li>
 			<li>Anneli_Ahmislan_SkirtB</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_FemaleD</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Townsperson_FemaleD</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Townsperson_F_D</li>
+			<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
@@ -269,6 +600,28 @@
 			<li>Anneli_Ahmislan_Tunic</li>
 			<li>Anneli_Ahmislan_Brigandine</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Levy</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Torso</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Levy</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Legs</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Levy</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Levy</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Ahmislan_Levy</li>
 		</apparelTags>
@@ -276,26 +629,27 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Farmer_M</defName>
-		<apparelRequired>
-			<li>Anneli_Ahmislan_Underwear</li>
-			<li>Anneli_Ahmislan_ChestWrap</li>
-		</apparelRequired>
+		<defName>Anneli_Ahmislan_Shambler_Farmer_Male</defName>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Torso</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Ahmislan_Farmer_Male</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Farmer_M</li>
+			<li>Anneli_Ahmislan_Farmer_Male</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_Shambler_KindBase">
-		<defName>Anneli_Ahmislan_Shambler_Farmer_F</defName>
+		<defName>Anneli_Ahmislan_Shambler_Farmer_Female</defName>
 		<apparelRequired>
-			<li>Anneli_Ahmislan_ChestWrap</li>
-			<li>Anneli_Ahmislan_Underwear</li>
 			<li>Anneli_Ahmislan_LongDressA</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>Anneli_Ahmislan_Farmer_F</li>
+			<li>Anneli_Ahmislan_Farmer_Female</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 	</PawnKindDef>

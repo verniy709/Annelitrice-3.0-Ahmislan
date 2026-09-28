@@ -74,11 +74,11 @@
 				<commonality>100</commonality>
 				<options>
 					<Anneli_Ahmislan_Leader>1</Anneli_Ahmislan_Leader>
-					<Anneli_Ahmislan_NobleA>1</Anneli_Ahmislan_NobleA>
-					<Anneli_Ahmislan_NobleB>1</Anneli_Ahmislan_NobleB>
+					<Anneli_Ahmislan_NobleA>2</Anneli_Ahmislan_NobleA>
+					<Anneli_Ahmislan_NobleB>2</Anneli_Ahmislan_NobleB>
 					<Anneli_Ahmislan_KnightA>2</Anneli_Ahmislan_KnightA>
 					<Anneli_Ahmislan_KnightB>3</Anneli_Ahmislan_KnightB>
-					<Anneli_Ahmislan_KnightC>3</Anneli_Ahmislan_KnightC>
+					<Anneli_Ahmislan_KnightC>2</Anneli_Ahmislan_KnightC>
 					<Anneli_Ahmislan_NunA>2</Anneli_Ahmislan_NunA>
 					<Anneli_Ahmislan_NunB>3</Anneli_Ahmislan_NunB>
 					<Anneli_Ahmislan_Butler>3</Anneli_Ahmislan_Butler>
@@ -96,17 +96,13 @@
 			</li>
 			<li>
 				<kindDef>Combat</kindDef>
-				<commonality>60</commonality>
+				<commonality>30</commonality>
 				<options>
-					<Anneli_Ahmislan_Leader>1</Anneli_Ahmislan_Leader>
-					<Anneli_Ahmislan_NobleA>1</Anneli_Ahmislan_NobleA>
-					<Anneli_Ahmislan_NobleB>1</Anneli_Ahmislan_NobleB>
-					<Anneli_Ahmislan_KnightA>2</Anneli_Ahmislan_KnightA>
+					<Anneli_Ahmislan_KnightA>3</Anneli_Ahmislan_KnightA>
 					<Anneli_Ahmislan_KnightB>3</Anneli_Ahmislan_KnightB>
 					<Anneli_Ahmislan_KnightC>3</Anneli_Ahmislan_KnightC>
-					<Anneli_Ahmislan_NunA>2</Anneli_Ahmislan_NunA>
 					<Anneli_Ahmislan_NunB>3</Anneli_Ahmislan_NunB>
-					<Anneli_Ahmislan_Levy>3</Anneli_Ahmislan_Levy>
+					<Anneli_Ahmislan_Townsperson_FemaleA>2</Anneli_Ahmislan_Townsperson_FemaleA>
 				</options>
 			</li>
 			<li>

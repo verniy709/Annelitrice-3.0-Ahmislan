@@ -237,18 +237,6 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
-		<apparelTags>
-			<li>Anneli_Ahmislan_NobleB</li> 
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Ahmislan_KindBase">

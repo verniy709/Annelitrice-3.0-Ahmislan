@@ -48,17 +48,17 @@
 		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_Bascket-->
+	<!--Anneli_Ahmislan_Basket-->
 	<ThingDef ParentName="Anneli_Ahmislan_7_NonMetal">
-		<defName>Anneli_Ahmislan_Bascket</defName>
+		<defName>Anneli_Ahmislan_Basket</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)7_Bascket</label>
+		<label>(Ahmislan)7_Basket</label>
 		<graphicData>
-			<texPath>7/Anneli_Ahmislan_Bascket</texPath>
+			<texPath>7/Anneli_Ahmislan_Basket</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>7/Anneli_Ahmislan_Bascket</wornGraphicPath>
+			<wornGraphicPath>7/Anneli_Ahmislan_Basket</wornGraphicPath>
 			<tags>
 				<li>Anneli_Ahmislan_MaidA</li>
 				<li>Anneli_Ahmislan_MaidB</li>

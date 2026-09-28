@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: Ahmislan_Butler -->
+  <!-- EN: Ahmislan Butler -->
   <Anneli_Ahmislan_Butler.label>艾米斯兰 管家</Anneli_Ahmislan_Butler.label>
-  <!-- EN: Ahmislan_Farmer -->
-  <Anneli_Ahmislan_Farmer_F.label>艾米斯兰 农民</Anneli_Ahmislan_Farmer_F.label>
-  <!-- EN: Ahmislan_Farmer -->
-  <Anneli_Ahmislan_Farmer_M.label>艾米斯兰 农民</Anneli_Ahmislan_Farmer_M.label>
-  <!-- EN: Ahmislan_Knight -->
-  <Anneli_Ahmislan_Knight_A.label>艾米斯兰 骑士</Anneli_Ahmislan_Knight_A.label>
-  <!-- EN: Ahmislan_Knight -->
-  <Anneli_Ahmislan_Knight_B.label>艾米斯兰 骑士</Anneli_Ahmislan_Knight_B.label>
-  <!-- EN: Ahmislan_Knight -->
-  <Anneli_Ahmislan_Knight_C.label>艾米斯兰 骑士</Anneli_Ahmislan_Knight_C.label>
-  <!-- EN: Ahmislan_Queen -->
+  <!-- EN: Ahmislan Farmer -->
+  <Anneli_Ahmislan_Farmer_Female.label>艾米斯兰 农民</Anneli_Ahmislan_Farmer_Female.label>
+  <!-- EN: Ahmislan Farmer -->
+  <Anneli_Ahmislan_Farmer_Male.label>艾米斯兰 农民</Anneli_Ahmislan_Farmer_Male.label>
+  <!-- EN: Ahmislan Knight -->
+  <Anneli_Ahmislan_KnightA.label>艾米斯兰 骑士</Anneli_Ahmislan_KnightA.label>
+  <!-- EN: Ahmislan Knight -->
+  <Anneli_Ahmislan_KnightB.label>艾米斯兰 骑士</Anneli_Ahmislan_KnightB.label>
+  <!-- EN: Ahmislan Knight -->
+  <Anneli_Ahmislan_KnightC.label>艾米斯兰 骑士</Anneli_Ahmislan_KnightC.label>
+  <!-- EN: Ahmislan Queen -->
   <Anneli_Ahmislan_Leader.label>艾米斯兰 女皇</Anneli_Ahmislan_Leader.label>
-  <!-- EN: Ahmislan_Levy -->
+  <!-- EN: Ahmislan Levy -->
   <Anneli_Ahmislan_Levy.label>艾米斯兰 征召兵</Anneli_Ahmislan_Levy.label>
-  <!-- EN: Ahmislan_Maid -->
-  <Anneli_Ahmislan_Maid_A.label>艾米斯兰 女仆</Anneli_Ahmislan_Maid_A.label>
-  <!-- EN: Ahmislan_Maid -->
-  <Anneli_Ahmislan_Maid_B.label>艾米斯兰 女仆</Anneli_Ahmislan_Maid_B.label>
-  <!-- EN: Ahmislan_Noble -->
-  <Anneli_Ahmislan_Noble_A.label>艾米斯兰 贵族</Anneli_Ahmislan_Noble_A.label>
-  <!-- EN: Ahmislan_Noble -->
-  <Anneli_Ahmislan_Noble_B.label>艾米斯兰 贵族</Anneli_Ahmislan_Noble_B.label>
-  <!-- EN: Ahmislan_Nun -->
-  <Anneli_Ahmislan_Nun_A.label>艾米斯兰 修女</Anneli_Ahmislan_Nun_A.label>
-  <!-- EN: Ahmislan_Nun -->
-  <Anneli_Ahmislan_Nun_B.label>艾米斯兰 修女</Anneli_Ahmislan_Nun_B.label>
-  <!-- EN: Ahmislan_Townsperson -->
-  <Anneli_Ahmislan_Townsperson_F_A.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_F_A.label>
-  <!-- EN: Ahmislan_Townsperson -->
-  <Anneli_Ahmislan_Townsperson_F_B.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_F_B.label>
-  <!-- EN: Ahmislan_Townsperson -->
-  <Anneli_Ahmislan_Townsperson_F_C.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_F_C.label>
-  <!-- EN: Ahmislan_Townsperson -->
-  <Anneli_Ahmislan_Townsperson_F_D.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_F_D.label>
-  <!-- EN: Ahmislan_Townsperson -->
-  <Anneli_Ahmislan_Townsperson_M.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_M.label>
+  <!-- EN: Ahmislan Maid -->
+  <Anneli_Ahmislan_MaidA.label>艾米斯兰 女仆</Anneli_Ahmislan_MaidA.label>
+  <!-- EN: Ahmislan Maid -->
+  <Anneli_Ahmislan_MaidB.label>艾米斯兰 女仆</Anneli_Ahmislan_MaidB.label>
+  <!-- EN: Ahmislan Noble -->
+  <Anneli_Ahmislan_NobleA.label>艾米斯兰 贵族</Anneli_Ahmislan_NobleA.label>
+  <!-- EN: Ahmislan Noble -->
+  <Anneli_Ahmislan_NobleB.label>艾米斯兰 贵族</Anneli_Ahmislan_NobleB.label>
+  <!-- EN: Ahmislan Nun -->
+  <Anneli_Ahmislan_NunA.label>艾米斯兰 修女</Anneli_Ahmislan_NunA.label>
+  <!-- EN: Ahmislan Nun -->
+  <Anneli_Ahmislan_NunB.label>艾米斯兰 修女</Anneli_Ahmislan_NunB.label>
+  <!-- EN: Ahmislan Townsperson -->
+  <Anneli_Ahmislan_Townsperson_FemaleA.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_FemaleA.label>
+  <!-- EN: Ahmislan Townsperson -->
+  <Anneli_Ahmislan_Townsperson_FemaleB.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_FemaleB.label>
+  <!-- EN: Ahmislan Townsperson -->
+  <Anneli_Ahmislan_Townsperson_FemaleC.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_FemaleC.label>
+  <!-- EN: Ahmislan Townsperson -->
+  <Anneli_Ahmislan_Townsperson_FemaleD.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_FemaleD.label>
+  <!-- EN: Ahmislan Townsperson -->
+  <Anneli_Ahmislan_Townsperson_Male.label>艾米斯兰 市民</Anneli_Ahmislan_Townsperson_Male.label>
 </LanguageData>
