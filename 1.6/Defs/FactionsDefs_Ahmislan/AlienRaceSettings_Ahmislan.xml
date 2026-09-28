@@ -7,43 +7,43 @@
 			<alienslavekinds>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Noble_A</li>
+						<li>Anneli_Ahmislan_NobleA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Noble_B</li>
+						<li>Anneli_Ahmislan_NobleB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Knight_A</li>
+						<li>Anneli_Ahmislan_KnightA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Knight_B</li>
+						<li>Anneli_Ahmislan_KnightB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Knight_C</li>
+						<li>Anneli_Ahmislan_KnightC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Nun_A</li>
+						<li>Anneli_Ahmislan_NunA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Nun_B</li>
+						<li>Anneli_Ahmislan_NunB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -55,43 +55,43 @@
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Maid_A</li>
+						<li>Anneli_Ahmislan_MaidA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Maid_B</li>
+						<li>Anneli_Ahmislan_MaidB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_M</li>
+						<li>Anneli_Ahmislan_Townsperson_Male</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_F_A</li>
+						<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_F_B</li>
+						<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_F_C</li>
+						<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_F_D</li>
+						<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -103,13 +103,13 @@
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Farmer_M</li>
+						<li>Anneli_Ahmislan_Farmer_Male</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Farmer_F</li>
+						<li>Anneli_Ahmislan_Farmer_Female</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -120,43 +120,43 @@
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Noble_A</li>
+								<li>Anneli_Ahmislan_NobleA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Noble_B</li>
+								<li>Anneli_Ahmislan_NobleB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Knight_A</li>
+								<li>Anneli_Ahmislan_KnightA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Knight_B</li>
+								<li>Anneli_Ahmislan_KnightB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Knight_C</li>
+								<li>Anneli_Ahmislan_KnightC</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Nun_A</li>
+								<li>Anneli_Ahmislan_NunA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Nun_B</li>
+								<li>Anneli_Ahmislan_NunB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
@@ -168,43 +168,43 @@
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Maid_A</li>
+								<li>Anneli_Ahmislan_MaidA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Maid_B</li>
+								<li>Anneli_Ahmislan_MaidB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_M</li>
+								<li>Anneli_Ahmislan_Townsperson_Male</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_F_A</li>
+								<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_F_B</li>
+								<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_F_C</li>
+								<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_F_D</li>
+								<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
@@ -216,13 +216,13 @@
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Farmer_M</li>
+								<li>Anneli_Ahmislan_Farmer_Male</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Farmer_F</li>
+								<li>Anneli_Ahmislan_Farmer_Female</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
@@ -236,43 +236,43 @@
 			<alienrefugeekinds>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Noble_A</li>
+						<li>Anneli_Ahmislan_NobleA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Noble_B</li>
+						<li>Anneli_Ahmislan_NobleB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Knight_A</li>
+						<li>Anneli_Ahmislan_KnightA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Knight_B</li>
+						<li>Anneli_Ahmislan_KnightB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Knight_C</li>
+						<li>Anneli_Ahmislan_KnightC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Nun_A</li>
+						<li>Anneli_Ahmislan_NunA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Nun_B</li>
+						<li>Anneli_Ahmislan_NunB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -284,43 +284,43 @@
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Maid_A</li>
+						<li>Anneli_Ahmislan_MaidA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Maid_B</li>
+						<li>Anneli_Ahmislan_MaidB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_M</li>
+						<li>Anneli_Ahmislan_Townsperson_Male</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_F_A</li>
+						<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_F_B</li>
+						<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_F_C</li>
+						<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Townsperson_F_D</li>
+						<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -332,13 +332,13 @@
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Farmer_M</li>
+						<li>Anneli_Ahmislan_Farmer_Male</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_Ahmislan_Farmer_F</li>
+						<li>Anneli_Ahmislan_Farmer_Female</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -349,43 +349,43 @@
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Noble_A</li>
+								<li>Anneli_Ahmislan_NobleA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Noble_B</li>
+								<li>Anneli_Ahmislan_NobleB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Knight_A</li>
+								<li>Anneli_Ahmislan_KnightA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Knight_B</li>
+								<li>Anneli_Ahmislan_KnightB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Knight_C</li>
+								<li>Anneli_Ahmislan_KnightC</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Nun_A</li>
+								<li>Anneli_Ahmislan_NunA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Nun_B</li>
+								<li>Anneli_Ahmislan_NunB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
@@ -397,43 +397,43 @@
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Maid_A</li>
+								<li>Anneli_Ahmislan_MaidA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Maid_B</li>
+								<li>Anneli_Ahmislan_MaidB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_M</li>
+								<li>Anneli_Ahmislan_Townsperson_Male</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_F_A</li>
+								<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_F_B</li>
+								<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_F_C</li>
+								<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Townsperson_F_D</li>
+								<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
@@ -445,13 +445,13 @@
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Farmer_M</li>
+								<li>Anneli_Ahmislan_Farmer_Male</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_Ahmislan_Farmer_F</li>
+								<li>Anneli_Ahmislan_Farmer_Female</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>

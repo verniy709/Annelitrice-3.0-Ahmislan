@@ -24,7 +24,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_Chemise</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -50,7 +50,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_SquireUniformA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_KnightB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -77,7 +77,6 @@
 			<wornGraphicPath>2AB/Anneli_Ahmislan_SquireUniformB</wornGraphicPath>
 			<tags>
 				<li>Anneli_Ahmislan_Butler</li>
-				<li>Anneli_Ahmislan_Knight_B</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -103,7 +102,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_DressA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_KnightA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -129,8 +128,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_DressB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_A</li>
-				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -156,7 +154,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_DressC</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Noble_A</li>
+				<li>Anneli_Ahmislan_NobleA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -182,7 +180,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_LongDressA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_F</li>
+				<li>Anneli_Ahmislan_Farmer_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -220,8 +218,8 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_LongDressB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Knight_C</li> 
-				<li>Anneli_Ahmislan_Noble_B</li>
+				<li>Anneli_Ahmislan_KnightC</li> 
+				<li>Anneli_Ahmislan_NobleB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -247,7 +245,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_MaidDressA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_MaidA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -273,7 +271,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_MaidDressB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Maid_B</li>
+				<li>Anneli_Ahmislan_MaidB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -299,7 +297,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_NunAttireA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Nun_A</li>
+				<li>Anneli_Ahmislan_NunA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -325,7 +323,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_Ahmislan_NunAttireB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Nun_B</li>
+				<li>Anneli_Ahmislan_NunB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

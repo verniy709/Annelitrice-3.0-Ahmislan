@@ -24,9 +24,10 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_Ahmislan_Mask</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_NunB</li>
+				<li>Anneli_Ahmislan_Townsperson_Male</li>
 				<li>Anneli_Ahmislan_Levy</li>
-				<li>Anneli_Ahmislan_Townsperson_M</li>
+				<li>Anneli_Ahmislan_Farmer_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -38,7 +39,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_Veil-->
@@ -53,8 +54,12 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_Ahmislan_Veil</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Knight_A</li>
-				<li>Anneli_Ahmislan_Noble_A</li>
+				<li>Anneli_Ahmislan_NobleA</li>
+				<li>Anneli_Ahmislan_NobleB</li>
+				<li>Anneli_Ahmislan_KnightA</li>
+				<li>Anneli_Ahmislan_KnightC</li>
+				<li>Anneli_Ahmislan_NunA</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

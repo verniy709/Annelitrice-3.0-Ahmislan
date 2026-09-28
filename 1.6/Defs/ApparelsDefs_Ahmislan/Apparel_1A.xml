@@ -24,9 +24,10 @@
 		<apparel>
 			<wornGraphicPath>1A/Anneli_Ahmislan_ChestWrap</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
-				<li>Anneli_Ahmislan_Farmer_F</li>
-				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Townsperson_Male</li>
+				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Farmer_Female</li>
+				<li>Anneli_Ahmislan_Farmer_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -52,13 +53,11 @@
 		<apparel>
 			<wornGraphicPath>1A/Anneli_Ahmislan_StraplessBra</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
-				<li>Anneli_Ahmislan_Townsperson_F_A</li>
-				<li>Anneli_Ahmislan_Townsperson_F_B</li>
-				<li>Anneli_Ahmislan_Townsperson_F_C</li>
-				<li>Anneli_Ahmislan_Townsperson_F_D</li>
-				<li>Anneli_Ahmislan_Maid_B</li>
-				<li>Anneli_Ahmislan_Knight_A</li>
+				<li>Anneli_Ahmislan_MaidB</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

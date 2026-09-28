@@ -35,8 +35,7 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Nun_B</li>
-				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_KnightC</li>
 				<li>Anneli_SkipHeadAddons</li>
 				<li>Anneli_SkipOverhead</li>
 			</tags>
@@ -71,9 +70,7 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Nun_B</li>
-				<li>Anneli_Ahmislan_Knight_B</li>
-				<li>Anneli_Ahmislan_Knight_C</li> 
+				<li>Anneli_Ahmislan_KnightB</li>
 				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -104,8 +101,7 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_Ahmislan_CloseHelmC</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Nun_B</li>
-				<li>Anneli_Ahmislan_Knight_B</li>
+				<li>Anneli_Ahmislan_KnightA</li>
 				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->

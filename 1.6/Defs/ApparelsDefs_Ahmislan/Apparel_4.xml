@@ -53,14 +53,10 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Ahmislan_CorsetA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_B</li>
-				<li>Anneli_Ahmislan_Townsperson_F_C</li>
-				<li>Anneli_Ahmislan_Townsperson_F_D</li>
-				<li>Anneli_Ahmislan_Maid_A</li>
-				<li>Anneli_Ahmislan_Maid_B</li>
-				<li>Anneli_Ahmislan_Nun_A</li>
-				<li>Anneli_Ahmislan_Noble_A</li>
-				<li>Anneli_Ahmislan_Noble_B</li>
+				<li>Anneli_Ahmislan_NunA</li>
+				<li>Anneli_Ahmislan_MaidA</li>
+				<li>Anneli_Ahmislan_Townsperson_Male</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -72,7 +68,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 <!--Anneli_Ahmislan_CorsetB-->
@@ -87,14 +82,8 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Ahmislan_CorsetB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_B</li>
-				<li>Anneli_Ahmislan_Townsperson_F_C</li>
-				<li>Anneli_Ahmislan_Townsperson_F_D</li>
-				<li>Anneli_Ahmislan_Maid_A</li>
-				<li>Anneli_Ahmislan_Maid_B</li>
-				<li>Anneli_Ahmislan_Nun_A</li>
-				<li>Anneli_Ahmislan_Noble_A</li>
-				<li>Anneli_Ahmislan_Noble_B</li>
+				<li>Anneli_Ahmislan_NobleA</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -106,7 +95,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 <!--Anneli_Ahmislan_CorsetC-->
@@ -121,14 +109,9 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Ahmislan_CorsetC</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_B</li>
-				<li>Anneli_Ahmislan_Townsperson_F_C</li>
-				<li>Anneli_Ahmislan_Townsperson_F_D</li>
-				<li>Anneli_Ahmislan_Maid_A</li>
-				<li>Anneli_Ahmislan_Maid_B</li>
-				<li>Anneli_Ahmislan_Nun_A</li>
-				<li>Anneli_Ahmislan_Noble_A</li>
-				<li>Anneli_Ahmislan_Noble_B</li>
+				<li>Anneli_Ahmislan_NobleB</li>
+				<li>Anneli_Ahmislan_MaidB</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -140,7 +123,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 <!--Anneli_Ahmislan_CorsetD-->
@@ -155,8 +137,8 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Ahmislan_CorsetD</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_C</li>
 				<li>Anneli_Ahmislan_Butler</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -168,7 +150,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>

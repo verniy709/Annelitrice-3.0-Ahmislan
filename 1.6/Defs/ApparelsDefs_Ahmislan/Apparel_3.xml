@@ -24,7 +24,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_Apron</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Maid_A</li>
+				<li>Anneli_Ahmislan_MaidA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -50,7 +50,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_BlacksmithApron</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_F</li>
+				<li>Anneli_Ahmislan_Farmer_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -111,7 +111,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_OverdressA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_B</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -149,7 +149,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_OverdressB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Noble_A</li>
+				<li>Anneli_Ahmislan_NobleA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -175,7 +175,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_RuffledVest</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_A</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -209,7 +209,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_ShortApron</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Maid_B</li>
+				<li>Anneli_Ahmislan_MaidB</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -235,8 +235,8 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_Tunic</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_M</li>
 				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Farmer_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -282,8 +282,8 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Ahmislan_Vest</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_M</li>
-				<li>Anneli_Ahmislan_Townsperson_M</li>
+				<li>Anneli_Ahmislan_Townsperson_Male</li>
+				<li>Anneli_Ahmislan_Farmer_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

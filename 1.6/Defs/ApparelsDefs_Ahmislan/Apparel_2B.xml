@@ -24,7 +24,7 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_Ahmislan_SkirtA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_C</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -50,7 +50,7 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_Ahmislan_SkirtB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Townsperson_F_D</li>
+				<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -76,9 +76,9 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_Ahmislan_Pants</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Townsperson_Male</li>
 				<li>Anneli_Ahmislan_Levy</li>
-				<li>Anneli_Ahmislan_Townsperson_M</li>
+				<li>Anneli_Ahmislan_Farmer_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -116,8 +116,8 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_Ahmislan_Shorts</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_M</li>
 				<li>Anneli_Ahmislan_Levy</li>
+				<li>Anneli_Ahmislan_Farmer_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

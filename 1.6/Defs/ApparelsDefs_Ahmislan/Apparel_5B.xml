@@ -35,9 +35,9 @@
 		<apparel>
 			<wornGraphicPath>5B/Anneli_Ahmislan_Puttee</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Townsperson_Male</li>
 				<li>Anneli_Ahmislan_Levy</li>
-				<li>Anneli_Ahmislan_Townsperson_M</li>
+				<li>Anneli_Ahmislan_Farmer_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -76,10 +76,9 @@
 		<apparel>
 			<wornGraphicPath>5B/Anneli_Ahmislan_KneePlatesA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Nun_B</li>
-				<li>Anneli_Ahmislan_Knight_A</li>
-				<li>Anneli_Ahmislan_Knight_B</li>
-				<li>Anneli_Ahmislan_Knight_C</li> 
+				<li>Anneli_Ahmislan_KnightA</li>
+				<li>Anneli_Ahmislan_KnightB</li>
+				<li>Anneli_Ahmislan_KnightC</li> 
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -106,10 +105,9 @@
 		<apparel>
 			<wornGraphicPath>5B/Anneli_Ahmislan_KneePlatesB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Nun_B</li>
-				<li>Anneli_Ahmislan_Knight_A</li>
-				<li>Anneli_Ahmislan_Knight_B</li>
-				<li>Anneli_Ahmislan_Knight_C</li> 
+				<li>Anneli_Ahmislan_KnightB</li>
+				<li>Anneli_Ahmislan_KnightC</li>
+				<li>Anneli_Ahmislan_NunB</li> 
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

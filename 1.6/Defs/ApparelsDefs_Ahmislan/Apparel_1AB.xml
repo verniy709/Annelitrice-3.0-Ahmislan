@@ -24,15 +24,10 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_Ahmislan_BodySuit</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
-				<li>Anneli_Ahmislan_Townsperson_F_A</li>
-				<li>Anneli_Ahmislan_Townsperson_F_B</li>
-				<li>Anneli_Ahmislan_Townsperson_F_C</li>
-				<li>Anneli_Ahmislan_Townsperson_F_D</li>
-				<li>Anneli_Ahmislan_Nun_B</li>
-				<li>Anneli_Ahmislan_Knight_A</li>
-				<li>Anneli_Ahmislan_Knight_C</li> 
-				<li>Anneli_Ahmislan_Noble_B</li>
+				<li>Anneli_Ahmislan_NobleB</li>
+				<li>Anneli_Ahmislan_KnightA</li>
+				<li>Anneli_Ahmislan_NunB</li>
+				<li>Anneli_Ahmislan_Butler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -58,11 +53,9 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_Ahmislan_Lingerie</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
-				<li>Anneli_Ahmislan_Maid_A</li>
-				<li>Anneli_Ahmislan_Nun_A</li>
-				<li>Anneli_Ahmislan_Nun_B</li>
-				<li>Anneli_Ahmislan_Noble_A</li>
+				<li>Anneli_Ahmislan_NobleA</li>
+				<li>Anneli_Ahmislan_MaidA</li>
+				<li>Anneli_Ahmislan_NunA</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -71,14 +64,6 @@
 				<li>
 					<weight>10</weight>
 					<only>(255,245,245,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(240,205,195,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

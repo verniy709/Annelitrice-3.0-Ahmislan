@@ -64,9 +64,9 @@
 		<apparel>
 			<wornGraphicPath>8B/Anneli_Ahmislan_CrystalWing</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Knight_B</li>
-				<li>Anneli_Ahmislan_Knight_C</li>
-				<li>Anneli_Ahmislan_Noble_B</li>
+				<li>Anneli_Ahmislan_NobleB</li>
+				<li>Anneli_Ahmislan_KnightB</li>
+				<li>Anneli_Ahmislan_KnightC</li>
 				<li>Anneli_ExcludeShambler</li>
 				<li>Anneli_SkipWing</li>
 			</tags>
@@ -152,8 +152,8 @@
 		<apparel>
 			<wornGraphicPath>8B/Anneli_Ahmislan_SwordWing</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Knight_A</li>
-				<li>Anneli_Ahmislan_Noble_A</li>
+				<li>Anneli_Ahmislan_NobleA</li>
+				<li>Anneli_Ahmislan_KnightA</li>
 				<li>Anneli_ExcludeShambler</li>
 				<li>Anneli_SkipWing</li>
 			</tags>

@@ -24,8 +24,8 @@
 		<apparel>
 			<wornGraphicPath>7/Anneli_Ahmislan_Backpack</wornGraphicPath>
 			<tags>
+				<li>Anneli_Ahmislan_Townsperson_Male</li>
 				<li>Anneli_Ahmislan_Levy</li>
-				<li>Anneli_Ahmislan_Townsperson_M</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -45,7 +45,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Ahmislan_Bascket-->
@@ -60,9 +60,9 @@
 		<apparel>
 			<wornGraphicPath>7/Anneli_Ahmislan_Bascket</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_F</li>
-				<li>Anneli_Ahmislan_Maid_A</li>
-				<li>Anneli_Ahmislan_Maid_B</li>
+				<li>Anneli_Ahmislan_MaidA</li>
+				<li>Anneli_Ahmislan_MaidB</li>
+				<li>Anneli_Ahmislan_Farmer_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -97,7 +97,7 @@
 		<apparel>
 			<wornGraphicPath>7/Anneli_Ahmislan_Sack</wornGraphicPath>
 			<tags>
-				<li>Anneli_Ahmislan_Farmer_M</li>
+				<li>Anneli_Ahmislan_Farmer_Male</li>
 				<li>Anneli_Ahmislan_Levy</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
