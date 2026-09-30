@@ -18,6 +18,7 @@
 			</li>
 		</backstoryFiltersOverride>
 		<weaponMoney>3000</weaponMoney>
+		<apparelMoney>2000~4000</apparelMoney>
 		<techHediffsChance>0.01</techHediffsChance>
 		<techHediffsMoney>1000</techHediffsMoney>
 		<techHediffsTags>
@@ -110,7 +111,6 @@
 			<li>Anneli_Ahmislan_NobleA</li>
 			<li>Anneli_Ahmislan_WarFlag</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
@@ -169,7 +169,6 @@
 			<li>Anneli_Ahmislan_NobleA</li>
 			<li>Anneli_Ahmislan_WarFlag</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
@@ -228,7 +227,6 @@
 			<li>Anneli_Ahmislan_NobleB</li> 
 			<li>Anneli_Ahmislan_WarFlag</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
@@ -273,7 +271,6 @@
 			<li>Anneli_Ahmislan_KnightA</li>
 			<li>Anneli_Ahmislan_WarFlag</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
@@ -300,7 +297,6 @@
 			<li>Anneli_Ahmislan_KnightB</li>
 			<li>Anneli_Ahmislan_KiteShield</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
@@ -341,7 +337,6 @@
 			<li>Anneli_Ahmislan_KnightC</li> 
 			<li>Anneli_Ahmislan_HeaterShield</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
@@ -410,7 +405,6 @@
 			<li>Anneli_Ahmislan_NunA</li>
 			<li>Anneli_Ahmislan_Banner</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
@@ -470,7 +464,6 @@
 			<li>Anneli_Ahmislan_NunB</li>
 			<li>Anneli_Ahmislan_Banner</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeAdvanced</li>
 			<li>MedievalMeleeBasic</li>
@@ -538,7 +531,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_Butler</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeBasic</li>
 			<li>NeolithicMeleeDecent</li>
@@ -585,7 +577,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_MaidA</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeBasic</li>
 			<li>NeolithicMeleeDecent</li>
@@ -632,7 +623,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_MaidB</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeBasic</li>
 			<li>NeolithicMeleeDecent</li>
@@ -667,7 +657,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_Townsperson_Male</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
@@ -724,7 +713,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
@@ -759,7 +747,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
@@ -794,7 +781,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
@@ -829,7 +815,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>
@@ -875,7 +860,6 @@
 			<li>Anneli_Ahmislan_Levy</li>
 			<li>Anneli_Ahmislan_WoodenShield</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeBasic</li>
 			<li>NeolithicMeleeDecent</li>
@@ -901,7 +885,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_Farmer_Male</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicMeleeBasic</li>
 			<li>NeolithicMeleeDecent</li>
@@ -923,7 +906,6 @@
 		<apparelTags>
 			<li>Anneli_Ahmislan_Farmer_Female</li>
 		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>NeolithicRangedBasic</li>
 			<li>NeolithicRangedDecent</li>

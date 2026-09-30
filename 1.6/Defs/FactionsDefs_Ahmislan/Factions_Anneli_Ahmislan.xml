@@ -98,6 +98,8 @@
 				<kindDef>Combat</kindDef>
 				<commonality>30</commonality>
 				<options>
+					<Anneli_Ahmislan_NobleA>2</Anneli_Ahmislan_NobleA>
+					<Anneli_Ahmislan_NobleB>2</Anneli_Ahmislan_NobleB>
 					<Anneli_Ahmislan_KnightA>3</Anneli_Ahmislan_KnightA>
 					<Anneli_Ahmislan_KnightB>3</Anneli_Ahmislan_KnightB>
 					<Anneli_Ahmislan_KnightC>3</Anneli_Ahmislan_KnightC>
