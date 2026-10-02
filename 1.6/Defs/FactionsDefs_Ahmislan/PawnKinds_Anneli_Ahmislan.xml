@@ -112,12 +112,10 @@
 			<li>Anneli_Ahmislan_WarFlag</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Axe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_LongSword</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_PsyfocusStaff</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Warhammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -170,12 +168,10 @@
 			<li>Anneli_Ahmislan_WarFlag</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Axe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_LongSword</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_PsyfocusStaff</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Warhammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -228,12 +224,10 @@
 			<li>Anneli_Ahmislan_WarFlag</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Axe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_LongSword</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_PsyfocusStaff</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Warhammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -272,12 +266,13 @@
 			<li>Anneli_Ahmislan_WarFlag</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_BreachAxe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Axe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_LongSword</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Spear</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Warhammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -298,12 +293,13 @@
 			<li>Anneli_Ahmislan_KiteShield</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_BreachAxe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Axe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_LongSword</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Spear</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Warhammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -338,12 +334,13 @@
 			<li>Anneli_Ahmislan_HeaterShield</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_BreachAxe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Axe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_LongSword</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Spear</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Warhammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -406,12 +403,11 @@
 			<li>Anneli_Ahmislan_Banner</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_PsyfocusStaff</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -465,12 +461,13 @@
 			<li>Anneli_Ahmislan_Banner</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_BreachAxe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Axe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_LongSword</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Spear</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Warhammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -532,12 +529,10 @@
 			<li>Anneli_Ahmislan_Butler</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>NeolithicMeleeDecent</li>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_BreachAxe</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Spear</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -578,12 +573,12 @@
 			<li>Anneli_Ahmislan_MaidA</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>NeolithicMeleeDecent</li>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -624,12 +619,12 @@
 			<li>Anneli_Ahmislan_MaidB</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>NeolithicMeleeDecent</li>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -658,12 +653,12 @@
 			<li>Anneli_Ahmislan_Townsperson_Male</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -714,12 +709,10 @@
 			<li>Anneli_Ahmislan_Townsperson_FemaleA</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -748,12 +741,10 @@
 			<li>Anneli_Ahmislan_Townsperson_FemaleB</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -782,12 +773,10 @@
 			<li>Anneli_Ahmislan_Townsperson_FemaleC</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -816,12 +805,10 @@
 			<li>Anneli_Ahmislan_Townsperson_FemaleD</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -861,12 +848,9 @@
 			<li>Anneli_Ahmislan_WoodenShield</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>NeolithicMeleeDecent</li>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Spear</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -886,12 +870,9 @@
 			<li>Anneli_Ahmislan_Farmer_Male</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicMeleeBasic</li>
-			<li>NeolithicMeleeDecent</li>
-			<li>NeolithicMeleeAdvanced</li>
-			<li>MedievalMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-			<li>MedievalMeleeAdvanced</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Gladius</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Mace</li>
+			<li>Anneli_Ahmislan_MeleeWeapon_Spear</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -907,12 +888,10 @@
 			<li>Anneli_Ahmislan_Farmer_Female</li>
 		</apparelTags>
 		<weaponTags>
-			<li>NeolithicRangedBasic</li>
-			<li>NeolithicRangedDecent</li>
-			<li>NeolithicRangedHeavy</li>
-			<li>NeolithicRangedChief</li>
-			<li>MedievalRanged</li>
-			<li>MedievalRangedHeavy</li>
+			<li>Anneli_Ahmislan_Bow_Great</li>
+			<li>Anneli_Ahmislan_Bow_Short</li>
+			<li>Anneli_Ahmislan_Flamebow</li>
+			<li>Anneli_Ahmislan_NerveSpiker</li>
 		</weaponTags>
 	</PawnKindDef>
 </Defs>

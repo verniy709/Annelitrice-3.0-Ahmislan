@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingStyleDef>
+		<defName>Anneli_Ahmislan_Bow_Great</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_Bow_Great</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Ahmislan_Bow_Short</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_Bow_Short</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Ahmislan_MeleeWeapon_BreachAxe</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_MeleeWeapon_BreachAxe</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Biotech">
+		<defName>Anneli_Ahmislan_Flamebow</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_Flamebow</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>Anneli_Ahmislan_MeleeWeapon_Axe</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_MeleeWeapon_Axe</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Ahmislan_MeleeWeapon_Gladius</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_MeleeWeapon_Gladius</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Ahmislan_MeleeWeapon_LongSword</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_MeleeWeapon_LongSword</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Ahmislan_MeleeWeapon_Mace</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_MeleeWeapon_Mace</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>Anneli_Ahmislan_MeleeWeapon_PsyfocusStaff</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_MeleeWeapon_PsyfocusStaff</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Ahmislan_MeleeWeapon_Spear</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_MeleeWeapon_Spear</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Royalty">
+		<defName>Anneli_Ahmislan_MeleeWeapon_Warhammer</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_MeleeWeapon_Warhammer</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Anomaly">
+		<defName>Anneli_Ahmislan_NerveSpiker</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Ahmislan_NerveSpiker</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+</Defs>

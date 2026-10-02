@@ -20,7 +20,7 @@
 		<maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
 		<techLevel>Medieval</techLevel>
 		<allowedCultures>
-			<li>Anneli_Cultures_Corunan</li>
+			<li>Anneli_Cultures_Corunan_Ahmislan</li>
 		</allowedCultures>
 		<settlementTexturePath>Anneli_Factions/Anneli_Ahmislan</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_Ahmislan</factionIconPath>

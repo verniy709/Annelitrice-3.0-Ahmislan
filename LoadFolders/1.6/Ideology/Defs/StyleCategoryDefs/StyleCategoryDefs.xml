@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <StyleCategoryDef>
+    <defName>Anneli_Ahmislan_Style</defName>
+    <label>Anneli_Ahmislan</label>
+    <iconPath>Anneli_Factions/Anneli_Ahmislan</iconPath>
+    <thingDefStyles>
+      <li>
+        <thingDef>Bow_Great</thingDef>
+        <styleDef>Anneli_Ahmislan_Bow_Great</styleDef>
+      </li>
+      <li>
+        <thingDef>Bow_Short</thingDef>
+        <styleDef>Anneli_Ahmislan_Bow_Short</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_BreachAxe</thingDef>
+        <styleDef>Anneli_Ahmislan_MeleeWeapon_BreachAxe</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <thingDef>Flamebow</thingDef>
+        <styleDef>Anneli_Ahmislan_Flamebow</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Royalty">
+        <thingDef>MeleeWeapon_Axe</thingDef>
+        <styleDef>Anneli_Ahmislan_MeleeWeapon_Axe</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_Gladius</thingDef>
+        <styleDef>Anneli_Ahmislan_MeleeWeapon_Gladius</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_LongSword</thingDef>
+        <styleDef>Anneli_Ahmislan_MeleeWeapon_LongSword</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_Mace</thingDef>
+        <styleDef>Anneli_Ahmislan_MeleeWeapon_Mace</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Royalty">
+        <thingDef>MeleeWeapon_PsyfocusStaff</thingDef>
+        <styleDef>Anneli_Ahmislan_MeleeWeapon_PsyfocusStaff</styleDef>
+      </li>
+      <li>
+        <thingDef>MeleeWeapon_Spear</thingDef>
+        <styleDef>Anneli_Ahmislan_MeleeWeapon_Spear</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Royalty">
+        <thingDef>MeleeWeapon_Warhammer</thingDef>
+        <styleDef>Anneli_Ahmislan_MeleeWeapon_Warhammer</styleDef>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Anomaly">
+        <thingDef>NerveSpiker</thingDef>
+        <styleDef>Anneli_Ahmislan_NerveSpiker</styleDef>
+      </li>
+    </thingDefStyles>
+  </StyleCategoryDef>
+</Defs>

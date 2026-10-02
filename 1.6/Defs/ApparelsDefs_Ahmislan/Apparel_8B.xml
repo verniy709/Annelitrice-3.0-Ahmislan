@@ -80,7 +80,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 		<costStuffCount>100</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -167,7 +167,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 		<costStuffCount>100</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
