@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>
+      /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+      self::apparelRequired
+      or self::specificApparelRequirements
+      or self::apparelTags
+      or self::weaponTags
+      ]
+    </xpath>
+
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationRemove">
+          <xpath>
+            /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+            self::apparelRequired
+            or self::specificApparelRequirements
+            or self::apparelTags
+            or self::weaponTags
+            ]
+          </xpath>
+        </li>
+        
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+          <value>
+           <apparelRequired>
+            <li>Anneli_Ahmislan_Chemise</li>
+            <li>Anneli_Ahmislan_OverdressA</li>
+          </apparelRequired>
+          <specificApparelRequirements>
+            <li>
+              <bodyPartGroup>Feet</bodyPartGroup>
+              <apparelLayer>OnSkin</apparelLayer>
+              <requiredTag>Anneli_Ahmislan_Townsperson_FemaleB</requiredTag>
+            </li>
+            <li>
+              <bodyPartGroup>Feet</bodyPartGroup>
+              <apparelLayer>Middle</apparelLayer>
+              <requiredTag>Anneli_Ahmislan_Townsperson_FemaleB</requiredTag>
+            </li>
+          </specificApparelRequirements>
+          <apparelTags>
+            <li>Anneli_Ahmislan_Townsperson_FemaleB</li>
+          </apparelTags>
+          <weaponTags>
+            <li>Anneli_Ahmislan_Bow_Great</li>
+            <li>Anneli_Ahmislan_Bow_Short</li>
+            <li>Anneli_Ahmislan_Flamebow</li>
+            <li>Anneli_Ahmislan_NerveSpiker</li>
+          </weaponTags>
+        </value>
+      </li>
+    </operations>
+  </match>
+
+  <nomatch Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+    <value>
+      <apparelRequired>
+        <li>Anneli_Ahmislan_Chemise</li>
+        <li>Anneli_Ahmislan_OverdressA</li>
+      </apparelRequired>
+      <specificApparelRequirements>
+        <li>
+          <bodyPartGroup>Feet</bodyPartGroup>
+          <apparelLayer>OnSkin</apparelLayer>
+          <requiredTag>Anneli_Ahmislan_Townsperson_FemaleB</requiredTag>
+        </li>
+        <li>
+          <bodyPartGroup>Feet</bodyPartGroup>
+          <apparelLayer>Middle</apparelLayer>
+          <requiredTag>Anneli_Ahmislan_Townsperson_FemaleB</requiredTag>
+        </li>
+      </specificApparelRequirements>
+      <apparelTags>
+        <li>Anneli_Ahmislan_Townsperson_FemaleB</li>
+      </apparelTags>
+      <weaponTags>
+        <li>Anneli_Ahmislan_Bow_Great</li>
+        <li>Anneli_Ahmislan_Bow_Short</li>
+        <li>Anneli_Ahmislan_Flamebow</li>
+        <li>Anneli_Ahmislan_NerveSpiker</li>
+      </weaponTags>
+    </value>
+  </nomatch>
+</Operation>
+</Patch>
