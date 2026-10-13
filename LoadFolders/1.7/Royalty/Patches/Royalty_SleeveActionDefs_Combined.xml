@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <!-- Keep this file in its conditional load folder. The sequence completes each new behavior before defs are loaded. -->
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <!-- Job list: add new empty values to all listed sleeves and gloves. -->
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Ahmislan_KnightGauntlets_Left" or defName="Anneli_Ahmislan_KnightGauntlets_Right" or defName="Anneli_Ahmislan_LongLaceGloves_Left" or defName="Anneli_Ahmislan_LongLaceGloves_Right" or defName="Anneli_Arm_PauldronA_Left" or defName="Anneli_Arm_PauldronA_Right" or defName="Anneli_Arm_PauldronB_Left" or defName="Anneli_Arm_PauldronB_Right"]/behaviors</xpath>
+                <value>
+                    <li>
+                        <key>Reign</key>
+                        <value />
+                    </li>
+                    <li>
+                        <key>LinkPsylinkable</key>
+                        <value />
+                    </li>
+                    <li>
+                        <key>BestowingCeremony</key>
+                        <value />
+                    </li>
+                </value>
+            </li>
+            <!-- Common link settings: only the new empty values. -->
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Ahmislan_KnightGauntlets_Left" or defName="Anneli_Ahmislan_KnightGauntlets_Right" or defName="Anneli_Ahmislan_LongLaceGloves_Left" or defName="Anneli_Ahmislan_LongLaceGloves_Right" or defName="Anneli_Arm_PauldronA_Left" or defName="Anneli_Arm_PauldronA_Right" or defName="Anneli_Arm_PauldronB_Left" or defName="Anneli_Arm_PauldronB_Right"]/behaviors/li/value[not(*)]</xpath>
+                <value>
+                    <linkedWithAction>true</linkedWithAction>
+                    <type_originalDefName>NareisLib.HandTypeDef_Anneli_Arm_Generic</type_originalDefName>
+                    <linkedActionSyncDelta>0.2</linkedActionSyncDelta>
+                </value>
+            </li>
+            <!-- Texture settings: Anneli_Arm_PauldronA, both arms. Existing complete values are excluded. -->
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Arm_PauldronA_Left" or defName="Anneli_Arm_PauldronA_Right"]/behaviors/li/value[not(exPath)]</xpath>
+                <value>
+                    <exPath>Anneli_Arms/PauldronA/</exPath>
+                    <textures>
+                        <li>Anneli_Arm_PauldronA</li>
+                    </textures>
+                </value>
+            </li>
+            <!-- Texture settings: Anneli_Arm_PauldronB, both arms. Existing complete values are excluded. -->
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Arm_PauldronB_Left" or defName="Anneli_Arm_PauldronB_Right"]/behaviors/li/value[not(exPath)]</xpath>
+                <value>
+                    <exPath>Anneli_Arms/PauldronB/</exPath>
+                    <textures>
+                        <li>Anneli_Arm_PauldronB</li>
+                    </textures>
+                </value>
+            </li>
+            <!-- Texture settings: Anneli_Ahmislan_KnightGauntlets, both arms. Existing complete values are excluded. -->
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Ahmislan_KnightGauntlets_Left" or defName="Anneli_Ahmislan_KnightGauntlets_Right"]/behaviors/li/value[not(exPath)]</xpath>
+                <value>
+                    <exPath>Anneli_Gloves/KnightGauntlets/</exPath>
+                    <textures>
+                        <li>Anneli_Ahmislan_KnightGauntlets</li>
+                    </textures>
+                </value>
+            </li>
+            <!-- Texture settings: Anneli_Ahmislan_LongLaceGloves, both arms. Existing complete values are excluded. -->
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Ahmislan_LongLaceGloves_Left" or defName="Anneli_Ahmislan_LongLaceGloves_Right"]/behaviors/li/value[not(exPath)]</xpath>
+                <value>
+                    <exPath>Anneli_Gloves/LongLaceGloves/</exPath>
+                    <textures>
+                        <li>Anneli_Ahmislan_LongLaceGloves</li>
+                    </textures>
+                </value>
+            </li>
+            <!-- Arm link: Left. Existing complete values are excluded. -->
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Ahmislan_KnightGauntlets_Left" or defName="Anneli_Ahmislan_LongLaceGloves_Left" or defName="Anneli_Arm_PauldronA_Left" or defName="Anneli_Arm_PauldronB_Left"]/behaviors/li/value[not(textureLevelsName)]</xpath>
+                <value>
+                    <textureLevelsName>Anneli_Arm_Generic_Left</textureLevelsName>
+                </value>
+            </li>
+            <!-- Arm link: Right. Existing complete values are excluded. -->
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/NareisLib.ActionDef[defName="Anneli_Ahmislan_KnightGauntlets_Right" or defName="Anneli_Ahmislan_LongLaceGloves_Right" or defName="Anneli_Arm_PauldronA_Right" or defName="Anneli_Arm_PauldronB_Right"]/behaviors/li/value[not(textureLevelsName)]</xpath>
+                <value>
+                    <textureLevelsName>Anneli_Arm_Generic_Right</textureLevelsName>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
