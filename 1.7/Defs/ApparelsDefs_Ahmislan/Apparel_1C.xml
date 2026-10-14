@@ -131,17 +131,17 @@
 		</colorGenerator>
 	</ThingDef>
 
-	<!--Anneli_Ahmislan_ToelessSocks-->
+	<!--Anneli_Ahmislan_StirrupStockings-->
 	<ThingDef ParentName="Anneli_Ahmislan_1C">
-		<defName>Anneli_Ahmislan_ToelessSocks</defName>
+		<defName>Anneli_Ahmislan_StirrupStockings</defName>
 		<description>Dyeable.</description>
-		<label>(Ahmislan)1C_ToelessSocks</label>
+		<label>(Ahmislan)1C_StirrupStockings</label>
 		<graphicData>
-			<texPath>1C/Anneli_Ahmislan_ToelessSocks</texPath>
+			<texPath>1C/Anneli_Ahmislan_StirrupStockings</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Ahmislan_ToelessSocks</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Ahmislan_StirrupStockings</wornGraphicPath>
 			<tags>
 				<li>Anneli_Ahmislan_NobleA</li> 
 				<li>Anneli_Ahmislan_NobleB</li> 
