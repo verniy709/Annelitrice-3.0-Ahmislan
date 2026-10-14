@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Sword. -->
-  <Anneli_Ahmislan_CrystalWing.comps.CompVerbGiver.verbProps.Sword.description>发射飞剑。</Anneli_Ahmislan_CrystalWing.comps.CompVerbGiver.verbProps.Sword.description>
+  <Anneli_Ahmislan_CrystalWing.comps.Comp_VerbGiver.verbProps.0.description>飞剑</Anneli_Ahmislan_CrystalWing.comps.Comp_VerbGiver.verbProps.0.description>
   <!-- EN: Sword -->
-  <Anneli_Ahmislan_CrystalWing.comps.CompVerbGiver.verbProps.Sword.label>飞剑</Anneli_Ahmislan_CrystalWing.comps.CompVerbGiver.verbProps.Sword.label>
+  <Anneli_Ahmislan_CrystalWing.comps.Comp_VerbGiver.verbProps.0.label>飞剑</Anneli_Ahmislan_CrystalWing.comps.Comp_VerbGiver.verbProps.0.label>
   <!-- EN: Not dyeable. -->
-  <Anneli_Ahmislan_CrystalWing.description>不可染色。</Anneli_Ahmislan_CrystalWing.description>
+  <Anneli_Ahmislan_CrystalWing.description>不可染色.</Anneli_Ahmislan_CrystalWing.description>
   <!-- EN: (Ahmislan)8B_CrystalWing -->
   <Anneli_Ahmislan_CrystalWing.label>(艾米斯兰)8B_水晶剑翼</Anneli_Ahmislan_CrystalWing.label>
   <!-- EN: Sword -->
   <Anneli_Ahmislan_CrystalWing.verbs.Sword.label>飞剑</Anneli_Ahmislan_CrystalWing.verbs.Sword.label>
   <!-- EN: Sword. -->
-  <Anneli_Ahmislan_SwordWing.comps.CompVerbGiver.verbProps.Sword.description>发射飞剑。</Anneli_Ahmislan_SwordWing.comps.CompVerbGiver.verbProps.Sword.description>
+  <Anneli_Ahmislan_SwordWing.comps.Comp_VerbGiver.verbProps.0.description>飞剑</Anneli_Ahmislan_SwordWing.comps.Comp_VerbGiver.verbProps.0.description>
   <!-- EN: Sword -->
-  <Anneli_Ahmislan_SwordWing.comps.CompVerbGiver.verbProps.Sword.label>飞剑</Anneli_Ahmislan_SwordWing.comps.CompVerbGiver.verbProps.Sword.label>
+  <Anneli_Ahmislan_SwordWing.comps.Comp_VerbGiver.verbProps.0.label>飞剑</Anneli_Ahmislan_SwordWing.comps.Comp_VerbGiver.verbProps.0.label>
   <!-- EN: Dyeable. -->
-  <Anneli_Ahmislan_SwordWing.description>可染色。</Anneli_Ahmislan_SwordWing.description>
+  <Anneli_Ahmislan_SwordWing.description>可染色.</Anneli_Ahmislan_SwordWing.description>
   <!-- EN: (Ahmislan)8B_SwordWing -->
   <Anneli_Ahmislan_SwordWing.label>(艾米斯兰)8B_剑翼</Anneli_Ahmislan_SwordWing.label>
   <!-- EN: Sword -->
