@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Ahmislan_Backpack -->
+
+  <Anneli_Ahmislan_Backpack.label>(艾米斯兰)7_背包</Anneli_Ahmislan_Backpack.label>
+  <Anneli_Ahmislan_Backpack.description>可染色.</Anneli_Ahmislan_Backpack.description>
+
+
+  <!-- Anneli_Ahmislan_Bascket -->
+
+  <Anneli_Ahmislan_Bascket.label>(艾米斯兰)7_篮子</Anneli_Ahmislan_Bascket.label>
+  <Anneli_Ahmislan_Bascket.description>可染色.</Anneli_Ahmislan_Bascket.description>
+
+
+  <!-- Anneli_Ahmislan_Sack -->
+
+  <Anneli_Ahmislan_Sack.label>(艾米斯兰)7_麻袋</Anneli_Ahmislan_Sack.label>
+  <Anneli_Ahmislan_Sack.description>可染色.</Anneli_Ahmislan_Sack.description>
+
+
+</LanguageData>

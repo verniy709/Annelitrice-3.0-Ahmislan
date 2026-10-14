@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Ahmislan_Socks -->
+
+  <Anneli_Ahmislan_Socks.label>(艾米斯兰)1C_袜子</Anneli_Ahmislan_Socks.label>
+  <Anneli_Ahmislan_Socks.description>可染色.</Anneli_Ahmislan_Socks.description>
+
+
+  <!-- Anneli_Ahmislan_Stockings -->
+
+  <Anneli_Ahmislan_Stockings.label>(艾米斯兰)1C_长袜</Anneli_Ahmislan_Stockings.label>
+  <Anneli_Ahmislan_Stockings.description>可染色.</Anneli_Ahmislan_Stockings.description>
+
+
+  <!-- Anneli_Ahmislan_RuffledStockings -->
+
+  <Anneli_Ahmislan_RuffledStockings.label>(艾米斯兰)1C_褶边长袜</Anneli_Ahmislan_RuffledStockings.label>
+  <Anneli_Ahmislan_RuffledStockings.description>可染色.</Anneli_Ahmislan_RuffledStockings.description>
+
+
+  <!-- Anneli_Ahmislan_LegGarter -->
+
+  <Anneli_Ahmislan_LegGarter.label>(艾米斯兰)1C_腿绑带</Anneli_Ahmislan_LegGarter.label>
+  <Anneli_Ahmislan_LegGarter.description>可染色.</Anneli_Ahmislan_LegGarter.description>
+
+
+  <!-- Anneli_Ahmislan_ToelessSocks -->
+
+  <Anneli_Ahmislan_ToelessSocks.label>(艾米斯兰)1C_露趾袜</Anneli_Ahmislan_ToelessSocks.label>
+  <Anneli_Ahmislan_ToelessSocks.description>可染色.</Anneli_Ahmislan_ToelessSocks.description>
+
+
+</LanguageData>

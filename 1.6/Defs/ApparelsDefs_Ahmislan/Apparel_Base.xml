@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingCategoryDef>
+		<defName>Anneli_Category_Ahmislan</defName>
+		<parent>Apparel</parent>
+		<label>Annelitrice Ahmislan Apparels</label>
+	</ThingCategoryDef>
+	
+</Defs>

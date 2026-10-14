@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Ahmislan_ChestWrap -->
+
+  <Anneli_Ahmislan_ChestWrap.label>(艾米斯兰)1A_裹胸布</Anneli_Ahmislan_ChestWrap.label>
+  <Anneli_Ahmislan_ChestWrap.description>可染色.</Anneli_Ahmislan_ChestWrap.description>
+
+
+  <!-- Anneli_Ahmislan_StraplessBra -->
+
+  <Anneli_Ahmislan_StraplessBra.label>(艾米斯兰)1A_无肩带胸罩</Anneli_Ahmislan_StraplessBra.label>
+  <Anneli_Ahmislan_StraplessBra.description>可染色.</Anneli_Ahmislan_StraplessBra.description>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Ahmislan_Banner -->
+
+  <Anneli_Ahmislan_Banner.label>(艾米斯兰)8A_圣旗</Anneli_Ahmislan_Banner.label>
+  <Anneli_Ahmislan_Banner.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_Banner.description>
+  <Anneli_Ahmislan_Banner.tools.0.label>矛头</Anneli_Ahmislan_Banner.tools.0.label>
+
+
+  <!-- Anneli_Ahmislan_WarFlag -->
+
+  <Anneli_Ahmislan_WarFlag.label>(艾米斯兰)8A_战旗</Anneli_Ahmislan_WarFlag.label>
+  <Anneli_Ahmislan_WarFlag.description>可染色. 但是盾牌染色有bug.</Anneli_Ahmislan_WarFlag.description>
+  <Anneli_Ahmislan_WarFlag.tools.0.label>矛头</Anneli_Ahmislan_WarFlag.tools.0.label>
+
+
+</LanguageData>

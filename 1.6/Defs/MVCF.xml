@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <MVCF.ModDef>
+        <defName>Anneli_Ahmislan_MVCD</defName>
+        <label>Anneli_Ahmislan_MVCD</label>
+        <description>Anneli_Ahmislan_MVCD</description>
+        <ActivateFeatures>
+            <li>Drawing</li>
+            <li>ApparelVerbs</li>
+            <li>IndependentFire</li>
+            <li>IntegratedToggle</li>
+        </ActivateFeatures>
+    </MVCF.ModDef>
+</Defs>

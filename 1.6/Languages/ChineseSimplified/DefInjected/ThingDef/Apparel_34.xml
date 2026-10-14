@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Ahmislan_ArmorA -->
+
+  <Anneli_Ahmislan_ArmorA.label>(艾米斯兰)34_护甲A</Anneli_Ahmislan_ArmorA.label>
+  <Anneli_Ahmislan_ArmorA.description>可染色.</Anneli_Ahmislan_ArmorA.description>
+
+
+  <!-- Anneli_Ahmislan_ArmorB -->
+
+  <Anneli_Ahmislan_ArmorB.label>(艾米斯兰)34_护甲B</Anneli_Ahmislan_ArmorB.label>
+  <Anneli_Ahmislan_ArmorB.description>可染色.</Anneli_Ahmislan_ArmorB.description>
+
+
+  <!-- Anneli_Ahmislan_ArmorC -->
+
+  <Anneli_Ahmislan_ArmorC.label>(艾米斯兰)34_护甲C</Anneli_Ahmislan_ArmorC.label>
+  <Anneli_Ahmislan_ArmorC.description>可染色.</Anneli_Ahmislan_ArmorC.description>
+
+
+  <!-- Anneli_Ahmislan_ArmorD -->
+
+  <Anneli_Ahmislan_ArmorD.label>(艾米斯兰)34_护甲D</Anneli_Ahmislan_ArmorD.label>
+  <Anneli_Ahmislan_ArmorD.description>可染色.</Anneli_Ahmislan_ArmorD.description>
+
+
+</LanguageData>

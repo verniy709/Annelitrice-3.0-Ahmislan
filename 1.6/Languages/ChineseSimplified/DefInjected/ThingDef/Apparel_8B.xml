@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Ahmislan_Sword_Bullet -->
+
+  <Anneli_Ahmislan_Sword_Bullet.label>飞剑</Anneli_Ahmislan_Sword_Bullet.label>
+
+
+  <!-- Anneli_Ahmislan_Sword_Sound -->
+
+  <Anneli_Ahmislan_CrystalWing.label>(艾米斯兰)8B_水晶剑翼</Anneli_Ahmislan_CrystalWing.label>
+  <Anneli_Ahmislan_CrystalWing.description>不可染色.</Anneli_Ahmislan_CrystalWing.description>
+  <Anneli_Ahmislan_CrystalWing.comps.0.verbProps.0.label>飞剑</Anneli_Ahmislan_CrystalWing.comps.0.verbProps.0.label>
+  <Anneli_Ahmislan_CrystalWing.comps.0.verbProps.0.description>飞剑.</Anneli_Ahmislan_CrystalWing.comps.0.verbProps.0.description>
+  <Anneli_Ahmislan_CrystalWing.verbs.0.label>飞剑</Anneli_Ahmislan_CrystalWing.verbs.0.label>
+
+  <Anneli_Ahmislan_SwordWing.label>(艾米斯兰)8B_剑翼</Anneli_Ahmislan_SwordWing.label>
+  <Anneli_Ahmislan_SwordWing.description>可染色.</Anneli_Ahmislan_SwordWing.description>
+  <Anneli_Ahmislan_SwordWing.comps.0.verbProps.0.label>飞剑</Anneli_Ahmislan_SwordWing.comps.0.verbProps.0.label>
+  <Anneli_Ahmislan_SwordWing.comps.0.verbProps.0.description>飞剑.</Anneli_Ahmislan_SwordWing.comps.0.verbProps.0.description>
+  <Anneli_Ahmislan_SwordWing.verbs.0.label>飞剑</Anneli_Ahmislan_SwordWing.verbs.0.label>
+
+
+</LanguageData>
