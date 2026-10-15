@@ -108,11 +108,11 @@
 		<description>Dyeable.</description>
 		<label>(Ahmislan)3_Overdress</label>
 		<graphicData>
-			<texPath>3/Anneli_Ahmislan_Overdress</texPath>
+			<texPath>3/Anneli_Ahmislan_OverdressA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>3/Anneli_Ahmislan_Overdress</wornGraphicPath>
+			<wornGraphicPath>3/Anneli_Ahmislan_OverdressA</wornGraphicPath>
 			<tags>
 				<li>Anneli_Ahmislan_Townsperson_F_B</li>
 			</tags>

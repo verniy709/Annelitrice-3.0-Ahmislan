@@ -143,11 +143,11 @@
 		<description>Dyeable.</description>
 		<label>(Ahmislan)1C_ToelessSocks</label>
 		<graphicData>
-			<texPath>1C/Anneli_Ahmislan_ToelessSocks</texPath>
+			<texPath>1C/Anneli_Ahmislan_StirrupStockings</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1C/Anneli_Ahmislan_ToelessSocks</wornGraphicPath>
+			<wornGraphicPath>1C/Anneli_Ahmislan_StirrupStockings</wornGraphicPath>
 			<tags>
 				<li>Anneli_Underwear</li>
 				<li>Anneli_Ahmislan_Nun_A</li>

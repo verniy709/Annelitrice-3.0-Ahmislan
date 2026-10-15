@@ -54,11 +54,11 @@
 		<description>Dyeable.</description>
 		<label>(Ahmislan)7_Bascket</label>
 		<graphicData>
-			<texPath>7/Anneli_Ahmislan_Bascket</texPath>
+			<texPath>7/Anneli_Ahmislan_Basket</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>7/Anneli_Ahmislan_Bascket</wornGraphicPath>
+			<wornGraphicPath>7/Anneli_Ahmislan_Basket</wornGraphicPath>
 			<tags>
 				<li>Anneli_Ahmislan_Farmer_F</li>
 				<li>Anneli_Ahmislan_Maid_A</li>
